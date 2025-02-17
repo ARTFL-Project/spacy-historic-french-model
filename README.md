@@ -1,5 +1,5 @@
 # spacy-historic-french-model
-A SpaCy French model for 16th-21st century French
+A SpaCy French model for 16th-20th century French
 
 This model was trained on a corpus of 50,000 sentences derived from ARTFL-Frantext, and automatically annotated by GPT4. 
 
