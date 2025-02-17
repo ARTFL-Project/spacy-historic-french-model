@@ -14,7 +14,7 @@ The model only supports lemmatization, and corse and fine-grained POS tagging (t
 tar -xzf historic-french-model.tar.gz
 ```
 
-The load the model (ensure you have the correct path to the historic-french-model folder):
+Then load the model (ensure you have the correct path to the historic-french-model folder):
 ```python
 import spacy
 
