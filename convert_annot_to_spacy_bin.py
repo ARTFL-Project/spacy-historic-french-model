@@ -7,6 +7,8 @@ from tqdm import tqdm
 
 TRAIN_DB = DocBin()
 DEV_DB = DocBin()
+TEST_DB = DocBin()
+PERIOD_DB = {f"{i}-{i + 100}": DocBin() for i in range(1500, 2000, 100)}
 NLP = spacy.load("fr_dep_news_trf")
 
 
@@ -161,7 +163,7 @@ def fix_lemma(lemma: str) -> str:
     return lemma
 
 
-def convert_to_spacy(examples, sent_type="train"):
+def convert_to_spacy(examples, sent_type="train", period=None):
     for example in tqdm(examples, total=len(examples)):
         tokens = example["annotations"]["tokens"]
         try:
@@ -198,15 +200,20 @@ def convert_to_spacy(examples, sent_type="train"):
 
         if sent_type == "train":
             TRAIN_DB.add(doc)
-        else:
+        elif sent_type == "dev":
             DEV_DB.add(doc)
+        elif sent_type == "test":
+            TEST_DB.add(doc)
+
+        if period is not None:
+            PERIOD_DB[period].add(doc)
 
 
 if __name__ == "__main__":
     training_sentences = []
     dev_sentences = []
     for period in [(1500, 1600), (1600, 1700), (1700, 1800), (1800, 1900), (1900, 2000)]:
-        with jsonlines.open(f"annotations_{period[0]}-{period[1]}.jsonl") as reader:
+        with jsonlines.open(f"training_data/annotations_{period[0]}-{period[1]}.jsonl") as reader:
             sentences = list(reader)
             training_sents = augment_rare_categories(sentences[: int(0.85 * len(sentences))])
             training_sentences.extend(training_sents)
@@ -220,3 +227,13 @@ if __name__ == "__main__":
     convert_to_spacy(dev_sentences, sent_type="dev")
     TRAIN_DB.to_disk("data/train.spacy")
     DEV_DB.to_disk("data/dev.spacy")
+    test_sentences = []
+    for period in [(1500, 1600), (1600, 1700), (1700, 1800), (1800, 1900), (1900, 2000)]:
+        with jsonlines.open(f"training_data/annotations_{period[0]}-{period[1]}_test_set.jsonl") as reader:
+            sentences = list(reader)
+            convert_to_spacy(sentences, sent_type="test", period=f"{period[0]}-{period[1]}")
+            test_sentences.extend(sentences)
+    convert_to_spacy(test_sentences, sent_type="test")
+    TEST_DB.to_disk("data/test.spacy")
+    for period, db in PERIOD_DB.items():
+        db.to_disk(f"data/{period}_test.spacy")
