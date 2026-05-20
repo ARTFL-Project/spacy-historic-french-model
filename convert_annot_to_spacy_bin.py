@@ -1,4 +1,5 @@
 import random
+from pathlib import Path
 
 import jsonlines
 import spacy
@@ -225,15 +226,19 @@ if __name__ == "__main__":
 
     convert_to_spacy(training_sentences, sent_type="train")
     convert_to_spacy(dev_sentences, sent_type="dev")
-    TRAIN_DB.to_disk("data/train.spacy")
-    DEV_DB.to_disk("data/dev.spacy")
+    TRAIN_DB.to_disk("training_space/data/train.spacy")
+    DEV_DB.to_disk("training_space/data/dev.spacy")
     test_sentences = []
     for period in [(1500, 1600), (1600, 1700), (1700, 1800), (1800, 1900), (1900, 2000)]:
-        with jsonlines.open(f"training_data/annotations_{period[0]}-{period[1]}_test_set.jsonl") as reader:
+        test_file = f"test_data/annotations_{period[0]}-{period[1]}_test_set.jsonl"
+        if not Path(test_file).exists():
+            print(f"Warning: {test_file} not found, skipping")
+            continue
+        with jsonlines.open(test_file) as reader:
             sentences = list(reader)
             convert_to_spacy(sentences, sent_type="test", period=f"{period[0]}-{period[1]}")
             test_sentences.extend(sentences)
     convert_to_spacy(test_sentences, sent_type="test")
-    TEST_DB.to_disk("data/test.spacy")
+    TEST_DB.to_disk("training_space/data/test.spacy")
     for period, db in PERIOD_DB.items():
-        db.to_disk(f"data/{period}_test.spacy")
+        db.to_disk(f"training_space/data/{period}_test.spacy")
