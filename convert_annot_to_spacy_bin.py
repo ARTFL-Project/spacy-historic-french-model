@@ -244,8 +244,14 @@ if __name__ == "__main__":
     for period, db in PERIOD_DB.items():
         db.to_disk(output_dir / f"{period}_test.spacy")
 
-    # Hand-validated sentences, kept as annotated (no automatic label fixes)
-    for validated_file in sorted(Path("validated_test_data/validated_jsonl").glob("*.jsonl")):
-        with jsonlines.open(validated_file) as reader:
-            convert_to_spacy(list(reader), sent_type="validated")
-    VALIDATED_DB.to_disk(output_dir / "validated_test.spacy")
+    # Hand-validated sentences, kept as annotated (no automatic label fixes). The second set
+    # (*_test_set_2) is kept separate: it plays no part in tuning the label rules.
+    for pattern, output_name in (("*_test_set.jsonl", "validated_test.spacy"), ("*_test_set_2.jsonl", "validated_test_2.spacy")):
+        validated_files = sorted(Path("validated_test_data/validated_jsonl").glob(pattern))
+        if not validated_files:
+            continue
+        VALIDATED_DB = DocBin()
+        for validated_file in validated_files:
+            with jsonlines.open(validated_file) as reader:
+                convert_to_spacy(list(reader), sent_type="validated")
+        VALIDATED_DB.to_disk(output_dir / output_name)

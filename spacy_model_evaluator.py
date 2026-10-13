@@ -14,9 +14,12 @@ spacy.require_gpu()
 MODELS = {
     "fr_dep_news_trf": "fr_dep_news_trf",
     "historic-french-model": "historic-french-model",
+    "relabeled": "training_space/models_relabeled/model-best",
+    "relabeled + conventions": "training_space/models_relabeled_v2/model-best",
 }
 DEV_DATA_PATH = "training_space/data/test.spacy"
 VALIDATED_TEST_PATH = "training_space/data/validated_test.spacy"
+VALIDATED_TEST_2_PATH = "training_space/data/validated_test_2.spacy"
 SEQUOIA_TEST_PATH = "fr_sequoia-ud-test.conllu"
 
 # Define century test paths
@@ -137,7 +140,8 @@ def main():
     # Load evaluation data
     print("Loading evaluation data...")
     vocab = spacy.blank("fr").vocab
-    datasets = {"Hand-validated": VALIDATED_TEST_PATH, "1500-2000": DEV_DATA_PATH, **CENTURY_TEST_PATHS}
+    datasets = {"Hand-validated": VALIDATED_TEST_PATH, "Gold set 2": VALIDATED_TEST_2_PATH, "1500-2000": DEV_DATA_PATH, **CENTURY_TEST_PATHS}
+    datasets = {name: path for name, path in datasets.items() if Path(path).exists()}
     docs = {name: load_evaluation_data(vocab, path) for name, path in datasets.items()}
 
     # Store all results in a dictionary for table display

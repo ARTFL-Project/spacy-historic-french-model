@@ -1,0 +1,894 @@
+================================================================================
+SENTENCE 1
+================================================================================
+TEXT: Enfin à force de remèdes, de ce que l'on appelle remèdes, dont on compterait aussi tôt le nombre que celui des sables de la mer, je me suis trouvée guérie le vendredi.
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     Enfin                ADV        ADV        enfin                advmod          O
+1     à                    ADP        P          à                    case            O
+2     force                NOUN       NC         force                obl             O
+3     de                   ADP        P          de                   case            O
+4     remèdes              NOUN       NC         remède               nmod            O
+5     ,                    PUNCT      PONCT      ,                    punct           O
+6     de                   ADP        P          de                   case            O
+7     ce                   PRON       PRO        ce                   det             O
+8     que                  PRON       PROREL     que                  obj             O
+9     l'                   PART       ADV        l'                   det             O
+10    on                   PRON       CLS        on                   nsubj           O
+11    appelle              VERB       V          appeler              acl:relcl       O
+12    remèdes              NOUN       NC         remède               obj             O
+13    ,                    PUNCT      PONCT      ,                    punct           O
+14    dont                 PRON       PROREL     dont                 nmod            O
+15    on                   PRON       CLS        on                   nsubj           O
+16    compterait           VERB       V          compter              acl:relcl       O
+17    aussi                ADV        ADV        aussi                advmod          O
+18    tôt                  ADV        ADV        tôt                  advmod          O
+19    le                   DET        DET        le                   det             O
+20    nombre               NOUN       NC         nombre               obj             O
+21    que                  SCONJ      CS         que                  mark            O
+22    celui                PRON       PRO        celui                obj             O
+23    des                  ADP        P+D        de                   case            O
+24    sables               NOUN       NC         sable                nmod            O
+25    de                   ADP        P          de                   case            O
+26    la                   DET        DET        le                   det             O
+27    mer                  NOUN       NC         mer                  nmod            O
+28    ,                    PUNCT      PONCT      ,                    punct           O
+29    je                   PRON       CLS        je                   nsubj           O
+30    me                   PRON       CLR        me                   obj             O
+31    suis                 AUX        V          être                 aux             O
+32    trouvée              VERB       VPP        trouver              ccomp           O
+33    guérie               ADJ        ADJ        guéri                xcomp           O
+34    le                   DET        DET        le                   det             O
+35    vendredi             NOUN       NC         vendredi             obl             O
+36    .                    PUNCT      PONCT      .                    punct           O
+
+================================================================================
+SENTENCE 2
+================================================================================
+TEXT: La vertu qui peut icy-bas arrester sa vengeance, et desarmer son bras, n'a-t-elle dans les cieux qu'une pitié frivole ?
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     La                   DET        DET        le                   det             O
+1     vertu                NOUN       NC         vertu                nsubj           O
+2     qui                  PRON       PROREL     qui                  nsubj           O
+3     peut                 VERB       V          pouvoir              aux             O
+4     icy-bas              ADV        ADV        ici-bas              advmod          O
+5     arrester             VERB       VINF       arrêter              xcomp           O
+6     sa                   DET        DET        son                  det             O
+7     vengeance            NOUN       NC         vengeance            obj             O
+8     ,                    PUNCT      PONCT      ,                    punct           O
+9     et                   CCONJ      CC         et                   cc              O
+10    desarmer             VERB       VINF       désarmer             conj            O
+11    son                  DET        DET        son                  det             O
+12    bras                 NOUN       NC         bras                 obj             O
+13    ,                    PUNCT      PONCT      ,                    punct           O
+14    n'                   PART       ADV        ne                   advmod          O
+15    a                    VERB       V          avoir                aux             O
+16    -t                   X          X          t                    expl            O
+17    -elle                PRON       CLS        elle                 nsubj           O
+18    dans                 ADP        P          dans                 case            O
+19    les                  DET        DET        le                   det             O
+20    cieux                NOUN       NC         ciel                 obl             O
+21    qu'                  ADV        ADV        que                  mark            O
+22    une                  DET        DET        un                   det             O
+23    pitié                NOUN       NC         pitié                obj             O
+24    frivole              ADJ        ADJ        frivole              amod            O
+25    ?                    PUNCT      PONCT      ?                    punct           O
+
+================================================================================
+SENTENCE 3
+================================================================================
+TEXT: À une seule chose, qui est d'aimer Dieu, ce père céleste dont nous sommes les enfants.
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     À                    ADP        P          à                    case            O
+1     une                  DET        DET        un                   det             O
+2     seule                ADJ        ADJ        seul                 amod            O
+3     chose                NOUN       NC         chose                obl             O
+4     ,                    PUNCT      PONCT      ,                    punct           O
+5     qui                  PRON       PROREL     qui                  nsubj           O
+6     est                  AUX        V          être                 cop             O
+7     d'                   ADP        P          de                   mark            O
+8     aimer                VERB       VINF       aimer                xcomp           O
+9     Dieu                 PROPN      NPP        Dieu                 obj             B-PER
+10    ,                    PUNCT      PONCT      ,                    punct           O
+11    ce                   DET        DET        ce                   det             O
+12    père                 NOUN       NC         père                 appos           O
+13    céleste              ADJ        ADJ        céleste              amod            O
+14    dont                 PRON       PROREL     dont                 nmod            O
+15    nous                 PRON       CLS        nous                 nsubj           O
+16    sommes               AUX        V          être                 cop             O
+17    les                  DET        DET        le                   det             O
+18    enfants              NOUN       NC         enfant               attr            O
+19    .                    PUNCT      PONCT      .                    punct           O
+
+================================================================================
+SENTENCE 4
+================================================================================
+TEXT: Il n'y a rien de plus important à l'homme que le choix d'un état, qui doit régler tous les emplois de sa vie, et duquel dépend son éternité.
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     Il                   PRON       CLS        il                   nsubj           O
+1     n'                   PART       ADV        ne                   neg             O
+2     y                    PRON       CLO        y                    expl            O
+3     a                    VERB       V          avoir                ROOT            O
+4     rien                 PRON       PRO        rien                 obj             O
+5     de                   ADP        P          de                   case            O
+6     plus                 ADV        ADV        plus                 advmod          O
+7     important            ADJ        ADJ        important            amod            O
+8     à                    ADP        P          à                    case            O
+9     l'                   DET        DET        le                   det             O
+10    homme                NOUN       NC         homme                obl             O
+11    que                  SCONJ      CS         que                  mark            O
+12    le                   DET        DET        le                   det             O
+13    choix                NOUN       NC         choix                nsubj           O
+14    d'                   ADP        P          de                   case            O
+15    un                   DET        DET        un                   det             O
+16    état                 NOUN       NC         état                 nmod            O
+17    ,                    PUNCT      PONCT      ,                    punct           O
+18    qui                  PRON       PROREL     qui                  nsubj           O
+19    doit                 VERB       V          devoir               aux             O
+20    régler               VERB       VINF       régler               acl:relcl       O
+21    tous                 DET        DET        tout                 det             O
+22    les                  DET        DET        le                   det             O
+23    emplois              NOUN       NC         emploi               obj             O
+24    de                   ADP        P          de                   case            O
+25    sa                   DET        DET        son                  det             O
+26    vie                  NOUN       NC         vie                  nmod            O
+27    ,                    PUNCT      PONCT      ,                    punct           O
+28    et                   CCONJ      CC         et                   cc              O
+29    duquel               ADP        P+PRO      de                   obl             O
+30    dépend               VERB       V          dépendre             acl:relcl       O
+31    son                  DET        DET        son                  det             O
+32    éternité             NOUN       NC         éternité             nsubj           O
+33    .                    PUNCT      PONCT      .                    punct           O
+
+================================================================================
+SENTENCE 5
+================================================================================
+TEXT: Moi, dans mon coeur étant bien-aise : Ah, mon Dieu que j’étois niaise, J’ai fait, Monsieur, tout bonnement, Selon son beau commandement, J’ai dépouillé pour cette duppe, Ma premiere seconde juppe, J’ai mis mes hardes dans ses mains ?
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     Moi                  PRON       PRO        moi                  nsubj           O
+1     ,                    PUNCT      PONCT      ,                    punct           O
+2     dans                 ADP        P          dans                 case            O
+3     mon                  DET        DET        mon                  det             O
+4     coeur                NOUN       NC         cœur                 obl             O
+5     étant                AUX        VPR        être                 advcl           O
+6     bien-aise            ADJ        ADJ        bien-aise            acomp           O
+7     :                    PUNCT      PONCT      :                    punct           O
+8     Ah                   INTJ       I          ah                   discourse       O
+9     ,                    PUNCT      PONCT      ,                    punct           O
+10    mon                  DET        DET        mon                  det             O
+11    Dieu                 PROPN      NPP        Dieu                 vocative        O
+12    que                  ADV        ADV        que                  mark            O
+13    j’                   PRON       CLS        je                   nsubj           O
+14    étois                AUX        V          être                 cop             O
+15    niaise               ADJ        ADJ        niais                ccomp           O
+16    ,                    PUNCT      PONCT      ,                    punct           O
+17    J’                   PRON       CLS        je                   nsubj           O
+18    ai                   AUX        V          avoir                aux             O
+19    fait                 VERB       VPP        faire                root            O
+20    ,                    PUNCT      PONCT      ,                    punct           O
+21    Monsieur             NOUN       NC         monsieur             vocative        O
+22    ,                    PUNCT      PONCT      ,                    punct           O
+23    tout                 ADV        ADV        tout                 advmod          O
+24    bonnement            ADV        ADV        bonnement            advmod          O
+25    ,                    PUNCT      PONCT      ,                    punct           O
+26    Selon                ADP        P          selon                case            O
+27    son                  DET        DET        son                  det             O
+28    beau                 ADJ        ADJ        beau                 amod            O
+29    commandement         NOUN       NC         commandement         obl             O
+30    ,                    PUNCT      PONCT      ,                    punct           O
+31    J’                   PRON       CLS        je                   nsubj           O
+32    ai                   AUX        V          avoir                aux             O
+33    dépouillé            VERB       VPP        dépouiller           root            O
+34    pour                 ADP        P          pour                 mark            O
+35    cette                DET        DET        ce                   det             O
+36    duppe                NOUN       NC         dupe                 obl             O
+37    ,                    PUNCT      PONCT      ,                    punct           O
+38    Ma                   DET        DET        mon                  det             O
+39    premiere             ADJ        ADJ        premier              amod            O
+40    seconde              ADJ        ADJ        second               amod            O
+41    juppe                NOUN       NC         jupe                 obj             O
+42    ,                    PUNCT      PONCT      ,                    punct           O
+43    J’                   PRON       CLS        je                   nsubj           O
+44    ai                   AUX        V          avoir                aux             O
+45    mis                  VERB       VPP        mettre               root            O
+46    mes                  DET        DET        mon                  det             O
+47    hardes               NOUN       NC         harde                obj             O
+48    dans                 ADP        P          dans                 case            O
+49    ses                  DET        DET        son                  det             O
+50    mains                NOUN       NC         main                 obl             O
+51    ?                    PUNCT      PONCT      ?                    punct           O
+
+================================================================================
+SENTENCE 6
+================================================================================
+TEXT: Et en effet, Cyrus ne manqua pas à sa parole : car apres avoir employé tout le reste du jour, et le commencement de la nuit, aux ordres qu'il avoit à donner; il se retira un peu plustost qu'il n'avoit accoustumé.
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     Et                   CCONJ      CC         et                   cc              O
+1     en                   ADP        P          en                   case            O
+2     effet                NOUN       NC         effet                obl             O
+3     ,                    PUNCT      PONCT      ,                    punct           O
+4     Cyrus                PROPN      NPP        Cyrus                nsubj           O
+5     ne                   PART       ADV        ne                   advmod          O
+6     manqua               VERB       V          manquer              ROOT            O
+7     pas                  ADV        ADV        pas                  advmod          O
+8     à                    ADP        P          à                    case            O
+9     sa                   DET        DET        son                  det             O
+10    parole               NOUN       NC         parole               obl             O
+11    :                    PUNCT      PONCT      :                    punct           O
+12    car                  CCONJ      CC         car                  mark            O
+13    apres                ADP        P          après                case            O
+14    avoir                AUX        VINF       avoir                aux             O
+15    employé              VERB       VPP        employer             advcl           O
+16    tout                 DET        DET        tout                 det             O
+17    le                   DET        DET        le                   det             O
+18    reste                NOUN       NC         reste                obj             O
+19    du                   ADP        P+D        de                   case            O
+20    jour                 NOUN       NC         jour                 obl             O
+21    ,                    PUNCT      PONCT      ,                    punct           O
+22    et                   CCONJ      CC         et                   cc              O
+23    le                   DET        DET        le                   det             O
+24    commencement         NOUN       NC         commencement         obj             O
+25    de                   ADP        P          de                   case            O
+26    la                   DET        DET        le                   det             O
+27    nuit                 NOUN       NC         nuit                 obl             O
+28    ,                    PUNCT      PONCT      ,                    punct           O
+29    aux                  ADP        P+D        à                    case            O
+30    ordres               NOUN       NC         ordre                obl             O
+31    qu'                  PRON       PROREL     que                  obj             O
+32    il                   PRON       CLS        il                   nsubj           O
+33    avoit                VERB       V          avoir                aux             O
+34    à                    ADP        P          à                    mark            O
+35    donner               VERB       VINF       donner               xcomp           O
+36    ;                    PUNCT      PONCT      ;                    punct           O
+37    il                   PRON       CLS        il                   nsubj           O
+38    se                   PRON       CLR        se                   expl            O
+39    retira               VERB       V          retirer              conj            O
+40    un                   DET        DET        un                   det             O
+41    peu                  ADV        ADV        peu                  advmod          O
+42    plustost             ADV        ADV        plutôt               advmod          O
+43    qu'                  SCONJ      CS         que                  mark            O
+44    il                   PRON       CLS        il                   nsubj           O
+45    n'                   PART       ADV        ne                   advmod          O
+46    avoit                AUX        V          avoir                aux             O
+47    accoustumé           VERB       VPP        accoutumer           ccomp           O
+48    .                    PUNCT      PONCT      .                    punct           O
+
+================================================================================
+SENTENCE 7
+================================================================================
+TEXT: Genest Si d'un heureux advis, vos esprits sont capables, partagez ce forfait, rendez-vous en coupables; et vous reconnoistrez, s'il est un heur plus doux, que la mort, qu'en effet je vous souhaitte à tous.
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     Genest               PROPN      NPP        Genest               vocative        O
+1     Si                   SCONJ      CS         si                   mark            O
+2     d'                   ADP        P          de                   case            O
+3     un                   DET        DET        un                   det             O
+4     heureux              ADJ        ADJ        heureux              amod            O
+5     advis                NOUN       NC         avis                 obl             O
+6     ,                    PUNCT      PONCT      ,                    punct           O
+7     vos                  DET        DET        votre                det             O
+8     esprits              NOUN       NC         esprit               nsubj           O
+9     sont                 AUX        V          être                 cop             O
+10    capables             ADJ        ADJ        capable              root            O
+11    ,                    PUNCT      PONCT      ,                    punct           O
+12    partagez             VERB       VIMP       partager             conj            O
+13    ce                   DET        DET        ce                   det             O
+14    forfait              NOUN       NC         forfait              obj             O
+15    ,                    PUNCT      PONCT      ,                    punct           O
+16    rendez-vous          VERB       VIMP       rendre               conj            O
+17    en                   ADP        P          en                   case            O
+18    coupables            NOUN       NC         coupable             obl             O
+19    ;                    PUNCT      PONCT      ;                    punct           O
+20    et                   CCONJ      CC         et                   cc              O
+21    vous                 PRON       CLS        vous                 nsubj           O
+22    reconnoistrez        VERB       V          reconnaître          conj            O
+23    ,                    PUNCT      PONCT      ,                    punct           O
+24    s'                   SCONJ      CS         si                   mark            O
+25    il                   PRON       CLS        il                   expl            O
+26    est                  VERB       V          être                 cop             O
+27    un                   DET        DET        un                   det             O
+28    heur                 NOUN       NC         heur                 nsubj           O
+29    plus                 ADV        ADV        plus                 advmod          O
+30    doux                 ADJ        ADJ        doux                 amod            O
+31    ,                    PUNCT      PONCT      ,                    punct           O
+32    que                  SCONJ      CS         que                  mark            O
+33    la                   DET        DET        le                   det             O
+34    mort                 NOUN       NC         mort                 nsubj           O
+35    ,                    PUNCT      PONCT      ,                    punct           O
+36    qu'                  PRON       PROREL     que                  obj             O
+37    en                   ADP        P          en                   case            O
+38    effet                NOUN       NC         effet                obl             O
+39    je                   PRON       CLS        je                   nsubj           O
+40    vous                 PRON       CLO        vous                 iobj            O
+41    souhaitte            VERB       V          souhaiter            acl:relcl       O
+42    à                    ADP        P          à                    case            O
+43    tous                 PRON       PRO        tout                 obl             O
+44    .                    PUNCT      PONCT      .                    punct           O
+
+================================================================================
+SENTENCE 8
+================================================================================
+TEXT: Cette province serait ruinée sans ce caractère, qui fait obéir les troupes à sa justice, et rendre, jusqu'à un sou, tout ce qui ne leur est pas dû; sans cette exactitude, la pauvre Bretagne serait perdue.
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     Cette                DET        DET        ce                   det             O
+1     province             NOUN       NC         province             nsubj           O
+2     serait               AUX        V          être                 aux             O
+3     ruinée               VERB       VPP        ruiner               ROOT            O
+4     sans                 ADP        P          sans                 mark            O
+5     ce                   DET        DET        ce                   det             O
+6     caractère            NOUN       NC         caractère            obl             O
+7     ,                    PUNCT      PONCT      ,                    punct           O
+8     qui                  PRON       PROREL     qui                  nsubj           O
+9     fait                 VERB       V          faire                relcl           O
+10    obéir                VERB       VINF       obéir                xcomp           O
+11    les                  DET        DET        le                   det             O
+12    troupes              NOUN       NC         troupe               obj             O
+13    à                    ADP        P          à                    case            O
+14    sa                   DET        DET        son                  det             O
+15    justice              NOUN       NC         justice              obl             O
+16    ,                    PUNCT      PONCT      ,                    punct           O
+17    et                   CCONJ      CC         et                   cc              O
+18    rendre               VERB       VINF       rendre               conj            O
+19    ,                    PUNCT      PONCT      ,                    punct           O
+20    jusqu'               ADP        P          jusque               case            O
+21    à                    ADP        P          à                    case            O
+22    un                   DET        DET        un                   det             O
+23    sou                  NOUN       NC         sou                  obl             O
+24    ,                    PUNCT      PONCT      ,                    punct           O
+25    tout                 PRON       PRO        tout                 obj             O
+26    ce                   PRON       PRO        ce                   nsubj           O
+27    qui                  PRON       PROREL     qui                  nsubj           O
+28    ne                   PART       ADV        ne                   advmod          O
+29    leur                 PRON       CLO        leur                 iobj            O
+30    est                  AUX        V          être                 cop             O
+31    pas                  ADV        ADV        pas                  advmod          O
+32    dû                   VERB       VPP        devoir               acl:relcl       O
+33    ;                    PUNCT      PONCT      ;                    punct           O
+34    sans                 ADP        P          sans                 mark            O
+35    cette                DET        DET        ce                   det             O
+36    exactitude           NOUN       NC         exactitude           obl             O
+37    ,                    PUNCT      PONCT      ,                    punct           O
+38    la                   DET        DET        le                   det             O
+39    pauvre               ADJ        ADJ        pauvre               amod            O
+40    Bretagne             PROPN      NPP        Bretagne             nsubj           B-LOC
+41    serait               AUX        V          être                 aux             O
+42    perdue               VERB       VPP        perdre               ROOT            O
+43    .                    PUNCT      PONCT      .                    punct           O
+
+================================================================================
+SENTENCE 9
+================================================================================
+TEXT: Car ce n'est pas contre la perfection de l'écriture qu'il y ait des lettres doubles, puis qu'elles la facilitent en l'abregeant.
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     Car                  CCONJ      CC         car                  mark            O
+1     ce                   PRON       CLS        ce                   nsubj           O
+2     n'                   PART       ADV        ne                   advmod          O
+3     est                  AUX        V          être                 cop             O
+4     pas                  ADV        ADV        pas                  advmod          O
+5     contre               ADP        P          contre               case            O
+6     la                   DET        DET        le                   det             O
+7     perfection           NOUN       NC         perfection           obl             O
+8     de                   ADP        P          de                   case            O
+9     l'                   DET        DET        le                   det             O
+10    écriture             NOUN       NC         écriture             nmod            O
+11    qu'                  SCONJ      CS         que                  mark            O
+12    il                   PRON       CLS        il                   expl            O
+13    y                    PRON       CLO        y                    expl            O
+14    ait                  VERB       VS         avoir                csubj           O
+15    des                  DET        DET        un                   det             O
+16    lettres              NOUN       NC         lettre               obj             O
+17    doubles              ADJ        ADJ        double               amod            O
+18    ,                    PUNCT      PONCT      ,                    punct           O
+19    puis                 SCONJ      CS         puisque              advmod          O
+20    qu'                  SCONJ      CS         que                  mark            O
+21    elles                PRON       CLS        elle                 nsubj           O
+22    la                   PRON       CLO        le                   obj             O
+23    facilitent           VERB       V          faciliter            ccomp           O
+24    en                   ADP        P          en                   case            O
+25    l'                   PRON       CLO        le                   det             O
+26    abregeant            VERB       VPR        abréger              obl             O
+27    .                    PUNCT      PONCT      .                    punct           O
+
+================================================================================
+SENTENCE 10
+================================================================================
+TEXT: C'est à cette femme que tout le monde plaint, et que je ne veux pas plaindre, parce que je suis en colère.
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     C'                   PRON       CLS        ce                   nsubj           O
+1     est                  AUX        V          être                 cop             O
+2     à                    ADP        P          à                    case            O
+3     cette                DET        DET        ce                   det             O
+4     femme                NOUN       NC         femme                obl             O
+5     que                  SCONJ      CS         que                  mark            O
+6     tout                 DET        DET        tout                 det             O
+7     le                   DET        DET        le                   det             O
+8     monde                NOUN       NC         monde                nsubj           O
+9     plaint               VERB       V          plaindre             acl:relcl       O
+10    ,                    PUNCT      PONCT      ,                    punct           O
+11    et                   CCONJ      CC         et                   cc              O
+12    que                  SCONJ      CS         que                  mark            O
+13    je                   PRON       CLS        je                   nsubj           O
+14    ne                   PART       ADV        ne                   advmod          O
+15    veux                 VERB       V          vouloir              aux             O
+16    pas                  ADV        ADV        pas                  advmod          O
+17    plaindre             VERB       VINF       plaindre             xcomp           O
+18    ,                    PUNCT      PONCT      ,                    punct           O
+19    parce                SCONJ      CS         parce                mark            O
+20    que                  SCONJ      CS         que                  fixed           O
+21    je                   PRON       CLS        je                   nsubj           O
+22    suis                 AUX        V          être                 cop             O
+23    en                   ADP        P          en                   case            O
+24    colère               NOUN       NC         colère               obl             O
+25    .                    PUNCT      PONCT      .                    punct           O
+
+================================================================================
+SENTENCE 11
+================================================================================
+TEXT: -Si cela vous a dépleu, luy respondis-je, je vous en demande pardon; mais si cela n'est pas, je ne fus de ma vie mieux payé de mon indiscretion que ceste fois.
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     -                    PUNCT      PONCT      -                    punct           O
+1     Si                   SCONJ      CS         si                   mark            O
+2     cela                 PRON       PRO        cela                 nsubj           O
+3     vous                 PRON       CLO        vous                 iobj            O
+4     a                    AUX        V          avoir                aux             O
+5     dépleu               VERB       VPP        déplaire             ROOT            O
+6     ,                    PUNCT      PONCT      ,                    punct           O
+7     luy                  PRON       CLO        lui                  iobj            O
+8     respondis            VERB       V          répondre             parataxis       O
+9     -                    PUNCT      PONCT      -                    punct           O
+10    je                   PRON       CLS        je                   nsubj           O
+11    ,                    PUNCT      PONCT      ,                    punct           O
+12    je                   PRON       CLS        je                   nsubj           O
+13    vous                 PRON       CLO        vous                 iobj            O
+14    en                   PRON       CLO        en                   obj             O
+15    demande              VERB       V          demander             ROOT            O
+16    pardon               NOUN       NC         pardon               obj             O
+17    ;                    PUNCT      PONCT      ;                    punct           O
+18    mais                 CCONJ      CC         mais                 cc              O
+19    si                   SCONJ      CS         si                   mark            O
+20    cela                 PRON       PRO        cela                 nsubj           O
+21    n'                   PART       ADV        ne                   advmod          O
+22    est                  VERB       V          être                 cop             O
+23    pas                  ADV        ADV        pas                  advmod          O
+24    ,                    PUNCT      PONCT      ,                    punct           O
+25    je                   PRON       CLS        je                   nsubj           O
+26    ne                   PART       ADV        ne                   advmod          O
+27    fus                  AUX        V          être                 aux             O
+28    de                   ADP        P          de                   case            O
+29    ma                   DET        DET        mon                  det             O
+30    vie                  NOUN       NC         vie                  obl             O
+31    mieux                ADV        ADV        mieux                advmod          O
+32    payé                 VERB       VPP        payer                ROOT            O
+33    de                   ADP        P          de                   case            O
+34    mon                  DET        DET        mon                  det             O
+35    indiscretion         NOUN       NC         indiscrétion         obl             O
+36    que                  SCONJ      CS         que                  mark            O
+37    ceste                DET        DET        ce                   det             O
+38    fois                 NOUN       NC         fois                 obl             O
+39    .                    PUNCT      PONCT      .                    punct           O
+
+================================================================================
+SENTENCE 12
+================================================================================
+TEXT: Il ne faut pourtant pas s'imaginer que ce soit une science infuse : car Sapho a veû tout ce qui est digne de l'estre : et elle s'est donné la peine de s'instruire de tout ce qui est digne de curiosité.
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     Il                   PRON       CLS        il                   nsubj           O
+1     ne                   PART       ADV        ne                   advmod          O
+2     faut                 VERB       V          falloir              ROOT            O
+3     pourtant             ADV        ADV        pourtant             advmod          O
+4     pas                  ADV        ADV        pas                  advmod          O
+5     s'                   PRON       CLR        se                   obj             O
+6     imaginer             VERB       VINF       imaginer             xcomp           O
+7     que                  SCONJ      CS         que                  mark            O
+8     ce                   PRON       CLS        ce                   nsubj           O
+9     soit                 AUX        VS         être                 csubj           O
+10    une                  DET        DET        un                   det             O
+11    science              NOUN       NC         science              attr            O
+12    infuse               ADJ        ADJ        infus                amod            O
+13    :                    PUNCT      PONCT      :                    punct           O
+14    car                  CCONJ      CC         car                  cc              O
+15    Sapho                PROPN      NPP        Sapho                nsubj           B-PER
+16    a                    AUX        V          avoir                aux             O
+17    veû                  VERB       VPP        voir                 ccomp           O
+18    tout                 PRON       PRO        tout                 obj             O
+19    ce                   PRON       PRO        ce                   nsubj           O
+20    qui                  PRON       PROREL     qui                  nsubj           O
+21    est                  AUX        V          être                 relcl           O
+22    digne                ADJ        ADJ        digne                acomp           O
+23    de                   ADP        P          de                   prep            O
+24    l'                   PRON       CLO        le                   det             O
+25    estre                AUX        VINF       être                 pcomp           O
+26    :                    PUNCT      PONCT      :                    punct           O
+27    et                   CCONJ      CC         et                   cc              O
+28    elle                 PRON       CLS        elle                 nsubj           O
+29    s'                   PRON       CLR        se                   obj             O
+30    est                  AUX        V          être                 aux             O
+31    donné                VERB       VPP        donner               ccomp           O
+32    la                   DET        DET        le                   det             O
+33    peine                NOUN       NC         peine                obj             O
+34    de                   ADP        P          de                   prep            O
+35    s'                   PRON       CLR        se                   obj             O
+36    instruire            VERB       VINF       instruire            pcomp           O
+37    de                   ADP        P          de                   prep            O
+38    tout                 PRON       PRO        tout                 obj             O
+39    ce                   PRON       PRO        ce                   nsubj           O
+40    qui                  PRON       PROREL     qui                  nsubj           O
+41    est                  AUX        V          être                 relcl           O
+42    digne                ADJ        ADJ        digne                acomp           O
+43    de                   ADP        P          de                   prep            O
+44    curiosité            NOUN       NC         curiosité            pobj            O
+45    .                    PUNCT      PONCT      .                    punct           O
+
+================================================================================
+SENTENCE 13
+================================================================================
+TEXT: Or, madame, puisque sa justice n'a point en ce monde de plus rude supplice que la guerre, et qu'elle s'appelle le fleau de Dieu, vray-semblablement ce fleau est entre ses mains, et non pas entre les nostres.
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     Or                   CCONJ      CC         or                   advmod          O
+1     ,                    PUNCT      PONCT      ,                    punct           O
+2     madame               NOUN       NC         madame               vocative        O
+3     ,                    PUNCT      PONCT      ,                    punct           O
+4     puisque              SCONJ      CS         puisque              mark            O
+5     sa                   DET        DET        son                  det             O
+6     justice              NOUN       NC         justice              nsubj           O
+7     n'                   PART       ADV        ne                   neg             O
+8     a                    VERB       V          avoir                aux             O
+9     point                ADV        ADV        point                advmod          O
+10    en                   ADP        P          en                   case            O
+11    ce                   DET        DET        ce                   det             O
+12    monde                NOUN       NC         monde                obl             O
+13    de                   DET        DET        de                   case            O
+14    plus                 ADV        ADV        plus                 advmod          O
+15    rude                 ADJ        ADJ        rude                 amod            O
+16    supplice             NOUN       NC         supplice             obj             O
+17    que                  SCONJ      CS         que                  mark            O
+18    la                   DET        DET        le                   det             O
+19    guerre               NOUN       NC         guerre               nsubj           O
+20    ,                    PUNCT      PONCT      ,                    punct           O
+21    et                   CCONJ      CC         et                   cc              O
+22    qu'                  SCONJ      CS         que                  mark            O
+23    elle                 PRON       CLS        elle                 nsubj           O
+24    s'                   PRON       CLR        se                   expl            O
+25    appelle              VERB       V          appeler              ccomp           O
+26    le                   DET        DET        le                   det             O
+27    fleau                NOUN       NC         fléau                obj             O
+28    de                   ADP        P          de                   case            O
+29    Dieu                 PROPN      NPP        Dieu                 nmod            B-PER
+30    ,                    PUNCT      PONCT      ,                    punct           O
+31    vray-semblablement   ADV        ADV        vraisemblablement    advmod          O
+32    ce                   DET        DET        ce                   det             O
+33    fleau                NOUN       NC         fléau                nsubj           O
+34    est                  AUX        V          être                 cop             O
+35    entre                ADP        P          entre                case            O
+36    ses                  DET        DET        son                  det             O
+37    mains                NOUN       NC         main                 obl             O
+38    ,                    PUNCT      PONCT      ,                    punct           O
+39    et                   CCONJ      CC         et                   cc              O
+40    non                  ADV        ADV        non                  advmod          O
+41    pas                  ADV        ADV        pas                  advmod          O
+42    entre                ADP        P          entre                case            O
+43    les                  DET        DET        le                   det             O
+44    nostres              PRON       PRO        nôtre                obl             O
+45    .                    PUNCT      PONCT      .                    punct           O
+
+================================================================================
+SENTENCE 14
+================================================================================
+TEXT: Vraiment, ce n'est pas ici de ces canicules de Livry, que nous trouvions si ridicules; celle-ci est sans aucune pluie.
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     Vraiment             ADV        ADV        vraiment             advmod          O
+1     ,                    PUNCT      PONCT      ,                    punct           O
+2     ce                   PRON       CLS        ce                   nsubj           O
+3     n'                   PART       ADV        ne                   neg             O
+4     est                  AUX        V          être                 cop             O
+5     pas                  ADV        ADV        pas                  advmod          O
+6     ici                  ADV        ADV        ici                  advmod          O
+7     de                   ADP        P          de                   case            O
+8     ces                  DET        DET        ce                   det             O
+9     canicules            NOUN       NC         canicule             nmod            O
+10    de                   ADP        P          de                   case            O
+11    Livry                PROPN      NPP        Livry                nmod            B-LOC
+12    ,                    PUNCT      PONCT      ,                    punct           O
+13    que                  PRON       PROREL     que                  mark            O
+14    nous                 PRON       CLS        nous                 nsubj           O
+15    trouvions            VERB       V          trouver              ccomp           O
+16    si                   ADV        ADV        si                   advmod          O
+17    ridicules            ADJ        ADJ        ridicule             xcomp           O
+18    ;                    PUNCT      PONCT      ;                    punct           O
+19    celle-ci             PRON       PRO        celui-ci             nsubj           O
+20    est                  AUX        V          être                 cop             O
+21    sans                 ADP        P          sans                 case            O
+22    aucune               DET        DET        aucun                det             O
+23    pluie                NOUN       NC         pluie                obl             O
+24    .                    PUNCT      PONCT      .                    punct           O
+
+================================================================================
+SENTENCE 15
+================================================================================
+TEXT: pour des seruiettes l’vsage en estoit deffendu, par ceque l’ony torche quelquesfois ses doigts qui sont entourez de certaine graisse qui repaist quand l’on les leche.
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     pour                 ADP        P          pour                 mark            O
+1     des                  DET        DET        un                   det             O
+2     seruiettes           NOUN       NC         serviette            obl             O
+3     l’                   DET        DET        le                   det             O
+4     vsage                NOUN       NC         usage                nsubj           O
+5     en                   PRON       CLO        en                   case            O
+6     estoit               AUX        V          être                 cop             O
+7     deffendu             VERB       VPP        défendre             root            O
+8     ,                    PUNCT      PONCT      ,                    punct           O
+9     par                  ADP        P          par                  case            O
+10    ceque                SCONJ      CS         que                  mark            O
+11    l’ony                PRON       CLS        on                   nsubj           O
+12    torche               VERB       V          torcher              advcl           O
+13    quelquesfois         ADV        ADV        quelquefois          advmod          O
+14    ses                  DET        DET        son                  det             O
+15    doigts               NOUN       NC         doigt                obj             O
+16    qui                  PRON       PROREL     qui                  nsubj           O
+17    sont                 AUX        V          être                 cop             O
+18    entourez             VERB       VPP        entourer             acl:relcl       O
+19    de                   ADP        P          de                   case            O
+20    certaine             DET        DET        certain              det             O
+21    graisse              NOUN       NC         graisse              obl             O
+22    qui                  PRON       PROREL     qui                  nsubj           O
+23    repaist              VERB       V          repaître             acl:relcl       O
+24    quand                SCONJ      CS         quand                mark            O
+25    l’                   PART       ADV        l'                   det             O
+26    on                   PRON       CLS        on                   nsubj           O
+27    les                  PRON       CLO        le                   obj             O
+28    leche                VERB       V          lécher               advcl           O
+29    .                    PUNCT      PONCT      .                    punct           O
+
+================================================================================
+SENTENCE 16
+================================================================================
+TEXT: Ce n'était pas que M. d'Elboeuf eût aucun lieu de se plaindre d'eux, mais c'était un homme dont l'esprit audacieux se plaisait à des scènes éclatantes, et que sa figure, sa naissance et les bontés du roi avaient solidement gâté.
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     Ce                   PRON       CLS        ce                   nsubj           O
+1     n'                   PART       ADV        ne                   advmod          O
+2     était                AUX        V          être                 cop             O
+3     pas                  ADV        ADV        pas                  advmod          O
+4     que                  SCONJ      CS         que                  mark            O
+5     M.                   NOUN       NC         monsieur             nsubj           O
+6     d'                   ADP        P          de                   case            O
+7     Elboeuf              PROPN      NPP        Elbeuf               nmod            B-PER
+8     eût                  VERB       VS         avoir                aux             O
+9     aucun                DET        DET        aucun                det             O
+10    lieu                 NOUN       NC         lieu                 obj             O
+11    de                   ADP        P          de                   case            O
+12    se                   PRON       CLR        se                   expl            O
+13    plaindre             VERB       VINF       plaindre             xcomp           O
+14    d'                   ADP        P          de                   case            O
+15    eux                  PRON       PRO        eux                  obl             O
+16    ,                    PUNCT      PONCT      ,                    punct           O
+17    mais                 CCONJ      CC         mais                 cc              O
+18    c'                   PRON       CLS        ce                   nsubj           O
+19    était                AUX        V          être                 cop             O
+20    un                   DET        DET        un                   det             O
+21    homme                NOUN       NC         homme                attr            O
+22    dont                 PRON       PROREL     dont                 nmod            O
+23    l'                   DET        DET        le                   det             O
+24    esprit               NOUN       NC         esprit               nsubj           O
+25    audacieux            ADJ        ADJ        audacieux            amod            O
+26    se                   PRON       CLR        se                   expl            O
+27    plaisait             VERB       V          plaire               root            O
+28    à                    ADP        P          à                    case            O
+29    des                  DET        DET        un                   det             O
+30    scènes               NOUN       NC         scène                obl             O
+31    éclatantes           ADJ        ADJ        éclatant             amod            O
+32    ,                    PUNCT      PONCT      ,                    punct           O
+33    et                   CCONJ      CC         et                   cc              O
+34    que                  PRON       PROREL     que                  mark            O
+35    sa                   DET        DET        son                  det             O
+36    figure               NOUN       NC         figure               nsubj           O
+37    ,                    PUNCT      PONCT      ,                    punct           O
+38    sa                   DET        DET        son                  det             O
+39    naissance            NOUN       NC         naissance            conj            O
+40    et                   CCONJ      CC         et                   cc              O
+41    les                  DET        DET        le                   det             O
+42    bontés               NOUN       NC         bonté                conj            O
+43    du                   ADP        P+D        de                   case            O
+44    roi                  NOUN       NC         roi                  nmod            O
+45    avaient              AUX        V          avoir                aux             O
+46    solidement           ADV        ADV        solidement           advmod          O
+47    gâté                 VERB       VPP        gâter                acl:relcl       O
+48    .                    PUNCT      PONCT      .                    punct           O
+
+================================================================================
+SENTENCE 17
+================================================================================
+TEXT: Photin J'ai mal connu César; mais puisqu'en son estime un si rare service est un énorme crime, il porte dans son flanc de quoi nous en laver; c'est là qu'est notre grâce, il nous l'y faut trouver.
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     Photin               PROPN      NPP        Photin               nsubj           O
+1     J'                   PRON       CLS        je                   nsubj           O
+2     ai                   AUX        V          avoir                aux             O
+3     mal                  ADV        ADV        mal                  advmod          O
+4     connu                VERB       VPP        connaître            ROOT            O
+5     César                PROPN      NPP        César                obj             O
+6     ;                    PUNCT      PONCT      ;                    punct           O
+7     mais                 CCONJ      CC         mais                 cc              O
+8     puisqu'              SCONJ      CS         puisque              mark            O
+9     en                   ADP        P          en                   case            O
+10    son                  DET        DET        son                  det             O
+11    estime               NOUN       NC         estime               obl             O
+12    un                   DET        DET        un                   det             O
+13    si                   ADV        ADV        si                   advmod          O
+14    rare                 ADJ        ADJ        rare                 amod            O
+15    service              NOUN       NC         service              nsubj           O
+16    est                  AUX        V          être                 cop             O
+17    un                   DET        DET        un                   det             O
+18    énorme               ADJ        ADJ        énorme               amod            O
+19    crime                NOUN       NC         crime                attr            O
+20    ,                    PUNCT      PONCT      ,                    punct           O
+21    il                   PRON       CLS        il                   nsubj           O
+22    porte                VERB       V          porter               ROOT            O
+23    dans                 ADP        P          dans                 case            O
+24    son                  DET        DET        son                  det             O
+25    flanc                NOUN       NC         flanc                obl             O
+26    de                   ADP        P          de                   case            O
+27    quoi                 PRON       PROREL     quoi                 obj             O
+28    nous                 PRON       CLO        nous                 iobj            O
+29    en                   PRON       CLO        en                   case            O
+30    laver                VERB       VINF       laver                xcomp           O
+31    ;                    PUNCT      PONCT      ;                    punct           O
+32    c'                   PRON       CLS        ce                   nsubj           O
+33    est                  AUX        V          être                 cop             O
+34    là                   ADV        ADV        là                   advmod          O
+35    qu'                  SCONJ      CS         que                  mark            O
+36    est                  AUX        V          être                 ROOT            O
+37    notre                DET        DET        notre                det             O
+38    grâce                NOUN       NC         grâce                nsubj           O
+39    ,                    PUNCT      PONCT      ,                    punct           O
+40    il                   PRON       CLS        il                   expl            O
+41    nous                 PRON       CLO        nous                 iobj            O
+42    l'                   PRON       CLO        le                   obj             O
+43    y                    PRON       CLO        y                    advmod          O
+44    faut                 VERB       V          falloir              ROOT            O
+45    trouver              VERB       VINF       trouver              xcomp           O
+46    .                    PUNCT      PONCT      .                    punct           O
+
+================================================================================
+SENTENCE 18
+================================================================================
+TEXT: Le logis fournissoit pareillement ses plaisirs, qui n'étoient tantost que de simples jeux, tantost des divertissemens plus solides.
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     Le                   DET        DET        le                   det             O
+1     logis                NOUN       NC         logis                nsubj           O
+2     fournissoit          VERB       V          fournir              ROOT            O
+3     pareillement         ADV        ADV        pareillement         advmod          O
+4     ses                  DET        DET        son                  det             O
+5     plaisirs             NOUN       NC         plaisir              obj             O
+6     ,                    PUNCT      PONCT      ,                    punct           O
+7     qui                  PRON       PROREL     qui                  nsubj           O
+8     n'                   PART       ADV        ne                   advmod          O
+9     étoient              AUX        V          être                 ccomp           O
+10    tantost              ADV        ADV        tantôt               advmod          O
+11    que                  ADV        ADV        que                  mark            O
+12    de                   DET        DET        de                   case            O
+13    simples              ADJ        ADJ        simple               amod            O
+14    jeux                 NOUN       NC         jeu                  obl             O
+15    ,                    PUNCT      PONCT      ,                    punct           O
+16    tantost              ADV        ADV        tantôt               advmod          O
+17    des                  DET        DET        un                   det             O
+18    divertissemens       NOUN       NC         divertissement       obl             O
+19    plus                 ADV        ADV        plus                 advmod          O
+20    solides              ADJ        ADJ        solide               amod            O
+21    .                    PUNCT      PONCT      .                    punct           O
+
+================================================================================
+SENTENCE 19
+================================================================================
+TEXT: -Par où vous a-t-on donc fait voir qu'on vous aimoit, reprit Monsieur de Clèves, et quelles marques de passion vous a-t'on données ?
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     -                    PUNCT      PONCT      -                    punct           O
+1     Par                  ADP        P          par                  case            O
+2     où                   ADV        ADVWH      où                   advmod          O
+3     vous                 PRON       CLO        vous                 nsubj           O
+4     a                    AUX        V          avoir                aux             O
+5     -t                   X          X          t                    expl            O
+6     -on                  PRON       CLS        on                   nsubj           O
+7     donc                 ADV        ADV        donc                 advmod          O
+8     fait                 VERB       VPP        faire                ROOT            O
+9     voir                 VERB       VINF       voir                 xcomp           O
+10    qu'                  SCONJ      CS         que                  mark            O
+11    on                   PRON       CLS        on                   nsubj           O
+12    vous                 PRON       CLO        vous                 obj             O
+13    aimoit               VERB       V          aimer                ccomp           O
+14    ,                    PUNCT      PONCT      ,                    punct           O
+15    reprit               VERB       V          reprendre            parataxis       O
+16    Monsieur             NOUN       NC         monsieur             vocative        B-PER
+17    de                   ADP        P          de                   case            I-PER
+18    Clèves               PROPN      NPP        Clèves               nmod            I-PER
+19    ,                    PUNCT      PONCT      ,                    punct           O
+20    et                   CCONJ      CC         et                   cc              O
+21    quelles              DET        DETWH      quel                 det             O
+22    marques              NOUN       NC         marque               obj             O
+23    de                   ADP        P          de                   case            O
+24    passion              NOUN       NC         passion              nmod            O
+25    vous                 PRON       CLO        vous                 iobj            O
+26    a-t'on               AUX        V          avoir                aux             O
+27    données              VERB       VPP        donner               ccomp           O
+28    ?                    PUNCT      PONCT      ?                    punct           O
+
+================================================================================
+SENTENCE 20
+================================================================================
+TEXT: Le peuple impatient veut que le sort s'acheve par mon frere Ramir, contre Arismond le sueve, en l'âge de treize ans tous deux hardis et fiers, et dé-ja signalez par des actes guerriers.
+
+IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
+----- -------------------- ---------- ---------- -------------------- --------------- ----------
+0     Le                   DET        DET        le                   det             O
+1     peuple               NOUN       NC         peuple               nsubj           O
+2     impatient            ADJ        ADJ        impatient            amod            O
+3     veut                 VERB       V          vouloir              root            O
+4     que                  SCONJ      CS         que                  mark            O
+5     le                   DET        DET        le                   det             O
+6     sort                 NOUN       NC         sort                 nsubj           O
+7     s'                   PRON       CLR        se                   expl            O
+8     acheve               VERB       VS         achever              ccomp           O
+9     par                  ADP        P          par                  case            O
+10    mon                  DET        DET        mon                  det             O
+11    frere                NOUN       NC         frère                obl             O
+12    Ramir                PROPN      NPP        Ramir                appos           B-PER
+13    ,                    PUNCT      PONCT      ,                    punct           O
+14    contre               ADP        P          contre               case            O
+15    Arismond             PROPN      NPP        Arismond             obl             B-PER
+16    le                   DET        DET        le                   det             O
+17    sueve                NOUN       NC         suève                appos           O
+18    ,                    PUNCT      PONCT      ,                    punct           O
+19    en                   ADP        P          en                   case            O
+20    l'                   DET        DET        le                   det             O
+21    âge                  NOUN       NC         âge                  obl             O
+22    de                   ADP        P          de                   case            O
+23    treize               NUM        DET        treize               nummod          O
+24    ans                  NOUN       NC         an                   nmod            O
+25    tous                 PRON       PRO        tout                 nsubj           O
+26    deux                 NUM        PRO        deux                 nummod          O
+27    hardis               ADJ        ADJ        hardi                amod            O
+28    et                   CCONJ      CC         et                   cc              O
+29    fiers                ADJ        ADJ        fier                 conj            O
+30    ,                    PUNCT      PONCT      ,                    punct           O
+31    et                   CCONJ      CC         et                   cc              O
+32    dé-ja                ADV        ADV        déjà                 advmod          O
+33    signalez             VERB       VPP        signaler             acl             O
+34    par                  ADP        P          par                  case            O
+35    des                  DET        DET        un                   det             O
+36    actes                NOUN       NC         acte                 obl             O
+37    guerriers            ADJ        ADJ        guerrier             amod            O
+38    .                    PUNCT      PONCT      .                    punct           O
+

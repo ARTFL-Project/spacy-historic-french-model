@@ -84,17 +84,19 @@ def parse_txt_to_jsonl(input_txt_path, output_jsonl_path):
         # Token lines start with a number (the index)
         if line and not line.startswith('='*80):
             # Split by whitespace, but preserve the structure
-            parts = line.split(None, 6)  # Split into max 7 parts
+            parts = line.split()
 
             if len(parts) >= 7:
                 try:
+                    # Every column but the lemma is a single word, so a lemma with a
+                    # space ("à le") is everything between TAG and DEP
                     token_idx = int(parts[0])
                     token_text = parts[1]
                     pos = parts[2]
                     tag = parts[3]
-                    lemma = parts[4]
-                    dep = parts[5]
-                    ent = parts[6]
+                    lemma = " ".join(parts[4:-2])
+                    dep = parts[-2]
+                    ent = parts[-1]
 
                     token = {
                         'text': token_text,

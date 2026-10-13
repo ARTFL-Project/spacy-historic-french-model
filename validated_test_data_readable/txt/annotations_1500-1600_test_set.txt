@@ -22,7 +22,7 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 14    ,                    PUNCT      PONCT      ,                    punct           O
 15    qui                  PRON       PROREL     qui                  nsubj           O
 16    ,                    PUNCT      PONCT      ,                    punct           O
-17    estant               VERB       VPR        être                 advcl           O
+17    estant               AUX        VPR        être                 advcl           O
 18    caché                VERB       VPP        cacher               acl             O
 19    derriere             ADP        P          derrière             case            O
 20    un                   DET        DET        un                   det             O
@@ -44,18 +44,17 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 36    si                   SCONJ      CS         si                   mark            O
 37    elle                 PRON       CLS        elle                 nsubj           O
 38    luy                  PRON       CLO        lui                  iobj            O
-39    refusera             VERB       VS         refuser              ccomp           O
+39    refusera             VERB       V          refuser              ccomp           O
 40    ce                   DET        DET        ce                   obj             O
-41    dequoy               PRON       PROREL     de quoi              obl             O
+41    dequoy               PRON       PROREL     quoi                 obl             O
 42    elle                 PRON       CLS        elle                 nsubj           O
 43    a                    AUX        V          avoir                aux             O
-44    esté                 VERB       VPP        être                 aux:pass        O
+44    esté                 AUX        VPP        être                 aux:pass        O
 45    par                  ADP        P          par                  case            O
 46    luy                  PRON       CLO        lui                  obl:agent       O
 47    souventesfois        ADV        ADV        souvent              advmod          O
 48    importunee           VERB       VPP        importuner           ccomp           O
 49    .                    PUNCT      PONCT      .                    punct           O
-
 
 ================================================================================
 SENTENCE 2
@@ -71,23 +70,23 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 4     en                   ADP        P          en                   case            O
 5     un                   DET        DET        un                   det             O
 6     corps                NOUN       NC         corps                obl             O
-7     qu'                  PRON      CS         que                  mark            O
+7     qu'                  PRON       PROREL     que                  mark            O
 8     elle                 PRON       CLS        elle                 nsubj           O
-9     n'                   PART       PREF       ne                   advmod          O
+9     n'                   PART       ADV        ne                   advmod          O
 10    a                    AUX        V          avoir                aux             O
-11    de                   ADP       PREF       de                   advmod          O
+11    de                   ADP        P          de                   advmod          O
 12    guere                ADV        ADV        guère                advmod          O
 13    empiré               VERB       VPP        empirer              ccomp           O
 14    :                    PUNCT      PONCT      :                    punct           O
 15    le                   DET        DET        le                   det             O
 16    feu                  NOUN       NC         feu                  nsubj           O
-17    y                    ADV        ADV        y                    advmod          O
+17    y                    PRON       CLO        y                    advmod          O
 18    estoit               AUX        V          être                 cop             O
 19    ,                    PUNCT      PONCT      ,                    punct           O
-20    la                   DET        DET        la                   det             O
+20    la                   DET        DET        le                   det             O
 21    flamme               NOUN       NC         flamme               nsubj           O
 22    s'                   PRON       CLR        se                   expl            O
-23    y                    ADV        ADV        y                    advmod          O
+23    y                    PRON       CLO        y                    advmod          O
 24    est                  AUX        V          être                 aux             O
 25    prinse               VERB       VPP        prendre              ccomp           O
 26    ;                    PUNCT      PONCT      ;                    punct           O
@@ -103,7 +102,6 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 36    peu                  ADV        ADV        peu                  advmod          O
 37    .                    PUNCT      PONCT      .                    punct           O
 
-
 ================================================================================
 SENTENCE 3
 ================================================================================
@@ -111,7 +109,7 @@ TEXT: Dont il ne fut tant reprins par Caton, que mocqué de ce qu'il demandoit p
 
 IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
 ----- -------------------- ---------- ---------- -------------------- --------------- ----------
-0     Dont                 PRON      CS         dont                 mark            O
+0     Dont                 PRON       PROREL     dont                 mark            O
 1     il                   PRON       CLS        il                   nsubj:pass      O
 2     ne                   PART       ADV        ne                   advmod          O
 3     fut                  AUX        V          être                 aux:pass        O
@@ -123,7 +121,7 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 9     que                  SCONJ      CS         que                  mark            O
 10    mocqué               VERB       VPP        moquer               advcl           O
 11    de                   ADP        P          de                   case            O
-12    ce                   PRON        DET        ce                   det             O
+12    ce                   PRON       PRO        ce                   det             O
 13    qu'                  PRON       PROREL     que                  obj             O
 14    il                   PRON       CLS        il                   nsubj           O
 15    demandoit            VERB       V          demander             acl:relcl       O
@@ -131,9 +129,9 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 17    au                   ADP        P+D        à                    case            O
 18    Lecteur              NOUN       NC         lecteur              obl             O
 19    de                   ADP        P          de                   mark            O
-20    ce                   PRON        DET        ce                   det             O
+20    ce                   PRON       PRO        ce                   det             O
 21    qu'                  PRON       PROREL     que                  obj             O
-22    estant               VERB       VPR        être                 advcl           O
+22    estant               AUX        VPR        être                 advcl           O
 23    Romain               ADJ        ADJ        romain               xcomp           O
 24    ,                    PUNCT      PONCT      ,                    punct           O
 25    il                   PRON       CLS        il                   nsubj           O
@@ -148,7 +146,6 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 34    langue               NOUN       NC         langue               obl             O
 35    estrangere           ADJ        ADJ        étrangère            amod            O
 36    .                    PUNCT      PONCT      .                    punct           O
-
 
 ================================================================================
 SENTENCE 4
@@ -181,7 +178,6 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 21    les                  DET        DET        le                   det             O
 22    Grecs                NOUN       NC         grec                 nsubj           O
 23    .                    PUNCT      PONCT      .                    punct           O
-
 
 ================================================================================
 SENTENCE 5
@@ -233,7 +229,6 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 40    esprit               NOUN       NC         esprit               nmod            O
 41    .                    PUNCT      PONCT      .                    punct           O
 
-
 ================================================================================
 SENTENCE 7
 ================================================================================
@@ -241,8 +236,8 @@ TEXT: Au hault des mats estoient attachees polies avec cordes, et là où la nec
 
 IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
 ----- -------------------- ---------- ---------- -------------------- --------------- ----------
-0     Au                   ADP        P+D        à le                 case            O
-1     hault                NOUN       ADJ        haut                 amod            O
+0     Au                   ADP        P+D        à                    case            O
+1     hault                NOUN       NC         haut                 amod            O
 2     des                  ADP        P+D        de                   case            O
 3     mats                 NOUN       NC         mât                  nmod            O
 4     estoient             AUX        V          être                 aux             O
@@ -253,7 +248,7 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 9     ,                    PUNCT      PONCT      ,                    punct           O
 10    et                   CCONJ      CC         et                   cc              O
 11    là                   ADV        ADV        là                   advmod          O
-12    où                   ADV      CS         où                   mark            O
+12    où                   ADV        ADV        où                   mark            O
 13    la                   DET        DET        le                   det             O
 14    necessité            NOUN       NC         nécessité            nsubj           O
 15    le                   PRON       CLO        le                   obj             O
@@ -261,7 +256,7 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 17    ,                    PUNCT      PONCT      ,                    punct           O
 18    on                   PRON       CLS        on                   nsubj           O
 19    tiroit               VERB       V          tirer                conj            O
-20    ceux                 PRON       PRO        ce                   obj             O
+20    ceux                 PRON       PRO        celui                obj             O
 21    qui                  PRON       PROREL     qui                  nsubj           O
 22    estoient             AUX        V          être                 aux             O
 23    à                    ADP        P          à                    case            O
@@ -280,8 +275,6 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 36    l'                   DET        DET        le                   det             O
 37    eschelle             NOUN       NC         échelle              nmod            O
 38    .                    PUNCT      PONCT      .                    punct           O
-
-
 
 ================================================================================
 SENTENCE 9
@@ -313,8 +306,8 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 20    soubs                ADP        P          sous                 case            O
 21    tiltre               NOUN       NC         titre                obl             O
 22    de                   ADP        P          de                   case            O
-23    ce                   DET        DET        ce                   det             O
-24    qu'                  SCONJ       PROREL     que                  mark            O
+23    ce                   PRON       PRO        ce                   det             O
+24    qu'                  SCONJ      CS         que                  mark            O
 25    il                   PRON       CLS        il                   nsubj           O
 26    en                   PRON       CLO        en                   obj             O
 27    demandoit            VERB       V          demander             ccomp           O
@@ -339,7 +332,6 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 46    gens                 NOUN       NC         gens                 nmod            O
 47    .                    PUNCT      PONCT      .                    punct           O
 
-
 ================================================================================
 SENTENCE 10
 ================================================================================
@@ -359,7 +351,7 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 9     subjection           NOUN       NC         subjection           conj            O
 10    ,                    PUNCT      PONCT      ,                    punct           O
 11    sont                 AUX        V          être                 cop             O
-12    obligées             VERB        VPP        obliger              root            O
+12    obligées             VERB       VPP        obliger              root            O
 13    à                    ADP        P          à                    case            O
 14    une                  DET        DET        un                   det             O
 15    naturelle            ADJ        ADJ        naturel              amod            O
@@ -375,7 +367,6 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 25    entrepillent         VERB       V          entrepiller          ccomp           O
 26    perpetuellement      ADV        ADV        perpétuellement      advmod          O
 27    .                    PUNCT      PONCT      .                    punct           O
-
 
 ================================================================================
 SENTENCE 11
@@ -406,7 +397,7 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 19    a                    ADP        P          à                    case            O
 20    son                  DET        DET        son                  det             O
 21    travail              NOUN       NC         travail              obl             O
-22    sera                 VERB       V          être                 cop             O
+22    sera                 AUX        V          être                 cop             O
 23    L'                   DET        DET        le                   det             O
 24    ambre                NOUN       NC         ambre                nsubj           O
 25    souef                ADJ        ADJ        doux                 amod            O
@@ -415,7 +406,6 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 28    haultes              ADJ        ADJ        haut                 amod            O
 29    parolles             NOUN       NC         parole               nmod            O
 30    .                    PUNCT      PONCT      .                    punct           O
-
 
 ================================================================================
 SENTENCE 12
@@ -469,7 +459,6 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 42    incognuz             ADJ        ADJ        inconnu              amod            O
 43    .                    PUNCT      PONCT      .                    punct           O
 
-
 ================================================================================
 SENTENCE 13
 ================================================================================
@@ -477,7 +466,7 @@ TEXT: Car il fleurissoit sous l'Empire de Constans, et de Julian surnommé l'Apo
 
 IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
 ----- -------------------- ---------- ---------- -------------------- --------------- ----------
-0     Car                  SCONJ      CS         car                  mark            O
+0     Car                  CCONJ      CC         car                  mark            O
 1     il                   PRON       CLS        il                   nsubj           O
 2     fleurissoit          VERB       V          fleurir              ROOT            O
 3     sous                 ADP        P          sous                 case            O
@@ -524,7 +513,6 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 44    Zonaras              PROPN      NPP        Zonaras              conj            B-PER
 45    .                    PUNCT      PONCT      .                    punct           O
 
-
 ================================================================================
 SENTENCE 14
 ================================================================================
@@ -545,7 +533,7 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 10    est                  AUX        V          être                 aux             O
 11    trouvé               VERB       VPP        trouver              root            O
 12    qui                  PRON       PROREL     qui                  nsubj           O
-13    n'                   PART       PREF       ne                   advmod          O
+13    n'                   PART       ADV        ne                   advmod          O
 14    ont                  AUX        V          avoir                aux             O
 15    voulu                VERB       VPP        vouloir              ccomp           O
 16    abandonner           VERB       VINF       abandonner           xcomp           O
@@ -554,9 +542,8 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 19    en                   ADP        P          en                   case            O
 20    la                   DET        DET        le                   det             O
 21    mort                 NOUN       NC         mort                 obl             O
-22    mesme                ADV        ADJ        même                 advmod          O
+22    mesme                ADV        ADV        même                 advmod          O
 23    .                    PUNCT      PONCT      .                    punct           O
-
 
 ================================================================================
 SENTENCE 15
@@ -601,7 +588,6 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 33    vie                  NOUN       NC         vie                  nmod            O
 34    .                    PUNCT      PONCT      .                    punct           O
 
-
 ================================================================================
 SENTENCE 17
 ================================================================================
@@ -636,7 +622,7 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 24    tellement            ADV        ADV        tellement            advmod          O
 25    qu'                  SCONJ      CS         que                  mark            O
 26    il                   PRON       CLS        il                   nsubj           O
-27    n'                   PART       PREF       ne                   advmod          O
+27    n'                   PART       ADV        ne                   advmod          O
 28    eut                  VERB       V          avoir                ccomp           O
 29    rien                 PRON       PRO        rien                 obj             O
 30    meilleur             ADJ        ADJ        meilleur             amod            O
@@ -646,17 +632,16 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 34    de                   ADP        P          de                   case            O
 35    vitesse              NOUN       NC         vitesse              obl             O
 36    ,                    PUNCT      PONCT      ,                    punct           O
-37    car                  SCONJ      CS         car                  mark            O
+37    car                  CCONJ      CC         car                  mark            O
 38    il                   PRON       CLS        il                   nsubj           O
 39    eust                 AUX        VS         avoir                ccomp           O
-40    esté                 AUX       VPP         être                 aux:pass        O
+40    esté                 AUX        VPP        être                 aux:pass        O
 41    accablé              VERB       VPP        accabler             root            O
 42    ,                    PUNCT      PONCT      ,                    punct           O
 43    le                   DET        DET        le                   det             O
 44    povre                ADJ        ADJ        pauvre               amod            O
 45    homme                NOUN       NC         homme                nsubj           O
 46    .                    PUNCT      PONCT      .                    punct           O
-
 
 ================================================================================
 SENTENCE 18
@@ -689,7 +674,6 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 21    Toscans              PROPN      NPP        Toscan               conj            B-ORG
 22    .                    PUNCT      PONCT      .                    punct           O
 
-
 ================================================================================
 SENTENCE 1
 ================================================================================
@@ -698,12 +682,12 @@ TEXT: Les autres dient qu'il voulut estre enterré au pied d'un sep de vigne, le
 IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
 ----- -------------------- ---------- ---------- -------------------- --------------- ----------
 0     Les                  DET        DET        le                   det             O
-1     autres               ADJ        ADJ        autre                nsubj           O
+1     autres               PRON       PRO        autre                nsubj           O
 2     dient                VERB       V          dire                 ROOT            O
 3     qu'                  SCONJ      CS         que                  mark            O
 4     il                   PRON       CLS        il                   nsubj           O
 5     voulut               VERB       V          vouloir              ccomp           O
-6     estre                VERB       VINF       être                 xcomp           O
+6     estre                AUX        VINF       être                 xcomp           O
 7     enterré              VERB       VPP        enterrer             xcomp           O
 8     au                   ADP        P+D        à                    case            O
 9     pied                 NOUN       NC         pied                 obl             O
@@ -752,7 +736,6 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 52    jamais               ADV        ADV        jamais               advmod          O
 53    .                    PUNCT      PONCT      .                    punct           O
 
-
 ================================================================================
 SENTENCE 2
 ================================================================================
@@ -763,7 +746,7 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 0     Un                   DET        DET        un                   det             O
 1     personage            NOUN       NC         personnage           nsubj           O
 2     sçavant              ADJ        ADJ        savant               amod            O
-3     n'                   PART       PONCT      ne                   neg             O
+3     n'                   PART       ADV        ne                   neg             O
 4     est                  AUX        V          être                 cop             O
 5     pas                  ADV        ADV        pas                  advmod          O
 6     sçavant              ADJ        ADJ        savant               acomp           O
@@ -784,7 +767,6 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 21    mesme                ADV        ADV        même                 advmod          O
 22    .                    PUNCT      PONCT      .                    punct           O
 
-
 ================================================================================
 SENTENCE 3
 ================================================================================
@@ -797,7 +779,7 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 2     la                   DET        DET        le                   det             O
 3     terre                NOUN       NC         terre                nsubj           O
 4     est                  AUX        V          être                 cop             O
-5     batue                ADJ        VPP        battre               acl             O
+5     batue                VERB       VPP        battre               acl             O
 6     de                   ADP        P          de                   case            O
 7     chaleur              NOUN       NC         chaleur              obl             O
 8     ,                    PUNCT      PONCT      ,                    punct           O
@@ -821,7 +803,6 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 26    sueur                NOUN       NC         sueur                obj             O
 27    .                    PUNCT      PONCT      .                    punct           O
 
-
 ================================================================================
 SENTENCE 4
 ================================================================================
@@ -830,7 +811,7 @@ TEXT: O felice presence, qui m'est de si grand contentement, que ne le puis expr
 IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
 ----- -------------------- ---------- ---------- -------------------- --------------- ----------
 0     O                    INTJ       I          ô                    intj            O
-1     felice               ADJ        ADJ        félice             amod            O
+1     felice               ADJ        ADJ        félice               amod            O
 2     presence             NOUN       NC         présence             nsubj           O
 3     ,                    PUNCT      PONCT      ,                    punct           O
 4     qui                  PRON       PROREL     qui                  nsubj           O
@@ -883,7 +864,6 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 51    moy                  PRON       PRO        moi                  obl             O
 52    .                    PUNCT      PONCT      .                    punct           O
 
-
 ================================================================================
 SENTENCE 5
 ================================================================================
@@ -892,33 +872,33 @@ TEXT: Merob Ceux qui viennent du camp, ma soeur, content de David, que pour seur
 IDX   TOKEN                POS        TAG        LEMMA                DEP             ENT
 ----- -------------------- ---------- ---------- -------------------- --------------- ----------
 0     Merob                PROPN      NPP        Merob                vocative        O
-1     Ceux                 PRON       PRO        ce                   nsubj           O
+1     Ceux                 PRON       PRO        celui                nsubj           O
 2     qui                  PRON       PROREL     qui                  nsubj           O
 3     viennent             VERB       V          venir                acl:relcl       O
 4     du                   ADP        P+D        de                   obl             O
 5     camp                 NOUN       NC         camp                 nmod            O
 6     ,                    PUNCT      PONCT      ,                    punct           O
 7     ma                   DET        DET        mon                  det             O
-8     soeur                NOUN       NC         soeur                appos           O
+8     soeur                NOUN       NC         sœur                 appos           O
 9     ,                    PUNCT      PONCT      ,                    punct           O
-10    content              VERB       ADJ        conter               amod            O
+10    content              VERB       VPP        conter               amod            O
 11    de                   ADP        P          de                   case            O
 12    David                PROPN      NPP        David                nmod            B-PER
 13    ,                    PUNCT      PONCT      ,                    punct           O
 14    que                  SCONJ      CS         que                  mark            O
 15    pour                 ADP        P          pour                 case            O
-16    seur                 ADJ        NC         sûr                  obl             O
+16    seur                 ADJ        ADJ        sûr                  obl             O
 17    en                   ADP        P          en                   case            O
 18    Israel               PROPN      NPP        Israël               nmod            B-LOC
-19    n'                   PART       PREF       ne                   advmod          O
-20    y                    PRON       PRO        y                    expl            O
+19    n'                   PART       ADV        ne                   advmod          O
+20    y                    PRON       CLO        y                    expl            O
 21    a                    VERB       V          avoir                root            O
 22    point                ADV        ADV        point                advmod          O
-23    d'                   ADP        PREF       de                   case            O
+23    d'                   ADP        P          de                   case            O
 24    homme                NOUN       NC         homme                obj             O
 25    si                   ADV        ADV        si                   advmod          O
 26    bien                 ADV        ADV        bien                 advmod          O
-27    formé                ADJ        ADJ        former               amod            O
+27    formé                ADJ        ADJ        formé                amod            O
 28    de                   ADP        P          de                   case            O
 29    taille               NOUN       NC         taille               nmod            O
 30    ,                    PUNCT      PONCT      ,                    punct           O
@@ -927,7 +907,7 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 33    le                   PRON       CLO        le                   obj             O
 34    voit                 VERB       V          voir                 advcl           O
 35    ,                    PUNCT      PONCT      ,                    punct           O
-36    ne                   PART       PREF       ne                   advmod          O
+36    ne                   PART       ADV        ne                   advmod          O
 37    qui                  PRON       PROREL     qui                  nsubj           O
 38    ait                  VERB       VS         avoir                acl:relcl       O
 39    le                   DET        DET        le                   det             O
