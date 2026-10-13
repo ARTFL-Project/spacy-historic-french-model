@@ -1,2 +1,7 @@
-historic-french-model/transformer/model
 env
+__pycache__/
+_obsolete/
+historic-french-model/
+historic-french-model.tar.gz
+training_space/*
+!training_space/config.cfg

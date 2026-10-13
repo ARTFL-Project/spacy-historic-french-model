@@ -1,4 +1,6 @@
+import argparse
 import random
+from collections import Counter
 from pathlib import Path
 
 import jsonlines
@@ -6,9 +8,12 @@ import spacy
 from spacy.tokens import Doc, DocBin
 from tqdm import tqdm
 
+from prepare_annotations import token_spaces
+
 TRAIN_DB = DocBin()
 DEV_DB = DocBin()
 TEST_DB = DocBin()
+VALIDATED_DB = DocBin()
 PERIOD_DB = {f"{i}-{i + 100}": DocBin() for i in range(1500, 2000, 100)}
 NLP = spacy.load("fr_dep_news_trf")
 
@@ -40,31 +45,6 @@ def augment_rare_categories(examples, rare_pos=["INTJ"], rare_tags=["VIMP"]):
             continue
     print(f"Added {added} examples for rare categories")
     return augmented
-
-
-def should_have_space_after(text: str, next_text: str = None) -> bool:
-    """Determine if a token should have a space after it in French."""
-    if next_text is None:
-        return False
-
-    # No space before these characters
-    if next_text in [",", ".", ")", "]", "}", "»", ";", ":", "!", "?"]:
-        return False
-
-    # No space after these characters
-    if text in ["(", "[", "{", "«"]:
-        return False
-
-    # No space around apostrophes
-    if text.endswith("'") or next_text.startswith("'"):
-        return False
-
-    # No space around hyphens
-    if text.endswith("-") or next_text.startswith("-"):
-        return False
-
-    # Default: include space
-    return True
 
 
 def standardize_dep_label(dep: str) -> str:
@@ -125,10 +105,35 @@ def standardize_dep_label(dep: str) -> str:
     return dep_mapping.get(dep, dep)
 
 
+# Fine-grained tags that sometimes appear in the pos field instead of a UD tag
+TAG_TO_POS = {
+    "DETWH": "DET",
+    "ADJWH": "DET",
+    "ADVWH": "ADV",
+    "PROREL": "PRON",
+    "PROWH": "PRON",
+    "PRO": "PRON",
+    "CLS": "PRON",
+    "CLO": "PRON",
+    "CLR": "PRON",
+    "PONCT": "PUNCT",
+    "P": "ADP",
+    "P+D": "ADP",
+    "P+PRO": "ADP",
+    "V": "VERB",
+    "VPP": "VERB",
+    "VPR": "VERB",
+    "VINF": "VERB",
+    "VS": "VERB",
+    "VIMP": "VERB",
+    "VER": "VERB",  # typo in the hand-validated 1700-1800 sentences
+}
+
+
 def fix_pos(pos: str) -> str:
     if pos == "SYM":
         return "X"
-    return pos
+    return TAG_TO_POS.get(pos, pos)
 
 
 def fix_tag(tag: str, lemma) -> str:
@@ -152,33 +157,17 @@ def fix_tag(tag: str, lemma) -> str:
     return tag
 
 
-def fix_lemma(lemma: str) -> str:
-    if lemma == "a+le":
-        return "au"
-    elif lemma == "a+les":
-        return "aux"
-    elif lemma == "de+le" or lemma == "de + le":
-        return "du"
-    elif lemma == "de+les":
-        return "des"
-    return lemma
-
-
 def convert_to_spacy(examples, sent_type="train", period=None):
+    skipped = Counter()
     for example in tqdm(examples, total=len(examples)):
         tokens = example["annotations"]["tokens"]
         try:
             words = [t["text"] for t in tokens]
         except KeyError:
+            skipped["token without text"] += 1
             continue
 
-        # Calculate spaces
-        spaces = []
-        for i in range(len(words)):
-            if i < len(words) - 1:
-                spaces.append(should_have_space_after(words[i], words[i + 1]))
-            else:
-                spaces.append(False)  # No space after last token
+        spaces = token_spaces(example["text"], words)
 
         # try:
         #     ents = [t["ent"] for t in tokens]
@@ -196,7 +185,8 @@ def convert_to_spacy(examples, sent_type="train", period=None):
                 deps=[standardize_dep_label(t["dep"]) for t in tokens],
                 # ents=ents,
             )
-        except:
+        except Exception as e:
+            skipped[f"{type(e).__name__}: {str(e)[:70]}"] += 1
             continue
 
         if sent_type == "train":
@@ -205,20 +195,35 @@ def convert_to_spacy(examples, sent_type="train", period=None):
             DEV_DB.add(doc)
         elif sent_type == "test":
             TEST_DB.add(doc)
+        elif sent_type == "validated":
+            VALIDATED_DB.add(doc)
 
         if period is not None:
             PERIOD_DB[period].add(doc)
 
+    if skipped:
+        print(f"Skipped {sum(skipped.values())} {sent_type} sentences: {dict(skipped)}")
+
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--dev-fraction", type=float, default=0.05, help="share of each period held out for dev")
+    parser.add_argument("--output-dir", default="training_space/data")
+    args = parser.parse_args()
+    output_dir = Path(args.output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+    train_fraction = 1 - args.dev_fraction
+
+    random.seed(0)
     training_sentences = []
     dev_sentences = []
     for period in [(1500, 1600), (1600, 1700), (1700, 1800), (1800, 1900), (1900, 2000)]:
         with jsonlines.open(f"training_data/annotations_{period[0]}-{period[1]}.jsonl") as reader:
             sentences = list(reader)
-            training_sents = augment_rare_categories(sentences[: int(0.85 * len(sentences))])
+            split = round(train_fraction * len(sentences))
+            training_sents = augment_rare_categories(sentences[:split])
             training_sentences.extend(training_sents)
-            dev_sents = sentences[int(0.85 * len(sentences)) :]
+            dev_sents = sentences[split:]
             dev_sentences.extend(dev_sents)
 
     random.shuffle(training_sentences)
@@ -226,19 +231,21 @@ if __name__ == "__main__":
 
     convert_to_spacy(training_sentences, sent_type="train")
     convert_to_spacy(dev_sentences, sent_type="dev")
-    TRAIN_DB.to_disk("training_space/data/train.spacy")
-    DEV_DB.to_disk("training_space/data/dev.spacy")
-    test_sentences = []
+    TRAIN_DB.to_disk(output_dir / "train.spacy")
+    DEV_DB.to_disk(output_dir / "dev.spacy")
     for period in [(1500, 1600), (1600, 1700), (1700, 1800), (1800, 1900), (1900, 2000)]:
         test_file = f"test_data/annotations_{period[0]}-{period[1]}_test_set.jsonl"
         if not Path(test_file).exists():
             print(f"Warning: {test_file} not found, skipping")
             continue
         with jsonlines.open(test_file) as reader:
-            sentences = list(reader)
-            convert_to_spacy(sentences, sent_type="test", period=f"{period[0]}-{period[1]}")
-            test_sentences.extend(sentences)
-    convert_to_spacy(test_sentences, sent_type="test")
-    TEST_DB.to_disk("training_space/data/test.spacy")
+            convert_to_spacy(list(reader), sent_type="test", period=f"{period[0]}-{period[1]}")
+    TEST_DB.to_disk(output_dir / "test.spacy")
     for period, db in PERIOD_DB.items():
-        db.to_disk(f"training_space/data/{period}_test.spacy")
+        db.to_disk(output_dir / f"{period}_test.spacy")
+
+    # Hand-validated sentences, kept as annotated (no automatic label fixes)
+    for validated_file in sorted(Path("validated_test_data/validated_jsonl").glob("*.jsonl")):
+        with jsonlines.open(validated_file) as reader:
+            convert_to_spacy(list(reader), sent_type="validated")
+    VALIDATED_DB.to_disk(output_dir / "validated_test.spacy")
