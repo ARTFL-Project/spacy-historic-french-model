@@ -1,4 +1,4 @@
-# spacy-historic-english-model
+# Historic English model
 A spaCy model for British English of the 16th to 20th centuries
 
 The model does part-of-speech tagging and lemmatization: coarse POS (Universal Dependencies, `pos_`), Penn Treebank tags (`tag_`) and lemmas in modern British spelling (`lemma_`). It reads texts as printed, with long s, u/v and i/j by position, abbreviation marks and historic spellings (*vnto*, *haue*, *ſaid*, *loueth*, *publick*), and lemmatizes them to the modern word (*unto*, *have*, *say*, *love*, *public*).
@@ -35,7 +35,7 @@ How to read these figures:
 
 ## Installation
 
-1. Download the model from the [latest release](https://github.com/ARTFL-Project/spacy-historic-english-model/releases/latest)
+1. Download the model from the [en-v1.0 release](https://github.com/ARTFL-Project/spacy-historic-models/releases/tag/en-v1.0)
 
 2. Extract the model:
 ```bash
@@ -54,13 +54,15 @@ for token in doc:
 
 ## Rebuilding the model
 
+Run these commands from the `en/` directory.
+
 1. `python extract_sentences.py` extracts candidate sentences per century from the TCP texts and from the Gutenberg books chosen by `select_gutenberg.py`.
 2. `python make_gold_sets.py` draws the gold and challenge sentences, `python split_data.py` the training and test sentences, keeping documents apart, and `python extend_data.py` the additional sentences for 1500–1700 from documents not used elsewhere.
 3. `python annotate.py gemini-3.8-flash data/sentences_train_<period>.jsonl --output annotations/train_<period> --batch` annotates through OpenRouter's Batch API (likewise `sentences_train2_<period>` into `annotations/train2_<period>`, and the test sentences). The prompt is `ANNOTATION_GUIDELINES.md`.
 4. `python fix_annotations.py` corrects systematic slips and writes `training_data/` and `test_data/`. Run it with `--score` to see each rule's effect on the gold sets. `python ud_conventions.py check <file>` lists departures from the UD English conventions.
 5. `python convert_to_spacy.py` writes the spaCy files to `training_space/data/`, holding out 5% of each century, by document, for dev, and rewrites a third of the early training sentences without the long s.
 6. `cd training_space && python -m spacy train config.cfg --code ../historic_tokenizer.py --output <output_dir> --gpu-id 0`
-7. `python package_model.py <output_dir>/model-best historic-english-model` removes the training-time tokenizer hook, so that the model loads without this repository's code.
+7. `python ../shared/package_model.py <output_dir>/model-best historic-english-model` removes the training-time tokenizer hook, so that the model loads without this repository's code.
 8. `python evaluate_models.py` scores the model and `en_core_web_trf` on the gold sets, the test sets and UD English EWT.
 
 Gold sentences are in `gold/readable/*.txt` for hand correction; `python readable_gold.py to-jsonl gold/readable/gold_1.txt gold/gold_1.jsonl` converts them back.

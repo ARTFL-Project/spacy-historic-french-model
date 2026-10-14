@@ -1,4 +1,4 @@
-# spacy-historic-french-model
+# Historic French model
 A SpaCy French model for 16th-20th century French
 
 This model was trained on a corpus of 50,000 sentences derived from ARTFL-Frantext (10,000 per century), automatically annotated by GPT4. The annotations were then corrected:
@@ -25,7 +25,7 @@ Both gold sets contain 20 sentences per century, follow the conventions above, a
 
 ## Installation
 
-1. Download the model from the [latest release](https://github.com/ARTFL-Project/spacy-historic-french-model/releases/latest)
+1. Download the model from the [v6.0 release](https://github.com/ARTFL-Project/spacy-historic-models/releases/tag/v6.0)
 
 2. Extract the model:
 ```bash
@@ -46,10 +46,12 @@ doc = nlp(text)
 
 ## Rebuilding the model
 
+Run these commands from the `fr/` directory.
+
 1. `python prepare_annotations.py` rebuilds `training_data/` and `test_data/` from the original GPT4 annotations (commit `6df8d70`), splitting and merging tokens to match the tokenizer and applying the label fixes.
 2. `python convert_annot_to_spacy_bin.py` writes the spaCy training files to `training_space/data/`, holding out 5% of each century for dev.
 3. `cd training_space && python -m spacy train config.cfg --code ../historic_tokenizer.py --output <output_dir> --gpu-id 0`
-4. `python package_model.py <output_dir>/model-best <model_dir>` makes the trained model load without `historic_tokenizer.py`.
+4. `python ../shared/package_model.py <output_dir>/model-best <model_dir>` makes the trained model load without `historic_tokenizer.py`.
 5. `python spacy_model_evaluator.py` scores the model and `fr_dep_news_trf` on the Sequoia treebank, both gold sets and the test sets.
 
 The tokenizer is spaCy's French tokenizer adapted to historic printing (`historic_tokenizer.py`): dashes glued to words, capitalized and historic spellings of spaCy's exceptions (*Peut-être*, *peut-estre*, *aujourd'huy*), and clitics missing from spaCy's list (*as-tu*, *a-t'il*).

@@ -4,7 +4,7 @@ Make a trained pipeline loadable without this project's code: the historic token
 are already saved in the pipeline's tokenizer, so the training-time callback that set them
 up is removed from its config.
 
-    python package_model.py training_space/models/model-best historic-english-model
+    cd fr && python ../shared/package_model.py training_space/models/model-best historic-french-model
 """
 
 import shutil
