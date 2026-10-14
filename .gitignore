@@ -1,7 +1,12 @@
-env
+env/
 __pycache__/
 _obsolete/
+*.key
+*.tar.gz
 historic-french-model/
-historic-french-model.tar.gz
-training_space/*
-!training_space/config.cfg
+historic-english-model/
+*/training_space/*
+!*/training_space/config.cfg
+en/raw/
+en/models/
+en/logs/
