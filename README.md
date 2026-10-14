@@ -11,15 +11,15 @@ The model only supports lemmatization, and coarse and fine-grained POS tagging (
 
 | Test set | POS | TAG | Lemma |
 |----------|-----|-----|-------|
-| Hand-corrected gold (99 sentences) | 98.14% | 97.62% | 98.14% |
-| Second gold set (100 sentences) | 97.49% | 96.58% | 97.34% |
-| Held-out test set (4,999 sentences) | 98.33% | 97.70% | 97.20% |
-| 1500-1600 | 97.39% | 96.78% | 94.84% |
-| 1600-1700 | 98.43% | 97.50% | 97.09% |
-| 1700-1800 | 98.73% | 98.14% | 97.97% |
-| 1800-1900 | 98.62% | 98.13% | 98.20% |
-| 1900-2000 | 98.49% | 98.00% | 98.03% |
-| Sequoia (modern French, UD) | 95.03% | – | 93.84% |
+| Hand-corrected gold (99 sentences) | 98.02% | 97.57% | 98.03% |
+| Second gold set (100 sentences) | 97.63% | 96.66% | 97.76% |
+| Held-out test set (4,999 sentences) | 98.50% | 97.85% | 97.53% |
+| 1500-1600 | 97.52% | 96.93% | 95.05% |
+| 1600-1700 | 98.59% | 97.67% | 97.41% |
+| 1700-1800 | 98.88% | 98.20% | 98.27% |
+| 1800-1900 | 98.81% | 98.27% | 98.59% |
+| 1900-2000 | 98.75% | 98.27% | 98.49% |
+| Sequoia (modern French, UD) | 95.39% | – | 93.95% |
 
 Both gold sets contain 20 sentences per century, follow the conventions above, and were not used for training. The held-out test set is annotated by GPT4 with the same corrections as the training data.
 
@@ -46,9 +46,12 @@ doc = nlp(text)
 
 ## Rebuilding the model
 
-1. `python prepare_annotations.py` rebuilds `training_data/` and `test_data/` from the original GPT4 annotations (commit `6df8d70`), splitting contractions and applying the label fixes.
+1. `python prepare_annotations.py` rebuilds `training_data/` and `test_data/` from the original GPT4 annotations (commit `6df8d70`), splitting and merging tokens to match the tokenizer and applying the label fixes.
 2. `python convert_annot_to_spacy_bin.py` writes the spaCy training files to `training_space/data/`, holding out 5% of each century for dev.
-3. `cd training_space && python -m spacy train config.cfg --output <output_dir> --gpu-id 0`
-4. `python spacy_model_evaluator.py` scores the model and `fr_dep_news_trf` on the Sequoia treebank, both gold sets and the test sets.
+3. `cd training_space && python -m spacy train config.cfg --code ../historic_tokenizer.py --output <output_dir> --gpu-id 0`
+4. `python package_model.py <output_dir>/model-best <model_dir>` makes the trained model load without `historic_tokenizer.py`.
+5. `python spacy_model_evaluator.py` scores the model and `fr_dep_news_trf` on the Sequoia treebank, both gold sets and the test sets.
+
+The tokenizer is spaCy's French tokenizer adapted to historic printing (`historic_tokenizer.py`): dashes glued to words, capitalized and historic spellings of spaCy's exceptions (*Peut-être*, *peut-estre*, *aujourd'huy*), and clitics missing from spaCy's list (*as-tu*, *a-t'il*).
 
 Gold sentences are edited in `validated_test_data_readable/txt/` (`*_test_set.txt` and `*_test_set_2.txt`) and converted with `txt_to_jsonl.py` into `validated_test_data/validated_jsonl/`.

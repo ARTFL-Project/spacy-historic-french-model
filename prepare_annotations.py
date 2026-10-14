@@ -24,9 +24,10 @@ import spacy
 from spacy.tokens import Doc
 from spacy.training import Alignment
 
+from historic_tokenizer import make_nlp
+
 ORIGINAL_COMMIT = "6df8d70"
 PERIODS = ["1500-1600", "1600-1700", "1700-1800", "1800-1900", "1900-2000"]
-TOKENIZER_PATH = "historic-french-model/tokenizer"
 
 # Contracted preposition + article: lemmatize as the preposition, like fr_dep_news_trf
 CONTRACTED_LEMMAS = {
@@ -186,7 +187,10 @@ def split_token(token, pieces, table):
     guesses = [piece_labels(piece, table, prefer_pronoun=prefers_pronoun(i, piece)) for i, piece in enumerate(pieces)]
     heads = [i for i, guess in enumerate(guesses) if guess and guess["lemma"].lower() == token["lemma"].lower()]
     if len(heads) != 1:
-        return None, None
+        # a rare verb followed by hyphen clitics ("repliqua-t'il"): the verb is the head
+        heads = [i for i, piece in enumerate(pieces) if not piece.startswith(("-", "–")) and not (i and pieces[i - 1].lower().startswith(("-t'", "-t’")))]
+        if len(heads) != 1 or heads[0] != 0 or len(pieces) < 2:
+            return None, None
     head = heads[0]
     if any(guess is None or guess["pos"] not in CLOSED_CLASS for i, guess in enumerate(guesses) if i != head):
         return None, None
@@ -197,21 +201,42 @@ def split_token(token, pieces, table):
     return new_tokens, "head_piece"
 
 
+def merge_tokens(parts, text, table):
+    """One token for annotation tokens the tokenizer keeps together ("-" + "tu", "moi" + "-" + "même")."""
+    words = [t for t in parts if any(c.isalpha() for c in t["text"])]
+    if len(words) == 1:
+        return {**words[0], "text": text}
+    labels = piece_labels(text, table)
+    return {**(words or parts)[0], **(labels or {}), "text": text}
+
+
 def make_tokenizer():
-    nlp = spacy.blank("fr")
-    nlp.tokenizer.from_disk(TOKENIZER_PATH)
-    return nlp.tokenizer
+    return make_nlp().tokenizer
 
 
 def retokenize(sentence, tokenizer, table, stats):
-    """Split tokens the way the tokenizer splits them in the sentence, as during training."""
+    """Split and merge tokens the way the tokenizer does in the sentence, as during training."""
     tokens = sentence["annotations"]["tokens"]
     words = [t["text"] for t in tokens]
     doc = Doc(tokenizer.vocab, words=words, spaces=token_spaces(sentence["text"], words))
     predicted = [t.text for t in tokenizer(doc.text)]
     alignment = Alignment.from_strings([t.text for t in doc], predicted)
-    new_tokens = []
+    merges = {}
+    for j in range(len(predicted)):
+        sources = [int(i) for i in alignment.y2x[j]]
+        if len(sources) > 1 and all([int(k) for k in alignment.x2y[i]] == [j] for i in sources):
+            merges[sources[0]] = (sources, predicted[j])
+    new_tokens, merged = [], set()
     for i, token in enumerate(tokens):
+        if i in merged:
+            continue
+        if i in merges:
+            sources, text = merges[i]
+            new_tokens.append(merge_tokens([tokens[k] for k in sources], text, table))
+            merged.update(sources)
+            stats["merged"] += 1
+            stats[f"merged: {norm(text)}"] += 1
+            continue
         targets = [int(j) for j in alignment.x2y[i]]
         if len(targets) > 1 and all(list(alignment.y2x[j]) == [i] for j in targets):
             pieces = [predicted[j] for j in targets]
@@ -591,7 +616,10 @@ def pronominal_autre(tokens, i):
 
 
 def euphonic_t(tokens, i):
-    if word(tokens[i]) in ("-t", "-t-"):
+    # also the historic "a-t'il"; in "va-t'en" -t' is the pronoun te
+    following = neighbour(tokens, i, 1)
+    if word(tokens[i]) in ("-t", "-t-") or (
+            word(tokens[i]) == "-t'" and following is not None and word(following) in ("il", "elle", "on", "ils", "elles")):
         return {"pos": "X", "tag": "X", "lemma": "t"}
 
 
@@ -738,13 +766,14 @@ def main():
         with open(path, "w", encoding="utf-8") as f:
             for sentence in fixed:
                 f.write(json.dumps(sentence, ensure_ascii=False) + "\n")
-        summary = {k: v for k, v in stats.items() if not k.startswith("split: ")}
+        summary = {k: v for k, v in stats.items() if not k.startswith(("split: ", "merged: "))}
         print(f"{path}: {len(fixed)} sentences, {summary}")
         total.update(stats)
 
-    print("\nMost frequent splits:")
-    for key, count in Counter({k: v for k, v in total.items() if k.startswith("split: ")}).most_common(25):
-        print(f"  {key[7:]:20s} {count}")
+    for kind in ("split", "merged"):
+        print(f"\nMost frequent ({kind}):")
+        for key, count in Counter({k: v for k, v in total.items() if k.startswith(f"{kind}: ")}).most_common(25):
+            print(f"  {key[len(kind) + 2:]:20s} {count}")
 
 
 if __name__ == "__main__":

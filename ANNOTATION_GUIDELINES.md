@@ -6,6 +6,13 @@ DEP labels come from the GPT-4 annotation and aren't used for training; leave th
 
 `prepare_annotations.py` applies most of these conventions to the GPT-4 annotations automatically; the rest need a person.
 
+## Tokenization
+Tokens follow `historic_tokenizer.py`, so the labels line up with what the model sees:
+- Elisions are split (*c'* + *est*, *qu'* + *il*), and so are inverted and imperative clitics, keeping their hyphen: *dit* + *-il*, *as* + *-tu*, *sont* + *-elles*, *dites* + *-lui*, *a* + *-t'* + *il*, *va* + *-t'* + *en*.
+- Dashes are separate tokens, including a single hyphen used as a dialogue dash (*-* + *Mais*) and `--` or `---` glued to a word.
+- Kept whole: *peut-être*, *aujourd'hui* and their historic spellings (*peut-estre*, *aujourd'huy*), pronouns with *même* (*moi-même*, *luy-mesme*), *celui-ci*, *ceux-ci*, *celuy-cy*, and other hyphenated words on spaCy's list (*au-dessus*, *rendez-vous*), in any capitalization.
+- Other hyphenated words are split around a separate hyphen token (*long* + *-* + *temps*, *c'* + *est* + *-* + *à* + *-* + *dire*); every piece keeps the whole word's labels.
+
 ## Tagset: TAG and the POS it goes with
 | TAG | POS | Use |
 |---|---|---|

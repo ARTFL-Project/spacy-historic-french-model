@@ -455,37 +455,36 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 6     ,                    PUNCT      PONCT      ,                    punct           O
 7     luy                  PRON       CLO        lui                  iobj            O
 8     respondis            VERB       V          répondre             parataxis       O
-9     -                    PUNCT      PONCT      -                    punct           O
-10    je                   PRON       CLS        je                   nsubj           O
-11    ,                    PUNCT      PONCT      ,                    punct           O
-12    je                   PRON       CLS        je                   nsubj           O
-13    vous                 PRON       CLO        vous                 iobj            O
-14    en                   PRON       CLO        en                   obj             O
-15    demande              VERB       V          demander             ROOT            O
-16    pardon               NOUN       NC         pardon               obj             O
-17    ;                    PUNCT      PONCT      ;                    punct           O
-18    mais                 CCONJ      CC         mais                 cc              O
-19    si                   SCONJ      CS         si                   mark            O
-20    cela                 PRON       PRO        cela                 nsubj           O
-21    n'                   PART       ADV        ne                   advmod          O
-22    est                  VERB       V          être                 cop             O
-23    pas                  ADV        ADV        pas                  advmod          O
-24    ,                    PUNCT      PONCT      ,                    punct           O
-25    je                   PRON       CLS        je                   nsubj           O
-26    ne                   PART       ADV        ne                   advmod          O
-27    fus                  AUX        V          être                 aux             O
-28    de                   ADP        P          de                   case            O
-29    ma                   DET        DET        mon                  det             O
-30    vie                  NOUN       NC         vie                  obl             O
-31    mieux                ADV        ADV        mieux                advmod          O
-32    payé                 VERB       VPP        payer                ROOT            O
-33    de                   ADP        P          de                   case            O
-34    mon                  DET        DET        mon                  det             O
-35    indiscretion         NOUN       NC         indiscrétion         obl             O
-36    que                  SCONJ      CS         que                  mark            O
-37    ceste                DET        DET        ce                   det             O
-38    fois                 NOUN       NC         fois                 obl             O
-39    .                    PUNCT      PONCT      .                    punct           O
+9     -je                  PRON       CLS        je                   nsubj           O
+10    ,                    PUNCT      PONCT      ,                    punct           O
+11    je                   PRON       CLS        je                   nsubj           O
+12    vous                 PRON       CLO        vous                 iobj            O
+13    en                   PRON       CLO        en                   obj             O
+14    demande              VERB       V          demander             ROOT            O
+15    pardon               NOUN       NC         pardon               obj             O
+16    ;                    PUNCT      PONCT      ;                    punct           O
+17    mais                 CCONJ      CC         mais                 cc              O
+18    si                   SCONJ      CS         si                   mark            O
+19    cela                 PRON       PRO        cela                 nsubj           O
+20    n'                   PART       ADV        ne                   advmod          O
+21    est                  VERB       V          être                 cop             O
+22    pas                  ADV        ADV        pas                  advmod          O
+23    ,                    PUNCT      PONCT      ,                    punct           O
+24    je                   PRON       CLS        je                   nsubj           O
+25    ne                   PART       ADV        ne                   advmod          O
+26    fus                  AUX        V          être                 aux             O
+27    de                   ADP        P          de                   case            O
+28    ma                   DET        DET        mon                  det             O
+29    vie                  NOUN       NC         vie                  obl             O
+30    mieux                ADV        ADV        mieux                advmod          O
+31    payé                 VERB       VPP        payer                ROOT            O
+32    de                   ADP        P          de                   case            O
+33    mon                  DET        DET        mon                  det             O
+34    indiscretion         NOUN       NC         indiscrétion         obl             O
+35    que                  SCONJ      CS         que                  mark            O
+36    ceste                DET        DET        ce                   det             O
+37    fois                 NOUN       NC         fois                 obl             O
+38    .                    PUNCT      PONCT      .                    punct           O
 
 ================================================================================
 SENTENCE 12
@@ -841,9 +840,11 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 23    de                   ADP        P          de                   case            O
 24    passion              NOUN       NC         passion              nmod            O
 25    vous                 PRON       CLO        vous                 iobj            O
-26    a-t'on               AUX        V          avoir                aux             O
-27    données              VERB       VPP        donner               ccomp           O
-28    ?                    PUNCT      PONCT      ?                    punct           O
+26    a                    AUX        V          avoir                aux             O
+27    -t'                  X          X          t                    obj             O
+28    on                   PRON       CLS        on                   nsubj           O
+29    données              VERB       VPP        donner               ccomp           O
+30    ?                    PUNCT      PONCT      ?                    punct           O
 
 ================================================================================
 SENTENCE 20

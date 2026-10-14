@@ -552,26 +552,25 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 2     la                   DET        DET        le                   det             O
 3     dureté               NOUN       NC         dureté               conj            O
 4     méritent             VERB       V          mériter              root            O
-5     -                    PUNCT      PONCT      -                    punct           O
-6     elles                PRON       CLS        elle                 nsubj           O
-7     de                   ADP        P          de                   mark            O
-8     porter               VERB       VINF       porter               xcomp           O
-9     le                   DET        DET        le                   det             O
-10    même                 ADJ        ADJ        même                 amod            O
-11    nom                  NOUN       NC         nom                  obj             O
-12    que                  SCONJ      CS         que                  mark            O
-13    l'                   DET        DET        le                   det             O
-14    amour                NOUN       NC         amour                obl             O
-15    ,                    PUNCT      PONCT      ,                    punct           O
-16    le                   DET        DET        le                   det             O
-17    plaisir              NOUN       NC         plaisir              conj            O
-18    ,                    PUNCT      PONCT      ,                    punct           O
-19    la                   DET        DET        le                   det             O
-20    bonté                NOUN       NC         bonté                conj            O
-21    ,                    PUNCT      PONCT      ,                    punct           O
-22    la                   DET        DET        le                   det             O
-23    tendresse            NOUN       NC         tendresse            conj            O
-24    !                    PUNCT      PONCT      !                    punct           O
+5     -elles               PRON       CLS        elle                 nsubj           O
+6     de                   ADP        P          de                   mark            O
+7     porter               VERB       VINF       porter               xcomp           O
+8     le                   DET        DET        le                   det             O
+9     même                 ADJ        ADJ        même                 amod            O
+10    nom                  NOUN       NC         nom                  obj             O
+11    que                  SCONJ      CS         que                  mark            O
+12    l'                   DET        DET        le                   det             O
+13    amour                NOUN       NC         amour                obl             O
+14    ,                    PUNCT      PONCT      ,                    punct           O
+15    le                   DET        DET        le                   det             O
+16    plaisir              NOUN       NC         plaisir              conj            O
+17    ,                    PUNCT      PONCT      ,                    punct           O
+18    la                   DET        DET        le                   det             O
+19    bonté                NOUN       NC         bonté                conj            O
+20    ,                    PUNCT      PONCT      ,                    punct           O
+21    la                   DET        DET        le                   det             O
+22    tendresse            NOUN       NC         tendresse            conj            O
+23    !                    PUNCT      PONCT      !                    punct           O
 
 ================================================================================
 SENTENCE 2

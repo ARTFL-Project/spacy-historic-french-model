@@ -103,25 +103,24 @@ IDX   TOKEN                POS        TAG        LEMMA                DEP       
 25    motifs               NOUN       NC         motif                nmod            O
 26    du                   ADP        P+D        de                   case            O
 27    kyrie                NOUN       NC         kyrie                nmod            O
-28    -                    PUNCT      PONCT      -                    punct           O
-29    le                   DET        DET        le                   det             O
-30    plus                 ADV        ADV        plus                 advmod          O
-31    émouvant             ADJ        ADJ        émouvant             amod            O
-32    :                    PUNCT      PONCT      :                    punct           O
-33    l'                   DET        DET        le                   det             O
-34    eleison              NOUN       NC         eleison              appos           O
-35    ,                    PUNCT      PONCT      ,                    punct           O
-36    -qu'                 PRON       PROREL     que                  mark            O
-37    il                   PRON       CLS        il                   nsubj           O
-38    attribue             VERB       V          attribuer            acl:relcl       O
-39    au                   ADP        P+D        à                    case            O
-40    mois                 NOUN       NC         mois                 obl             O
-41    de                   ADP        P          de                   case            O
-42    mai                  NOUN       NC         mai                  nmod            B-DATE
-43    ou                   CCONJ      CC         ou                   cc              O
-44    de                   ADP        P          de                   case            O
-45    juin                 NOUN       NC         juin                 conj            B-DATE
-46    .                    PUNCT      PONCT      .                    punct           O
+28    -le                  DET        DET        le                   det             O
+29    plus                 ADV        ADV        plus                 advmod          O
+30    émouvant             ADJ        ADJ        émouvant             amod            O
+31    :                    PUNCT      PONCT      :                    punct           O
+32    l'                   DET        DET        le                   det             O
+33    eleison              NOUN       NC         eleison              appos           O
+34    ,                    PUNCT      PONCT      ,                    punct           O
+35    -qu'                 PRON       PROREL     que                  mark            O
+36    il                   PRON       CLS        il                   nsubj           O
+37    attribue             VERB       V          attribuer            acl:relcl       O
+38    au                   ADP        P+D        à                    case            O
+39    mois                 NOUN       NC         mois                 obl             O
+40    de                   ADP        P          de                   case            O
+41    mai                  NOUN       NC         mai                  nmod            B-DATE
+42    ou                   CCONJ      CC         ou                   cc              O
+43    de                   ADP        P          de                   case            O
+44    juin                 NOUN       NC         juin                 conj            B-DATE
+45    .                    PUNCT      PONCT      .                    punct           O
 
 ================================================================================
 SENTENCE 5
