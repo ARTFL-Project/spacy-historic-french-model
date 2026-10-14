@@ -1,0 +1,93 @@
+id	idx	token	POS	TAG	lemma	note
+200	15	His	PRON	PRP	his	independent possessive (= his laws etc.), like mine/thine used alone
+202	34	.	PUNCT	.	.	non-final period tagged . (every period character tagged .)
+206	2	a	DET	DT	a	probably 'almost' printed apart (a most); parts analysed separately
+206	5	what	DET	WDT	what	exclamative what before an article: WDT DET (as PTB/EWT), not PDT
+206	50	viz	ADV	RB	viz	period split off by tokenizer; lemma = printed token
+206	51	.	PUNCT	.	.	non-final period tagged . (every period character tagged .)
+207	20	Whoreing	VERB	VBG	whore	gerund after preposition a-, no determiner -> VBG
+208	28	thoſe	PRON	DT	that	demonstrative those lemmatized to that (as UD EWT)
+209	6	to	ADP	IN	to	argument to pity read as to + noun pity; infinitive reading possible
+209	7	pity	NOUN	NN	pity	argument to pity read as to + noun pity; infinitive reading possible
+210	8	thoſe	DET	DT	that	demonstrative those lemmatized to that (as UD EWT)
+211	23	create	VERB	VBN	create	archaic short participle (= created), postnominal like 'net spread'
+211	24	/	PUNCT	:	/	virgule used as a light pause mark: : (other mid-sentence punctuation)
+211	25	yet	ADV	RB	yet	yet resuming the main clause after a concessive clause: RB
+212	14	fef	VERB	VB	feoff	cited verb 'to fef' (= feoff)
+212	16	feoff	VERB	VB	feoff	variant of the cited verb (to fef, feoff); noun feoff possible
+213	6	yt	DET	DT	that	yt read as that per guidelines, though before a plural noun ('the' in sense)
+214	21	ineſpeciallye	ADV	RB	inespecially	archaic in+especially; own lemma, modern spelling
+216	26	inter'd	VERB	VBN	inter	lie inter'd = lie buried: verbal participle (by = beside, not agent)
+217	41	be	VERB	VBN	bethink	be thought = bethought split by a space; both pieces get the labels of the whole word
+217	42	thought	VERB	VBN	bethink	be thought = bethought split by a space; both pieces get the labels of the whole word
+218	22	theſe	DET	DT	this	demonstrative these lemmatized to this (as UD EWT)
+219	0	Waunds	INTJ	UH	wounds	dialect oath; read as "wounds" (= zounds)
+219	10	an	CCONJ	CC	and	dialect an = and here; the if-reading makes no sense
+219	15	antimate	ADJ	JJ	intimate	dialect form of intimate
+219	16	Frant	NOUN	NN	friend	dialect form of friend
+219	21	gave	VERB	VB	give	dialect gave = give (infinitive after to)
+219	23	Hont	NOUN	NN	hand	dialect form of hand
+219	24	too	ADP	IN	to	too = to, stranded preposition of the relative that
+220	3	mun	AUX	MD	mun	dialect modal mun (ON munu) is not a spelling of must; own lemma
+220	40	gang	VERB	VB	gang	dialect verb gang kept as own lemma, not translated to go
+220	42	heven	NOUN	NN	heaven	heaven as common noun
+220	48	yan	NUM	CD	one	yan = one ('one by another')
+221	14	spreint	VERB	VBN	spreng	obsolete verb spreng 'sprinkle' (OED headword), pp. spreint
+222	2	yt	PRON	PRP	it	yt here = it (y-for-i spelling, cf. yf), not that
+222	26	yet	ADV	RB	yet	yet resuming the main clause after a concessive clause: RB
+223	10	yt	PRON	DT	that	yt = that in the formula that is to say
+224	0	E	PROPN	NNP	E	enumeration letter (list item marker); no LS tag in tagset, treated like letter labels A. B. C.
+224	15	Lorde	NOUN	NN	lord	my Lord of Canterbury: title + of + place, no personal name: NN
+225	6	ergo	ADV	RB	ergo	naturalised Latin ergo (= therefore) treated as English adverb, like viz
+225	8	Bishops	NOUN	NN	bishop	possessive without apostrophe; singular noun
+225	29	ergo	ADV	RB	ergo	naturalised Latin ergo (= therefore) treated as English adverb, like viz
+225	40	ergo	ADV	RB	ergo	naturalised Latin ergo (= therefore) treated as English adverb, like viz
+226	5	well	INTJ	UH	well	well awaie = wellaway (interjection); both parts UH
+226	6	awaie	INTJ	UH	away	well awaie = wellaway (interjection); both parts UH
+228	11	a	ADV	RB	asunder	a ſonder = asunder split by a space; both pieces get the labels of the whole word
+228	12	ſonder	ADV	RB	asunder	a ſonder = asunder split by a space; both pieces get the labels of the whole word
+228	31	But	CCONJ	CC	but	never like to thrive but to mourn: contrastive not-X-but-Y
+228	52	rycheſſe	NOUN	NN	richesse	archaic richesse (OED headword), singular; not riches
+229	2	yt	SCONJ	IN	that	yt read as that per guidelines (complementizer); sense could be thee
+230	5	thoſe	DET	DT	that	demonstrative those lemmatized to that (as UD EWT)
+231	17	.	PUNCT	.	.	abbreviation period split off Cor; tagged . like every period
+231	19	.	PUNCT	.	.	chapter-verse separator; tagged . like every period
+233	0	No	PART	RB	not	Scots no = not ('no six months gane' = not six months ago)
+233	3	gane	VERB	VBN	go	Scots gane = gone; absolute participle 'six months gone' (= ago); lemma go
+233	6	drucken	ADJ	JJ	drunken	Scots drucken = drunken
+233	7	deevil	NOUN	NN	devil	Scots deevil = devil
+233	19	staggerin	VERB	VBG	stagger	dropped g: staggerin' = staggering
+233	20	'	PUNCT	NFP	'	apostrophe of dropped g (staggerin'), not a quotation mark: NFP
+233	29	duds	NOUN	NNS	duds	plurale tantum duds = clothes; singular dud is another word
+234	2	zun	NOUN	NN	sun	West Country z for s: zun = sun
+234	6	be	AUX	VBP	be	West Country finite 'be' = is (3sg subject); tagged VBP as finite present like 'they be', not VB subjunctive
+234	7	a	ADP	IN	a	a- prefix before participle (a-zettin') = IN ADP, lemma a
+234	9	zettin	VERB	VBG	set	West Country zettin' = setting
+234	10	’	PUNCT	NFP	’	detached elision apostrophe (dropped g), not a closing quote
+234	24	varmur	NOUN	NN	farmer	West Country varmur = farmer
+234	26	meddy	NOUN	NN	meadow	dialect meddy = meadow
+234	31	zo	ADV	RB	so	West Country zo = so
+234	32	vurm	ADJ	JJ	firm	West Country vurm = firm
+234	34	zteddy	ADJ	JJ	steady	West Country zteddy = steady
+234	37	be	AUX	VBP	be	West Country 'you be' = you are (copula)
+234	39	zure	ADJ	JJ	sure	West Country zure = sure
+234	41	vindin	VERB	VBG	find	West Country vindin' = finding
+234	42	’	PUNCT	NFP	’	detached elision apostrophe (dropped g), not a closing quote
+235	0	Weel	ADV	RB	well	Yorkshire weel = well
+235	4	san’t	AUX	MD	shall	Yorkshire san't = shan't; fused modal+not takes the modal's labels
+235	6	t’	DET	DT	the	Yorkshire definite article t' = the (not to)
+235	7	vict’ry	NOUN	NN	victory	vict'ry = victory
+235	11	agean	ADP	IN	against	Yorkshire agean = against
+235	14	dowters	NOUN	NNS	daughter	dowters = daughters
+235	18	Yit	CCONJ	CC	yet	dialect yit = yet (coordinating, 'but')
+235	25	flinchin	VERB	VBG	flinch	flinchin' = flinching; gerund without determiner
+235	26	’	PUNCT	NFP	’	detached elision apostrophe (dropped g), not a closing quote
+235	28	feight	VERB	VB	fight	dialect feight = fight
+236	11	'	PUNCT	NFP	'	elision apostrophe of dropped h in 'e, not an opening quote
+236	12	e	PRON	PRP	he	Cockney 'e = he
+236	13	ai	AUX	VBZ	be	ain't = isn't with 3sg subject 'e -> VBZ
+236	17	bloomin	ADJ	JJ	blooming	bloomin' = blooming (intensifier adjective)
+236	18	'	PUNCT	NFP	'	detached elision apostrophe (dropped g), not a closing quote
+236	21	all	DET	PDT	all	'all that' (pronoun that): all as predeterminer before demonstrative
+237	24	eatin	VERB	VBG	eat	fire-eatin' = fire-eating; participle with incorporated object stays verbal
+237	25	'	PUNCT	NFP	'	detached elision apostrophe (dropped g), not a closing quote

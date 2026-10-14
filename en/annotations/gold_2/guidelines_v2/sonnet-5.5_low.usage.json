@@ -1,0 +1,12 @@
+{
+  "run": "sonnet-5.5_low",
+  "sentences": 100,
+  "annotated": 100,
+  "failures": [],
+  "prompt_tokens": 165062,
+  "completion_tokens": 47295,
+  "cost": 0.8030740000000001,
+  "reasoning_tokens": 0,
+  "requests": 20,
+  "seconds": 63
+}

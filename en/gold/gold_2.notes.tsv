@@ -1,0 +1,89 @@
+id	idx	token	POS	TAG	lemma	note
+101	1	all	DET	DT	all	floating quantifier after a pronoun (we all): DET
+101	9	Melitoe	NOUN	NN	melitoe	unidentified plant (possibly melilot); printed form kept
+103	19	all	DET	DT	all	floating quantifier after a pronoun (them all): DET
+104	36	Cham	PROPN	NNP	Ham	Cham = Ham (son of Noah), modern English form
+104	37	aſwell	ADV	RB	well	fused as+well (as well as); labels of well
+105	23	bound	ADJ	JJ	bound	bound to = obliged: adjectival
+107	8	/	PUNCT	:	/	virgule used as a light pause mark: : (other mid-sentence punctuation)
+107	10	meruaylous	ADV	RB	marvellous	flat intensifying adverb modifying great
+111	0	Many	ADJ	JJ	many	many used without a noun: JJ ADJ
+113	1	ſomuche	ADV	RB	much	In somuche that = insomuch that; fused so+much, main word much
+113	24	te	DET	DT	the	te = misprint for the
+113	40	ſhal	ADJ	JJS	shallow	ſhal loweſte = shallowest split by a space; both pieces get the labels of the whole word
+113	41	loweſte	ADJ	JJS	shallow	ſhal loweſte = shallowest split by a space; both pieces get the labels of the whole word
+114	15	meanes	NOUN	NNS	means	means (method): lemma means
+117	5	Sonne	PROPN	NNP	Son	person of the Trinity (God the Son): PROPN, like Lord for God
+117	16	Father	PROPN	NNP	Father	person of the Trinity: PROPN, like Lord for God
+117	20	Sonne	PROPN	NNP	Son	person of the Trinity: PROPN, like Lord for God
+118	39	.	PUNCT	.	.	abbreviation point split off mid-sentence; tagged .
+118	40	li	NOUN	NN	li	abbreviation of librae (pounds); token form as lemma
+118	41	.	PUNCT	.	.	abbreviation point split off mid-sentence; tagged .
+119	5	all	DET	DT	all	all before such + noun (no following determiner): DT, not PDT
+120	19	whom	PRON	WP	who	whom lemmatised to nominative who
+121	6	'	PUNCT	NFP	'	elision apostrophe split off by tokenizer; not a quotation mark
+122	0	One	NUM	CD	one	one ... the other without determiner -> NUM
+124	11	Serjeant	NOUN	NN	serjeant	legal title Serjeant at Law; British legal spelling serjeant
+124	26	Eſq	PROPN	NNP	Esq	post-nominal title, part of the name; lemma = printed form
+130	15	hearts	NOUN	NN	heart	possessive without apostrophe; singular noun
+131	5	ere	ADV	RB	ever	ere = e'er (ever), not 'before'
+133	8	'	PUNCT	NFP	'	elision apostrophe split off by tokenizer; not a quotation mark
+134	14	Maiesties	NOUN	NN	majesty	possessive without apostrophe; singular noun
+134	32	Fathers	NOUN	NN	father	possessive without apostrophe; singular noun
+134	41	Pierian	ADJ	JJ	Pierian	proper adjective; lemma capitalised
+135	3	Saints	NOUN	NNS	saint	possessive without apostrophe; plural reading chosen
+135	25	Heaven	NOUN	NN	heaven	heaven as common noun
+140	26	it	PRON	PRP$	its	archaic possessive it = its
+141	21	as	SCONJ	IN	as	as + prepositional phrase = elliptical clause, not as + noun phrase
+142	2	'	PUNCT	NFP	'	elision apostrophe of Marlbro' split off by the tokenizer, not a quotation mark
+142	14	Heav'n	NOUN	NN	heaven	Heaven as metonym for God; the God/Lord PROPN rule not extended to it
+143	1	need	AUX	MD	need	modal need (need not + bare infinitive); not in the guideline's modal list
+144	14	courſe	ADJ	JJ	coarse	courſe = coarse (spun coarse)
+144	20	above	ADV	RB	above	above = more than, modifying the numeral (cf. about 80 l.)
+146	23	Devil	NOUN	NN	devil	the Devil: common noun with article (like the King); God/Lord PROPN rule not extended
+148	8	Half	ADJ	JJ	half	half in Half-Tones read as adjective (a half tone)
+148	18	viz	X	FW	viz	viz. (videlicet), Latin abbreviation like etc.; its period is a separate token
+148	19	.	PUNCT	.	.	abbreviation period split off viz; tagged . like every period
+148	21	Half	ADJ	JJ	half	half in Half-Tones read as adjective (a half tone)
+150	51	on	ADP	IN	of	on't = of it; lemma by sense, as for o'
+151	8	than	SCONJ	IN	than	than + prepositional phrase = elliptical clause (rather by Fortune than by...)
+151	20	thoſe	DET	DT	that	demonstrative those lemmatized to that (as UD EWT)
+152	35	Silver	ADJ	JJ	silver	Silver Age read as adjective, parallel to Golden Age
+155	24	Zepherinus	PROPN	NNP	Zephyrinus	St Zephyrinus (feast 26 August); modern spelling
+155	29	Samarevis	PROPN	NNP	Samarevis	unidentified saint's name (perhaps Maelrubha, 27 August); printed form kept
+155	33	27d	NUM	CD	27d	27 d. (day) run together; labelled as the numeral
+158	20	As	SCONJ	IN	as	as + adverb (As heretofore) = elliptical clause
+159	21	for	SCONJ	IN	for	for-to infinitive complementizer (impossible for me to grant)
+163	0	However	ADV	WRB	however	'however this may be' = in whatever way: wh-adverb WRB, not conjunctive RB
+163	3	be	AUX	VB	be	copula with wh-predicate 'however' (cf. how are you), not 'exist'
+165	2	Governor	NOUN	NN	governor	title without a name (the Governor-General): NOUN
+165	24	Division	PROPN	NNP	Division	named unit: the 1st Division of Infantry
+165	30	thanks	NOUN	NNS	thanks	plurale tantum: no modern singular noun 'thank'; lemma kept plural
+171	40	each	DET	DT	each	'each other': each DT DET + other JJ ADJ (EWT analysis)
+171	42	’s	PART	POS	's	possessive: lemma normalized to straight 's
+172	16	as	SCONJ	IN	as	'as to a Madonna' = elliptical clause (as [devotion] to ...), not NP: SCONJ
+172	19	Madonna	NOUN	NN	madonna	'a Madonna' = image or type of the Virgin, with article: common noun
+172	41	dare	VERB	VBP	dare	modal-like 'dare I say': dare is not in the MD list, so VERB VBP
+173	38	undertaking	VERB	VBG	undertake	gerund with a direct object (such a journey) after a possessive: VBG
+174	14	one	NOUN	NN	one	'any one' = anyone, written apart: any DT + one NN
+174	28	):	PUNCT	-RRB-	):	fused ) + : token; tagged by its first mark, which closes the ( at 23
+177	3	down	ADP	RP	down	directional particle of 'go down' (cf. set forth): RP
+178	4	are	AUX	VBP	be	locative inversion (Amid X are Y = Y are amid X): copula
+178	30	bas	NOUN	NN	bas	French 'bas' in bas-relief: kept NOUN as the compound modifier
+178	42	Muse	NOUN	NN	muse	'a Muse' = one of the nine Muses, class noun with article: NOUN
+179	0	Ane	NUM	CD	one	Scots ane = one
+179	1	gat	VERB	VBD	get	Scots gat = got
+179	6	craig	NOUN	NN	craig	Scots craig = neck; no modern standard form (crag = rock is another word)
+179	8	Ane	NUM	CD	one	Scots ane = one
+179	14	wame	NOUN	NN	womb	Scots wame = womb (belly), same word as hame = home
+179	18	lam’d	VERB	VBN	lame	get-passive 'gat lam'd' = got lamed
+179	24	syne	ADV	RB	syne	Scots syne = then, afterwards; kept as its own lemma
+179	28	hame	ADV	RB	home	Scots hame = home
+180	9	motor	NOUN	NN	motor	first piece of verb motor-boat: noun element
+180	17	mountaineer	VERB	VB	mountaineer	correction of the verb mountebank; verb use
+181	14	fervor	NOUN	NN	fervour	US fervor -> British lemma fervour
+181	33	means	NOUN	NN	means	singular use of invariant means; lemma means
+184	15	such	ADJ	JJ	such	standalone 'such' (such is not the case): JJ as in PTB
+188	17	those	DET	DT	that	plural demonstrative lemmatised to singular (those -> that)
+195	7	up	NOUN	NN	up	piece of nominal compound make-up: tagged as noun, not particle
+196	36	Cleaner	ADJ	JJR	clean	poetic capitalisation, not an established name: common words

@@ -1,0 +1,822 @@
+# sentence 40
+# text: It only induces them, by a permanent and valuable deposit, to dispense that wealth they have earned by industry, to the improvement of a country, where hitherto, Sir, they have sojourned but as strangers.
+0	It	PRON PRP it
+1	only	ADV RB only
+2	induces	VERB VBZ induce
+3	them	PRON PRP they
+4	,	PUNCT , ,
+5	by	ADP IN by
+6	a	DET DT a
+7	permanent	ADJ JJ permanent
+8	and	CCONJ CC and
+9	valuable	ADJ JJ valuable
+10	deposit	NOUN NN deposit
+11	,	PUNCT , ,
+12	to	PART TO to
+13	dispense	VERB VB dispense
+14	that	DET DT that
+15	wealth	NOUN NN wealth
+16	they	PRON PRP they
+17	have	AUX VBP have
+18	earned	VERB VBN earn
+19	by	ADP IN by
+20	industry	NOUN NN industry
+21	,	PUNCT , ,
+22	to	ADP IN to
+23	the	DET DT the
+24	improvement	NOUN NN improvement
+25	of	ADP IN of
+26	a	DET DT a
+27	country	NOUN NN country
+28	,	PUNCT , ,
+29	where	ADV WRB where
+30	hitherto	ADV RB hitherto
+31	,	PUNCT , ,
+32	Sir	NOUN NN sir [A,C,D] | PROPN NNP Sir [B]  <-- differ
+33	,	PUNCT , ,
+34	they	PRON PRP they
+35	have	AUX VBP have
+36	sojourned	VERB VBN sojourn
+37	but	ADV RB but
+38	as	ADP IN as
+39	strangers	NOUN NNS stranger
+40	.	PUNCT . .
+
+# sentence 41
+# text: The different viscera next should be accurately inspected, lest any of them should be wounded, or in a diseased state.
+0	The	DET DT the
+1	different	ADJ JJ different
+2	viscera	NOUN NNS viscus [A,C,D] | NOUN NNS viscera [B]  <-- differ
+3	next	ADV RB next
+4	should	AUX MD should
+5	be	AUX VB be
+6	accurately	ADV RB accurately
+7	inspected	VERB VBN inspect
+8	,	PUNCT , ,
+9	lest	SCONJ IN lest
+10	any	PRON DT any
+11	of	ADP IN of
+12	them	PRON PRP they
+13	should	AUX MD should
+14	be	AUX VB be
+15	wounded	VERB VBN wound [A,C,D] | ADJ JJ wounded [B]  <-- differ
+16	,	PUNCT , ,
+17	or	CCONJ CC or
+18	in	ADP IN in
+19	a	DET DT a
+20	diseased	ADJ JJ diseased
+21	state	NOUN NN state
+22	.	PUNCT . .
+
+# sentence 42
+# text: His whole Work is to do Nothing, or worſe than Nothing; to Lampoon Miniſters, Mr. Alſop and Mr. Williams in particular, with Storys to my knowledge he never believed, nor heard, but were the Reſult of a fruitful pregnant Invention.
+0	His	PRON PRP$ his
+1	whole	ADJ JJ whole
+2	Work	NOUN NN work
+3	is	AUX VBZ be
+4	to	PART TO to
+5	do	VERB VB do
+6	Nothing	PRON NN nothing
+7	,	PUNCT , ,
+8	or	CCONJ CC or
+9	worſe	ADJ JJR bad
+10	than	ADP IN than
+11	Nothing	PRON NN nothing
+12	;	PUNCT : ;
+13	to	PART TO to
+14	Lampoon	VERB VB lampoon
+15	Miniſters	NOUN NNS minister
+16	,	PUNCT , ,
+17	Mr.	PROPN NNP Mr.
+18	Alſop	PROPN NNP Alsop
+19	and	CCONJ CC and
+20	Mr.	PROPN NNP Mr.
+21	Williams	PROPN NNP Williams
+22	in	ADP IN in
+23	particular	ADJ JJ particular
+24	,	PUNCT , ,
+25	with	ADP IN with
+26	Storys	NOUN NNS story
+27	to	ADP IN to
+28	my	PRON PRP$ my
+29	knowledge	NOUN NN knowledge
+30	he	PRON PRP he
+31	never	ADV RB never
+32	believed	VERB VBD believe
+33	,	PUNCT , ,
+34	nor	CCONJ CC nor
+35	heard	VERB VBD hear
+36	,	PUNCT , ,
+37	but	CCONJ CC but
+38	were	AUX VBD be [A,B,C] | VERB VBD be [D]  <-- differ
+39	the	DET DT the
+40	Reſult	NOUN NN result
+41	of	ADP IN of
+42	a	DET DT a
+43	fruitful	ADJ JJ fruitful
+44	pregnant	ADJ JJ pregnant
+45	Invention	NOUN NN invention
+46	.	PUNCT . .
+
+# sentence 43
+# text: He Marry'd Geils or Egidia Dowglaſs Daughter to William Dowglaſs Lord of Niddiſdale, and of Geils Stewart Daughter to King Robert the Second.
+0	He	PRON PRP he
+1	Marry'd	VERB VBD marry
+2	Geils	PROPN NNP Geils
+3	or	CCONJ CC or
+4	Egidia	PROPN NNP Egidia
+5	Dowglaſs	PROPN NNP Douglas [A,B,D] | PROPN NNP Dowglass [C]  <-- differ
+6	Daughter	NOUN NN daughter
+7	to	ADP IN to
+8	William	PROPN NNP William
+9	Dowglaſs	PROPN NNP Douglas [A,B,D] | PROPN NNP Dowglass [C]  <-- differ
+10	Lord	NOUN NN lord
+11	of	ADP IN of
+12	Niddiſdale	PROPN NNP Niddisdale [A,C] | PROPN NNP Nithsdale [B,D]  <-- differ
+13	,	PUNCT , ,
+14	and	CCONJ CC and
+15	of	ADP IN of
+16	Geils	PROPN NNP Geils
+17	Stewart	PROPN NNP Stewart
+18	Daughter	NOUN NN daughter
+19	to	ADP IN to
+20	King	PROPN NNP King
+21	Robert	PROPN NNP Robert
+22	the	DET DT the
+23	Second	PROPN NNP Second [A,C] | PROPN NNP second [B] | ADJ JJ second [D]  <-- differ
+24	.	PUNCT . .
+
+# sentence 44
+# text: He is called a Spirit, now a Spirit is a simple Being, or a Being void of Material Composition, therefore God, who is in all that he is Superlative, is consequently most Simple.
+0	He	PRON PRP he
+1	is	AUX VBZ be
+2	called	VERB VBN call
+3	a	DET DT a
+4	Spirit	NOUN NN spirit
+5	,	PUNCT , ,
+6	now	ADV RB now
+7	a	DET DT a
+8	Spirit	NOUN NN spirit
+9	is	AUX VBZ be
+10	a	DET DT a
+11	simple	ADJ JJ simple
+12	Being	NOUN NN being
+13	,	PUNCT , ,
+14	or	CCONJ CC or
+15	a	DET DT a
+16	Being	NOUN NN being
+17	void	ADJ JJ void
+18	of	ADP IN of
+19	Material	ADJ JJ material
+20	Composition	NOUN NN composition
+21	,	PUNCT , ,
+22	therefore	ADV RB therefore
+23	God	PROPN NNP God
+24	,	PUNCT , ,
+25	who	PRON WP who
+26	is	AUX VBZ be
+27	in	ADP IN in
+28	all	PRON DT all
+29	that	PRON WDT that
+30	he	PRON PRP he
+31	is	AUX VBZ be
+32	Superlative	ADJ JJ superlative
+33	,	PUNCT , ,
+34	is	AUX VBZ be
+35	consequently	ADV RB consequently
+36	most	ADV RBS most
+37	Simple	ADJ JJ simple
+38	.	PUNCT . .
+
+# sentence 45
+# text: Let us away, Now all our Interruptions are remov'd; For I pretending Orders from the Queen, Have from their Poſts, remov'd the Neighbouring Sentry's. But whither?
+0	Let	VERB VB let
+1	us	PRON PRP we
+2	away	ADV RB away
+3	,	PUNCT , ,
+4	Now	ADV RB now
+5	all	DET DT all [A,D] | DET PDT all [B,C]  <-- differ
+6	our	PRON PRP$ our
+7	Interruptions	NOUN NNS interruption
+8	are	AUX VBP be
+9	remov'd	VERB VBN remove
+10	;	PUNCT : ;
+11	For	SCONJ IN for
+12	I	PRON PRP I
+13	pretending	VERB VBG pretend
+14	Orders	NOUN NNS order
+15	from	ADP IN from
+16	the	DET DT the
+17	Queen	NOUN NN queen
+18	,	PUNCT , ,
+19	Have	AUX VBP have
+20	from	ADP IN from
+21	their	PRON PRP$ their
+22	Poſts	NOUN NNS post
+23	,	PUNCT , ,
+24	remov'd	VERB VBN remove
+25	the	DET DT the
+26	Neighbouring	ADJ JJ neighbouring
+27	Sentry	NOUN NN sentry [A,B,C] | NOUN NNS sentry [D]  <-- differ
+28	's	PART POS 's
+29	.	PUNCT . .
+30	But	CCONJ CC but
+31	whither	ADV WRB whither
+32	?	PUNCT . ?
+
+# sentence 46
+# text: I Have procured the Letters and Papers you so much wished to peruse, and now present them with all due respect to you and to the public.
+0	I	PRON PRP I
+1	Have	AUX VBP have
+2	procured	VERB VBN procure
+3	the	DET DT the
+4	Letters	NOUN NNS letter
+5	and	CCONJ CC and
+6	Papers	NOUN NNS paper
+7	you	PRON PRP you
+8	so	ADV RB so
+9	much	ADV RB much
+10	wished	VERB VBD wish
+11	to	PART TO to
+12	peruse	VERB VB peruse
+13	,	PUNCT , ,
+14	and	CCONJ CC and
+15	now	ADV RB now
+16	present	VERB VBP present
+17	them	PRON PRP they
+18	with	ADP IN with
+19	all	DET DT all
+20	due	ADJ JJ due
+21	respect	NOUN NN respect
+22	to	ADP IN to
+23	you	PRON PRP you
+24	and	CCONJ CC and
+25	to	ADP IN to
+26	the	DET DT the
+27	public	NOUN NN public
+28	.	PUNCT . .
+
+# sentence 47
+# text: He has an estate of eight thousand pounds a-year as well paid rents as any in the kingdom, and but one only daughter to enjoy it; and yet he is willing, you see, to give this daughter to your son.
+0	He	PRON PRP he
+1	has	VERB VBZ have
+2	an	DET DT a
+3	estate	NOUN NN estate
+4	of	ADP IN of
+5	eight	NUM CD eight
+6	thousand	NUM CD thousand
+7	pounds	NOUN NNS pound
+8	a	DET DT a
+9	-	PUNCT HYPH -
+10	year	NOUN NN year
+11	as	ADV RB as
+12	well	ADV RB well
+13	paid	VERB VBN pay [A,B,C] | ADJ JJ paid [D]  <-- differ
+14	rents	NOUN NNS rent
+15	as	ADP IN as
+16	any	PRON DT any
+17	in	ADP IN in
+18	the	DET DT the
+19	kingdom	NOUN NN kingdom
+20	,	PUNCT , ,
+21	and	CCONJ CC and
+22	but	ADV RB but
+23	one	NUM CD one
+24	only	ADJ JJ only
+25	daughter	NOUN NN daughter
+26	to	PART TO to
+27	enjoy	VERB VB enjoy
+28	it	PRON PRP it
+29	;	PUNCT : ;
+30	and	CCONJ CC and
+31	yet	ADV RB yet [A,B,C] | CCONJ CC yet [D]  <-- differ
+32	he	PRON PRP he
+33	is	AUX VBZ be
+34	willing	ADJ JJ willing
+35	,	PUNCT , ,
+36	you	PRON PRP you
+37	see	VERB VBP see
+38	,	PUNCT , ,
+39	to	PART TO to
+40	give	VERB VB give
+41	this	DET DT this
+42	daughter	NOUN NN daughter
+43	to	ADP IN to
+44	your	PRON PRP$ your
+45	son	NOUN NN son
+46	.	PUNCT . .
+
+# sentence 48
+# text: THAT the only Punishment provided by the said Act for keeping any adulterated, or pernicious Medicine for Sale, is the destroying it, which in most Instances (as Medicines are principally adulterated for the sake of saving the expensive Ingredients) is a very trifling Punishment, by no Means adequate to the Offence.
+0	THAT	SCONJ IN that
+1	the	DET DT the
+2	only	ADJ JJ only
+3	Punishment	NOUN NN punishment
+4	provided	VERB VBN provide
+5	by	ADP IN by
+6	the	DET DT the
+7	said	ADJ JJ said [A,B,D] | VERB VBN say [C]  <-- differ
+8	Act	NOUN NN act
+9	for	ADP IN for
+10	keeping	VERB VBG keep
+11	any	DET DT any
+12	adulterated	ADJ JJ adulterated
+13	,	PUNCT , ,
+14	or	CCONJ CC or
+15	pernicious	ADJ JJ pernicious
+16	Medicine	NOUN NN medicine
+17	for	ADP IN for
+18	Sale	NOUN NN sale
+19	,	PUNCT , ,
+20	is	AUX VBZ be
+21	the	DET DT the
+22	destroying	NOUN NN destroying [A,B,D] | VERB VBG destroy [C]  <-- differ
+23	it	PRON PRP it
+24	,	PUNCT , ,
+25	which	PRON WDT which
+26	in	ADP IN in
+27	most	ADJ JJS most
+28	Instances	NOUN NNS instance
+29	(	PUNCT -LRB- (
+30	as	SCONJ IN as
+31	Medicines	NOUN NNS medicine
+32	are	AUX VBP be
+33	principally	ADV RB principally
+34	adulterated	VERB VBN adulterate
+35	for	ADP IN for
+36	the	DET DT the
+37	sake	NOUN NN sake
+38	of	ADP IN of
+39	saving	VERB VBG save
+40	the	DET DT the
+41	expensive	ADJ JJ expensive
+42	Ingredients	NOUN NNS ingredient
+43	)	PUNCT -RRB- )
+44	is	AUX VBZ be
+45	a	DET DT a
+46	very	ADV RB very
+47	trifling	ADJ JJ trifling
+48	Punishment	NOUN NN punishment
+49	,	PUNCT , ,
+50	by	ADP IN by
+51	no	DET DT no
+52	Means	NOUN NN means [A,D] | NOUN NNS means [B] | NOUN NNS mean [C]  <-- differ
+53	adequate	ADJ JJ adequate
+54	to	ADP IN to
+55	the	DET DT the
+56	Offence	NOUN NN offence
+57	.	PUNCT . .
+
+# sentence 49
+# text: It's needless to enlarge upon his Character, since it's impossible to conceive a worse Idea of him than all Men of Sense will immediately form to themselves, when they know he is a Traitor to his Country.
+0	It	PRON PRP it
+1	's	AUX VBZ be
+2	needless	ADJ JJ needless
+3	to	PART TO to
+4	enlarge	VERB VB enlarge
+5	upon	ADP IN upon
+6	his	PRON PRP$ his
+7	Character	NOUN NN character
+8	,	PUNCT , ,
+9	since	SCONJ IN since
+10	it	PRON PRP it
+11	's	AUX VBZ be
+12	impossible	ADJ JJ impossible
+13	to	PART TO to
+14	conceive	VERB VB conceive
+15	a	DET DT a
+16	worse	ADJ JJR bad
+17	Idea	NOUN NN idea
+18	of	ADP IN of
+19	him	PRON PRP he
+20	than	SCONJ IN than
+21	all	DET DT all
+22	Men	NOUN NNS man
+23	of	ADP IN of
+24	Sense	NOUN NN sense
+25	will	AUX MD will
+26	immediately	ADV RB immediately
+27	form	VERB VB form
+28	to	ADP IN to
+29	themselves	PRON PRP themselves
+30	,	PUNCT , ,
+31	when	ADV WRB when
+32	they	PRON PRP they
+33	know	VERB VBP know
+34	he	PRON PRP he
+35	is	AUX VBZ be
+36	a	DET DT a
+37	Traitor	NOUN NN traitor
+38	to	ADP IN to
+39	his	PRON PRP$ his
+40	Country	NOUN NN country
+41	.	PUNCT . .
+
+# sentence 50
+# text: In short, is not this telling us, in other words, that Life positively is not a modification of matter, but that yet, perhaps, it is a modification of matter?
+0	In	ADP IN in
+1	short	ADJ JJ short
+2	,	PUNCT , ,
+3	is	AUX VBZ be
+4	not	PART RB not
+5	this	PRON DT this
+6	telling	VERB VBG tell
+7	us	PRON PRP we
+8	,	PUNCT , ,
+9	in	ADP IN in
+10	other	ADJ JJ other
+11	words	NOUN NNS word
+12	,	PUNCT , ,
+13	that	SCONJ IN that
+14	Life	NOUN NN life
+15	positively	ADV RB positively
+16	is	AUX VBZ be
+17	not	PART RB not
+18	a	DET DT a
+19	modification	NOUN NN modification
+20	of	ADP IN of
+21	matter	NOUN NN matter
+22	,	PUNCT , ,
+23	but	CCONJ CC but
+24	that	SCONJ IN that
+25	yet	ADV RB yet
+26	,	PUNCT , ,
+27	perhaps	ADV RB perhaps
+28	,	PUNCT , ,
+29	it	PRON PRP it
+30	is	AUX VBZ be
+31	a	DET DT a
+32	modification	NOUN NN modification
+33	of	ADP IN of
+34	matter	NOUN NN matter
+35	?	PUNCT . ?
+
+# sentence 51
+# text: Theſe are outward Marks which may very well ſtand with Hypocriſy; mine is a ſupernatural, ſpiritual, and inward Work, the ſaving Effect of the ſanctifying Spirit of God.
+0	Theſe	PRON DT these [A,B,C] | PRON DT this [D]  <-- differ
+1	are	AUX VBP be
+2	outward	ADJ JJ outward
+3	Marks	NOUN NNS mark
+4	which	PRON WDT which
+5	may	AUX MD may
+6	very	ADV RB very
+7	well	ADV RB well
+8	ſtand	VERB VB stand
+9	with	ADP IN with
+10	Hypocriſy	NOUN NN hypocrisy
+11	;	PUNCT : ;
+12	mine	PRON PRP mine
+13	is	AUX VBZ be
+14	a	DET DT a
+15	ſupernatural	ADJ JJ supernatural
+16	,	PUNCT , ,
+17	ſpiritual	ADJ JJ spiritual
+18	,	PUNCT , ,
+19	and	CCONJ CC and
+20	inward	ADJ JJ inward
+21	Work	NOUN NN work
+22	,	PUNCT , ,
+23	the	DET DT the
+24	ſaving	ADJ JJ saving [A,B,D] | VERB VBG save [C]  <-- differ
+25	Effect	NOUN NN effect
+26	of	ADP IN of
+27	the	DET DT the
+28	ſanctifying	ADJ JJ sanctifying [A,B,D] | VERB VBG sanctify [C]  <-- differ
+29	Spirit	NOUN NN spirit
+30	of	ADP IN of
+31	God	PROPN NNP God
+32	.	PUNCT . .
+
+# sentence 52
+# text: Forbear thy rash Reproaches: for beneath This Habit, which to thy mistaken Eye Bespeaks my Guilt, I wear a Heart as true As SADI's to my King.
+0	Forbear	VERB VB forbear
+1	thy	PRON PRP$ thy
+2	rash	ADJ JJ rash
+3	Reproaches	NOUN NNS reproach
+4	:	PUNCT : :
+5	for	SCONJ IN for
+6	beneath	ADP IN beneath
+7	This	DET DT this
+8	Habit	NOUN NN habit
+9	,	PUNCT , ,
+10	which	PRON WDT which
+11	to	ADP IN to
+12	thy	PRON PRP$ thy
+13	mistaken	ADJ JJ mistaken
+14	Eye	NOUN NN eye
+15	Bespeaks	VERB VBZ bespeak
+16	my	PRON PRP$ my
+17	Guilt	NOUN NN guilt
+18	,	PUNCT , ,
+19	I	PRON PRP I
+20	wear	VERB VBP wear
+21	a	DET DT a
+22	Heart	NOUN NN heart
+23	as	ADV RB as
+24	true	ADJ JJ true
+25	As	ADP IN as
+26	SADI	PROPN NNP Sadi [A,C,D] | PROPN NNP SADI [B]  <-- differ
+27	's	PART POS 's
+28	to	ADP IN to
+29	my	PRON PRP$ my
+30	King	NOUN NN king
+31	.	PUNCT . .
+
+# sentence 53
+# text: That this may be brought about he endeavours to prove from the Progress we have already made towards it, and the Successes we have purchased in the present War, which are very considerable if well pursued, but of no effect if we acquiesce in them.
+0	That	SCONJ IN that
+1	this	PRON DT this
+2	may	AUX MD may
+3	be	AUX VB be
+4	brought	VERB VBN bring
+5	about	ADP RP about
+6	he	PRON PRP he
+7	endeavours	VERB VBZ endeavour
+8	to	PART TO to
+9	prove	VERB VB prove
+10	from	ADP IN from
+11	the	DET DT the
+12	Progress	NOUN NN progress
+13	we	PRON PRP we
+14	have	AUX VBP have
+15	already	ADV RB already
+16	made	VERB VBN make
+17	towards	ADP IN towards
+18	it	PRON PRP it
+19	,	PUNCT , ,
+20	and	CCONJ CC and
+21	the	DET DT the
+22	Successes	NOUN NNS success
+23	we	PRON PRP we
+24	have	AUX VBP have
+25	purchased	VERB VBN purchase
+26	in	ADP IN in
+27	the	DET DT the
+28	present	ADJ JJ present
+29	War	NOUN NN war
+30	,	PUNCT , ,
+31	which	PRON WDT which
+32	are	AUX VBP be
+33	very	ADV RB very
+34	considerable	ADJ JJ considerable
+35	if	SCONJ IN if
+36	well	ADV RB well
+37	pursued	VERB VBN pursue
+38	,	PUNCT , ,
+39	but	CCONJ CC but
+40	of	ADP IN of
+41	no	DET DT no
+42	effect	NOUN NN effect
+43	if	SCONJ IN if
+44	we	PRON PRP we
+45	acquiesce	VERB VBP acquiesce
+46	in	ADP IN in
+47	them	PRON PRP they
+48	.	PUNCT . .
+
+# sentence 54
+# text: How simple soever the means you've employ'd, You have remedy'd ills by which we were annoy'd. Having thus clear'd the scene from each troublesome lover, Can you not for the nymph a fit husband discover?
+0	How	ADV WRB how
+1	simple	ADJ JJ simple
+2	soever	ADV RB soever
+3	the	DET DT the
+4	means	NOUN NNS means [B,C,D] | NOUN NN means [A]  <-- differ
+5	you	PRON PRP you
+6	've	AUX VBP have
+7	employ'd	VERB VBN employ
+8	,	PUNCT , ,
+9	You	PRON PRP you
+10	have	AUX VBP have
+11	remedy'd	VERB VBN remedy
+12	ills	NOUN NNS ill
+13	by	ADP IN by
+14	which	PRON WDT which
+15	we	PRON PRP we
+16	were	AUX VBD be
+17	annoy'd	VERB VBN annoy
+18	.	PUNCT . .
+19	Having	AUX VBG have
+20	thus	ADV RB thus
+21	clear'd	VERB VBN clear
+22	the	DET DT the
+23	scene	NOUN NN scene
+24	from	ADP IN from
+25	each	DET DT each
+26	troublesome	ADJ JJ troublesome
+27	lover	NOUN NN lover
+28	,	PUNCT , ,
+29	Can	AUX MD can
+30	you	PRON PRP you
+31	not	PART RB not
+32	for	ADP IN for
+33	the	DET DT the
+34	nymph	NOUN NN nymph
+35	a	DET DT a
+36	fit	ADJ JJ fit
+37	husband	NOUN NN husband
+38	discover	VERB VB discover
+39	?	PUNCT . ?
+
+# sentence 55
+# text: The Lamentation which ſhe made, Was full of Grief, for thus ſhe ſaid, Farewel all hope of Happineſs, I am not able to expreſs The Sorrows which I undergo, True Love will prove my Overthrow.
+0	The	DET DT the
+1	Lamentation	NOUN NN lamentation
+2	which	PRON WDT which
+3	ſhe	PRON PRP she
+4	made	VERB VBD make
+5	,	PUNCT , ,
+6	Was	AUX VBD be
+7	full	ADJ JJ full
+8	of	ADP IN of
+9	Grief	NOUN NN grief
+10	,	PUNCT , ,
+11	for	SCONJ IN for
+12	thus	ADV RB thus
+13	ſhe	PRON PRP she
+14	ſaid	VERB VBD say
+15	,	PUNCT , ,
+16	Farewel	INTJ UH farewell
+17	all	DET DT all
+18	hope	NOUN NN hope
+19	of	ADP IN of
+20	Happineſs	NOUN NN happiness
+21	,	PUNCT , ,
+22	I	PRON PRP I
+23	am	AUX VBP be
+24	not	PART RB not
+25	able	ADJ JJ able
+26	to	PART TO to
+27	expreſs	VERB VB express
+28	The	DET DT the
+29	Sorrows	NOUN NNS sorrow
+30	which	PRON WDT which
+31	I	PRON PRP I
+32	undergo	VERB VBP undergo
+33	,	PUNCT , ,
+34	True	ADJ JJ true
+35	Love	NOUN NN love
+36	will	AUX MD will
+37	prove	VERB VB prove
+38	my	PRON PRP$ my
+39	Overthrow	NOUN NN overthrow
+40	.	PUNCT . .
+
+# sentence 56
+# text: I was just going with my Despair to end my Life; but since you have deliver'd me from the Arms of Death, I am resolv'd to live, and live to serve you alone.
+0	I	PRON PRP I
+1	was	AUX VBD be
+2	just	ADV RB just
+3	going	VERB VBG go
+4	with	ADP IN with
+5	my	PRON PRP$ my
+6	Despair	NOUN NN despair
+7	to	PART TO to
+8	end	VERB VB end
+9	my	PRON PRP$ my
+10	Life	NOUN NN life
+11	;	PUNCT : ;
+12	but	CCONJ CC but
+13	since	SCONJ IN since
+14	you	PRON PRP you
+15	have	AUX VBP have
+16	deliver'd	VERB VBN deliver
+17	me	PRON PRP I
+18	from	ADP IN from
+19	the	DET DT the
+20	Arms	NOUN NNS arm
+21	of	ADP IN of
+22	Death	NOUN NN death
+23	,	PUNCT , ,
+24	I	PRON PRP I
+25	am	AUX VBP be
+26	resolv'd	VERB VBN resolve [A,C,D] | ADJ JJ resolved [B]  <-- differ
+27	to	PART TO to
+28	live	VERB VB live
+29	,	PUNCT , ,
+30	and	CCONJ CC and
+31	live	VERB VB live
+32	to	PART TO to
+33	serve	VERB VB serve
+34	you	PRON PRP you
+35	alone	ADV RB alone
+36	.	PUNCT . .
+
+# sentence 57
+# text: The Protection, Which you have given to those, whom once I call'd By tender Names, I would not now remember.
+0	The	DET DT the
+1	Protection	NOUN NN protection
+2	,	PUNCT , ,
+3	Which	PRON WDT which
+4	you	PRON PRP you
+5	have	AUX VBP have
+6	given	VERB VBN give
+7	to	ADP IN to
+8	those	PRON DT those [A,D] | PRON DT that [B,C]  <-- differ
+9	,	PUNCT , ,
+10	whom	PRON WP whom [A,B,D] | PRON WP who [C]  <-- differ
+11	once	ADV RB once
+12	I	PRON PRP I
+13	call'd	VERB VBD call
+14	By	ADP IN by
+15	tender	ADJ JJ tender
+16	Names	NOUN NNS name
+17	,	PUNCT , ,
+18	I	PRON PRP I
+19	would	AUX MD would
+20	not	PART RB not
+21	now	ADV RB now
+22	remember	VERB VB remember
+23	.	PUNCT . .
+
+# sentence 58
+# text: O'er each distress, which vice or folly brings, Tho' Charity extend her healing wings, No Maudlin Hospitals are yet assign'd For slip-shod Muses of the vagrant kind; Where anthems might succeed to satires keen, And hymns of penitence to songs obscene.
+0	O'er	ADP IN over
+1	each	DET DT each
+2	distress	NOUN NN distress
+3	,	PUNCT , ,
+4	which	PRON WDT which
+5	vice	NOUN NN vice
+6	or	CCONJ CC or
+7	folly	NOUN NN folly
+8	brings	VERB VBZ bring
+9	,	PUNCT , ,
+10	Tho	SCONJ IN though
+11	'	PUNCT '' ' [A,B,C] | PUNCT NFP ' [D]  <-- differ
+12	Charity	NOUN NN charity
+13	extend	VERB VB extend
+14	her	PRON PRP$ her
+15	healing	ADJ JJ healing [A,B,D] | VERB VBG heal [C]  <-- differ
+16	wings	NOUN NNS wing
+17	,	PUNCT , ,
+18	No	DET DT no
+19	Maudlin	PROPN NNP Maudlin [A,C] | ADJ JJ maudlin [B,D]  <-- differ
+20	Hospitals	NOUN NNS hospital
+21	are	AUX VBP be
+22	yet	ADV RB yet
+23	assign'd	VERB VBN assign
+24	For	ADP IN for
+25	slip	NOUN NN slip [A,B,C] | ADJ JJ slip [D]  <-- differ
+26	-	PUNCT HYPH -
+27	shod	ADJ JJ shod
+28	Muses	NOUN NNS muse [A,C,D] | PROPN NNPS Muse [B]  <-- differ
+29	of	ADP IN of
+30	the	DET DT the
+31	vagrant	ADJ JJ vagrant
+32	kind	NOUN NN kind
+33	;	PUNCT : ;
+34	Where	ADV WRB where
+35	anthems	NOUN NNS anthem
+36	might	AUX MD might
+37	succeed	VERB VB succeed
+38	to	ADP IN to
+39	satires	NOUN NNS satire
+40	keen	ADJ JJ keen
+41	,	PUNCT , ,
+42	And	CCONJ CC and
+43	hymns	NOUN NNS hymn
+44	of	ADP IN of
+45	penitence	NOUN NN penitence
+46	to	ADP IN to
+47	songs	NOUN NNS song
+48	obscene	ADJ JJ obscene
+49	.	PUNCT . .
+
+# sentence 59
+# text: A man of this cast therefore, was the most improper person in the world to be consulted in an exigence where the honour of his family and the happiness of his sister were at stake.
+0	A	DET DT a
+1	man	NOUN NN man
+2	of	ADP IN of
+3	this	DET DT this
+4	cast	NOUN NN cast
+5	therefore	ADV RB therefore
+6	,	PUNCT , ,
+7	was	AUX VBD be
+8	the	DET DT the
+9	most	ADV RBS most
+10	improper	ADJ JJ improper
+11	person	NOUN NN person
+12	in	ADP IN in
+13	the	DET DT the
+14	world	NOUN NN world
+15	to	PART TO to
+16	be	AUX VB be
+17	consulted	VERB VBN consult
+18	in	ADP IN in
+19	an	DET DT a
+20	exigence	NOUN NN exigence
+21	where	ADV WRB where
+22	the	DET DT the
+23	honour	NOUN NN honour
+24	of	ADP IN of
+25	his	PRON PRP$ his
+26	family	NOUN NN family
+27	and	CCONJ CC and
+28	the	DET DT the
+29	happiness	NOUN NN happiness
+30	of	ADP IN of
+31	his	PRON PRP$ his
+32	sister	NOUN NN sister
+33	were	AUX VBD be
+34	at	ADP IN at
+35	stake	NOUN NN stake
+36	.	PUNCT . .

@@ -1,0 +1,807 @@
+# sentence 160
+# text: Maidstone moved that O'Connell's speech was an imputation on the whole House, and that he be censured for it as a breach of privilege.
+0	Maidstone	PROPN NNP Maidstone
+1	moved	VERB VBD move
+2	that	SCONJ IN that
+3	O'Connell	PROPN NNP O'Connell
+4	's	PART POS 's
+5	speech	NOUN NN speech
+6	was	AUX VBD be
+7	an	DET DT a
+8	imputation	NOUN NN imputation
+9	on	ADP IN on
+10	the	DET DT the
+11	whole	ADJ JJ whole
+12	House	PROPN NNP House
+13	,	PUNCT , ,
+14	and	CCONJ CC and
+15	that	SCONJ IN that
+16	he	PRON PRP he
+17	be	AUX VB be
+18	censured	VERB VBN censure
+19	for	ADP IN for
+20	it	PRON PRP it
+21	as	ADP IN as
+22	a	DET DT a
+23	breach	NOUN NN breach
+24	of	ADP IN of
+25	privilege	NOUN NN privilege
+26	.	PUNCT . .
+
+# sentence 161
+# text: "It is an angel!" he added, with an upward glance of his bright little eyes, and tossed off a glass of champagne cup.
+0	"	PUNCT `` "
+1	It	PRON PRP it
+2	is	AUX VBZ be
+3	an	DET DT a
+4	angel	NOUN NN angel
+5	!	PUNCT . !
+6	"	PUNCT '' "
+7	he	PRON PRP he
+8	added	VERB VBD add
+9	,	PUNCT , ,
+10	with	ADP IN with
+11	an	DET DT a
+12	upward	ADJ JJ upward
+13	glance	NOUN NN glance
+14	of	ADP IN of
+15	his	PRON PRP$ his
+16	bright	ADJ JJ bright
+17	little	ADJ JJ little
+18	eyes	NOUN NNS eye
+19	,	PUNCT , ,
+20	and	CCONJ CC and
+21	tossed	VERB VBD toss
+22	off	ADP RP off
+23	a	DET DT a
+24	glass	NOUN NN glass
+25	of	ADP IN of
+26	champagne	NOUN NN champagne
+27	cup	NOUN NN cup
+28	.	PUNCT . .
+
+# sentence 162
+# text: The mistake consists in the contradiction of the name of the place where the host of Wallace began to fail with fatigue, and of that in which it is said, that he afterwards met Sir Niel Campbell.
+0	The	DET DT the
+1	mistake	NOUN NN mistake
+2	consists	VERB VBZ consist
+3	in	ADP IN in
+4	the	DET DT the
+5	contradiction	NOUN NN contradiction
+6	of	ADP IN of
+7	the	DET DT the
+8	name	NOUN NN name
+9	of	ADP IN of
+10	the	DET DT the
+11	place	NOUN NN place
+12	where	ADV WRB where
+13	the	DET DT the
+14	host	NOUN NN host
+15	of	ADP IN of
+16	Wallace	PROPN NNP Wallace
+17	began	VERB VBD begin
+18	to	PART TO to
+19	fail	VERB VB fail
+20	with	ADP IN with
+21	fatigue	NOUN NN fatigue
+22	,	PUNCT , ,
+23	and	CCONJ CC and
+24	of	ADP IN of
+25	that	PRON DT that
+26	in	ADP IN in
+27	which	PRON WDT which
+28	it	PRON PRP it
+29	is	AUX VBZ be
+30	said	VERB VBN say
+31	,	PUNCT , ,
+32	that	SCONJ IN that
+33	he	PRON PRP he
+34	afterwards	ADV RB afterwards
+35	met	VERB VBD meet
+36	Sir	PROPN NNP Sir
+37	Niel	PROPN NNP Niel
+38	Campbell	PROPN NNP Campbell
+39	.	PUNCT . .
+
+# sentence 163
+# text: However this may be, the court of the Star Chamber was an engine of prodigious power in the hands of Charles's government.
+0	However	ADV RB however
+1	this	PRON DT this
+2	may	AUX MD may
+3	be	AUX VB be [A,D] | VERB VB be [B,C]  <-- differ
+4	,	PUNCT , ,
+5	the	DET DT the
+6	court	NOUN NN court
+7	of	ADP IN of
+8	the	DET DT the
+9	Star	PROPN NNP Star
+10	Chamber	PROPN NNP Chamber
+11	was	AUX VBD be
+12	an	DET DT a
+13	engine	NOUN NN engine
+14	of	ADP IN of
+15	prodigious	ADJ JJ prodigious
+16	power	NOUN NN power
+17	in	ADP IN in
+18	the	DET DT the
+19	hands	NOUN NNS hand
+20	of	ADP IN of
+21	Charles	PROPN NNP Charles
+22	's	PART POS 's
+23	government	NOUN NN government
+24	.	PUNCT . .
+
+# sentence 164
+# text: It was in consequence of these benevolent propensities, I have been describing, that Allan oftentimes discovered considerable inclinations in favor of my way of life, which I have before mentioned as being that of a surgeon.
+0	It	PRON PRP it
+1	was	AUX VBD be
+2	in	ADP IN in
+3	consequence	NOUN NN consequence
+4	of	ADP IN of
+5	these	DET DT this [A,C,D] | DET DT these [B]  <-- differ
+6	benevolent	ADJ JJ benevolent
+7	propensities	NOUN NNS propensity
+8	,	PUNCT , ,
+9	I	PRON PRP I
+10	have	AUX VBP have
+11	been	AUX VBN be
+12	describing	VERB VBG describe
+13	,	PUNCT , ,
+14	that	SCONJ IN that
+15	Allan	PROPN NNP Allan
+16	oftentimes	ADV RB oftentimes
+17	discovered	VERB VBD discover
+18	considerable	ADJ JJ considerable
+19	inclinations	NOUN NNS inclination
+20	in	ADP IN in
+21	favor	NOUN NN favour
+22	of	ADP IN of
+23	my	PRON PRP$ my
+24	way	NOUN NN way
+25	of	ADP IN of
+26	life	NOUN NN life
+27	,	PUNCT , ,
+28	which	PRON WDT which
+29	I	PRON PRP I
+30	have	AUX VBP have
+31	before	ADV RB before
+32	mentioned	VERB VBN mention
+33	as	SCONJ IN as [A,B,C] | ADP IN as [D]  <-- differ
+34	being	AUX VBG be
+35	that	PRON DT that
+36	of	ADP IN of
+37	a	DET DT a
+38	surgeon	NOUN NN surgeon
+39	.	PUNCT . .
+
+# sentence 165
+# text: “The Governor-General has much satisfaction in again offering to Major-General Sir Harry Smith, K.C.B., commanding the 1st Division of Infantry, his best thanks for his gallant services on this occasion, by which he has added to his well-established reputation.”
+0	“	PUNCT `` “ [A,C,D] | PUNCT `` " [B]  <-- differ
+1	The	DET DT the
+2	Governor	NOUN NN governor [A,C] | PROPN NNP Governor [B,D]  <-- differ
+3	-	PUNCT HYPH -
+4	General	NOUN NN general [A,C] | PROPN NNP General [B,D]  <-- differ
+5	has	VERB VBZ have
+6	much	ADJ JJ much
+7	satisfaction	NOUN NN satisfaction
+8	in	ADP IN in
+9	again	ADV RB again
+10	offering	VERB VBG offer
+11	to	ADP IN to
+12	Major	PROPN NNP Major
+13	-	PUNCT HYPH -
+14	General	PROPN NNP General
+15	Sir	PROPN NNP Sir
+16	Harry	PROPN NNP Harry
+17	Smith	PROPN NNP Smith
+18	,	PUNCT , ,
+19	K.C.B.	PROPN NNP K.C.B.
+20	,	PUNCT , ,
+21	commanding	VERB VBG command
+22	the	DET DT the
+23	1st	ADJ JJ 1st
+24	Division	PROPN NNP Division [A,B,D] | NOUN NN division [C]  <-- differ
+25	of	ADP IN of
+26	Infantry	PROPN NNP Infantry [A,B,D] | NOUN NN infantry [C]  <-- differ
+27	,	PUNCT , ,
+28	his	PRON PRP$ his
+29	best	ADJ JJS good
+30	thanks	NOUN NNS thanks [A,B] | NOUN NNS thank [C,D]  <-- differ
+31	for	ADP IN for
+32	his	PRON PRP$ his
+33	gallant	ADJ JJ gallant
+34	services	NOUN NNS service
+35	on	ADP IN on
+36	this	DET DT this
+37	occasion	NOUN NN occasion
+38	,	PUNCT , ,
+39	by	ADP IN by
+40	which	PRON WDT which
+41	he	PRON PRP he
+42	has	AUX VBZ have
+43	added	VERB VBN add
+44	to	ADP IN to
+45	his	PRON PRP$ his
+46	well	ADV RB well
+47	-	PUNCT HYPH -
+48	established	ADJ JJ established [A,B,D] | VERB VBN establish [C]  <-- differ
+49	reputation	NOUN NN reputation
+50	.	PUNCT . .
+51	”	PUNCT '' ” [A,C,D] | PUNCT '' " [B]  <-- differ
+
+# sentence 166
+# text: "There," he said, "Frøken Helga, is all the fly-fishing gear; the flies in the small book are best for the Gudenaa.
+0	"	PUNCT `` "
+1	There	ADV RB there
+2	,	PUNCT , ,
+3	"	PUNCT '' "
+4	he	PRON PRP he
+5	said	VERB VBD say
+6	,	PUNCT , ,
+7	"	PUNCT `` "
+8	Frøken	PROPN NNP Frøken
+9	Helga	PROPN NNP Helga
+10	,	PUNCT , ,
+11	is	AUX VBZ be
+12	all	DET PDT all
+13	the	DET DT the
+14	fly	NOUN NN fly
+15	-	PUNCT HYPH -
+16	fishing	NOUN NN fishing
+17	gear	NOUN NN gear
+18	;	PUNCT : ;
+19	the	DET DT the
+20	flies	NOUN NNS fly
+21	in	ADP IN in
+22	the	DET DT the
+23	small	ADJ JJ small
+24	book	NOUN NN book
+25	are	AUX VBP be
+26	best	ADJ JJS good [A,B,C] | ADV RBS well [D]  <-- differ
+27	for	ADP IN for
+28	the	DET DT the
+29	Gudenaa	PROPN NNP Gudenaa
+30	.	PUNCT . .
+
+# sentence 167
+# text: I think there is no interest in life compared to knowing people--finding them out, their tastes, character, and so forth.
+0	I	PRON PRP I
+1	think	VERB VBP think
+2	there	PRON EX there
+3	is	VERB VBZ be
+4	no	DET DT no
+5	interest	NOUN NN interest
+6	in	ADP IN in
+7	life	NOUN NN life
+8	compared	VERB VBN compare
+9	to	ADP IN to
+10	knowing	VERB VBG know
+11	people	NOUN NNS people
+12	--	PUNCT : --
+13	finding	VERB VBG find
+14	them	PRON PRP they
+15	out	ADP RP out
+16	,	PUNCT , ,
+17	their	PRON PRP$ their
+18	tastes	NOUN NNS taste
+19	,	PUNCT , ,
+20	character	NOUN NN character
+21	,	PUNCT , ,
+22	and	CCONJ CC and
+23	so	ADV RB so
+24	forth	ADV RB forth
+25	.	PUNCT . .
+
+# sentence 168
+# text: In the following pages it will be seen that occasionally I attempt to supply the losses of lines and parts of lines.
+0	In	ADP IN in [A,C,D] | ADP IN In [B]  <-- differ
+1	the	DET DT the
+2	following	ADJ JJ following [A,B,D] | VERB VBG follow [C]  <-- differ
+3	pages	NOUN NNS page
+4	it	PRON PRP it
+5	will	AUX MD will
+6	be	AUX VB be
+7	seen	VERB VBN see
+8	that	SCONJ IN that
+9	occasionally	ADV RB occasionally
+10	I	PRON PRP I
+11	attempt	VERB VBP attempt
+12	to	PART TO to
+13	supply	VERB VB supply
+14	the	DET DT the
+15	losses	NOUN NNS loss
+16	of	ADP IN of
+17	lines	NOUN NNS line
+18	and	CCONJ CC and
+19	parts	NOUN NNS part
+20	of	ADP IN of
+21	lines	NOUN NNS line
+22	.	PUNCT . .
+
+# sentence 169
+# text: That such were the favourite themes of the infant English drama is abundantly clear, even from the lists of old lost dramas which have been preserved to us.
+0	That	SCONJ IN that
+1	such	ADJ JJ such
+2	were	AUX VBD be [A,B,C] | VERB VBD be [D]  <-- differ
+3	the	DET DT the
+4	favourite	ADJ JJ favourite
+5	themes	NOUN NNS theme
+6	of	ADP IN of
+7	the	DET DT the
+8	infant	ADJ JJ infant
+9	English	ADJ JJ English [A,B,D] | ADJ JJ english [C]  <-- differ
+10	drama	NOUN NN drama
+11	is	AUX VBZ be
+12	abundantly	ADV RB abundantly
+13	clear	ADJ JJ clear
+14	,	PUNCT , ,
+15	even	ADV RB even
+16	from	ADP IN from
+17	the	DET DT the
+18	lists	NOUN NNS list
+19	of	ADP IN of
+20	old	ADJ JJ old
+21	lost	ADJ JJ lost
+22	dramas	NOUN NNS drama
+23	which	PRON WDT which
+24	have	AUX VBP have
+25	been	AUX VBN be
+26	preserved	VERB VBN preserve
+27	to	ADP IN to
+28	us	PRON PRP we
+29	.	PUNCT . .
+
+# sentence 170
+# text: Only do not hide your face, for you will be married to-morrow; and it is right your future husband should see something of you.’
+0	Only	ADV RB only
+1	do	AUX VB do
+2	not	PART RB not
+3	hide	VERB VB hide
+4	your	PRON PRP$ your
+5	face	NOUN NN face
+6	,	PUNCT , ,
+7	for	SCONJ IN for
+8	you	PRON PRP you
+9	will	AUX MD will
+10	be	AUX VB be
+11	married	VERB VBN marry [A,C,D] | ADJ JJ married [B]  <-- differ
+12	to	ADP IN to
+13	-	PUNCT HYPH -
+14	morrow	NOUN NN morrow
+15	;	PUNCT : ;
+16	and	CCONJ CC and
+17	it	PRON PRP it
+18	is	AUX VBZ be
+19	right	ADJ JJ right
+20	your	PRON PRP$ your
+21	future	ADJ JJ future
+22	husband	NOUN NN husband
+23	should	AUX MD should
+24	see	VERB VB see
+25	something	PRON NN something
+26	of	ADP IN of
+27	you	PRON PRP you
+28	.	PUNCT . .
+29	’	PUNCT '' ’ [A,C,D] | PUNCT '' ' [B]  <-- differ
+
+# sentence 171
+# text: Often, too, he would unexpectedly pop his head into the schoolroom while the young people were at meals, and find them spilling their milk over the table and themselves, plunging their fingers into their own or each other’s mugs, or quarrelling over their victuals like a set of tiger’s cubs.
+0	Often	ADV RB often
+1	,	PUNCT , ,
+2	too	ADV RB too
+3	,	PUNCT , ,
+4	he	PRON PRP he
+5	would	AUX MD would
+6	unexpectedly	ADV RB unexpectedly
+7	pop	VERB VB pop
+8	his	PRON PRP$ his
+9	head	NOUN NN head
+10	into	ADP IN into
+11	the	DET DT the
+12	schoolroom	NOUN NN schoolroom
+13	while	SCONJ IN while
+14	the	DET DT the
+15	young	ADJ JJ young
+16	people	NOUN NNS people
+17	were	AUX VBD be
+18	at	ADP IN at
+19	meals	NOUN NNS meal
+20	,	PUNCT , ,
+21	and	CCONJ CC and
+22	find	VERB VB find
+23	them	PRON PRP they
+24	spilling	VERB VBG spill
+25	their	PRON PRP$ their
+26	milk	NOUN NN milk
+27	over	ADP IN over
+28	the	DET DT the
+29	table	NOUN NN table
+30	and	CCONJ CC and
+31	themselves	PRON PRP themselves
+32	,	PUNCT , ,
+33	plunging	VERB VBG plunge
+34	their	PRON PRP$ their
+35	fingers	NOUN NNS finger
+36	into	ADP IN into
+37	their	PRON PRP$ their
+38	own	ADJ JJ own
+39	or	CCONJ CC or
+40	each	DET DT each
+41	other	ADJ JJ other
+42	’s	PART POS 's [B,C,D] | PART POS ’s [A]  <-- differ
+43	mugs	NOUN NNS mug
+44	,	PUNCT , ,
+45	or	CCONJ CC or
+46	quarrelling	VERB VBG quarrel
+47	over	ADP IN over
+48	their	PRON PRP$ their
+49	victuals	NOUN NNS victual [A,C,D] | NOUN NNS victuals [B]  <-- differ
+50	like	ADP IN like
+51	a	DET DT a
+52	set	NOUN NN set
+53	of	ADP IN of
+54	tiger	NOUN NN tiger
+55	’s	PART POS 's [B,C,D] | PART POS ’s [A]  <-- differ
+56	cubs	NOUN NNS cub
+57	.	PUNCT . .
+
+# sentence 172
+# text: In the case of Dowson, however, there was a sort of virginal devotion, as to a Madonna; and I think, had things gone happily, to a conventionally happy ending, he would have felt (dare I say?) that his ideal had been spoilt.
+0	In	ADP IN in
+1	the	DET DT the
+2	case	NOUN NN case
+3	of	ADP IN of
+4	Dowson	PROPN NNP Dowson
+5	,	PUNCT , ,
+6	however	ADV RB however
+7	,	PUNCT , ,
+8	there	PRON EX there
+9	was	VERB VBD be
+10	a	DET DT a
+11	sort	NOUN NN sort
+12	of	ADP IN of
+13	virginal	ADJ JJ virginal
+14	devotion	NOUN NN devotion
+15	,	PUNCT , ,
+16	as	ADP IN as [B,C,D] | SCONJ IN as [A]  <-- differ
+17	to	ADP IN to
+18	a	DET DT a
+19	Madonna	PROPN NNP Madonna
+20	;	PUNCT : ;
+21	and	CCONJ CC and
+22	I	PRON PRP I
+23	think	VERB VBP think
+24	,	PUNCT , ,
+25	had	AUX VBD have
+26	things	NOUN NNS thing
+27	gone	VERB VBN go
+28	happily	ADV RB happily
+29	,	PUNCT , ,
+30	to	ADP IN to
+31	a	DET DT a
+32	conventionally	ADV RB conventionally
+33	happy	ADJ JJ happy
+34	ending	NOUN NN ending
+35	,	PUNCT , ,
+36	he	PRON PRP he
+37	would	AUX MD would
+38	have	AUX VB have
+39	felt	VERB VBN feel
+40	(	PUNCT -LRB- (
+41	dare	VERB VBP dare [A,B,C] | AUX VB dare [D]  <-- differ
+42	I	PRON PRP I
+43	say	VERB VB say
+44	?	PUNCT . ?
+45	)	PUNCT -RRB- )
+46	that	SCONJ IN that
+47	his	PRON PRP$ his
+48	ideal	NOUN NN ideal
+49	had	AUX VBD have
+50	been	AUX VBN be
+51	spoilt	VERB VBN spoil
+52	.	PUNCT . .
+
+# sentence 173
+# text: I would ask, supposing a messenger came to thee to order thee to go to such a place, wouldst thou not ask whence he derived his authority, what credentials he had to show for thine undertaking such a journey?
+0	I	PRON PRP I
+1	would	AUX MD would
+2	ask	VERB VB ask
+3	,	PUNCT , ,
+4	supposing	VERB VBG suppose
+5	a	DET DT a
+6	messenger	NOUN NN messenger
+7	came	VERB VBD come
+8	to	ADP IN to
+9	thee	PRON PRP thou
+10	to	PART TO to
+11	order	VERB VB order
+12	thee	PRON PRP thou
+13	to	PART TO to
+14	go	VERB VB go
+15	to	ADP IN to
+16	such	DET PDT such [A,B,C] | ADJ JJ such [D]  <-- differ
+17	a	DET DT a
+18	place	NOUN NN place
+19	,	PUNCT , ,
+20	wouldst	AUX MD would
+21	thou	PRON PRP thou
+22	not	PART RB not
+23	ask	VERB VB ask
+24	whence	ADV WRB whence
+25	he	PRON PRP he
+26	derived	VERB VBD derive
+27	his	PRON PRP$ his
+28	authority	NOUN NN authority
+29	,	PUNCT , ,
+30	what	DET WDT what
+31	credentials	NOUN NNS credential
+32	he	PRON PRP he
+33	had	VERB VBD have
+34	to	PART TO to
+35	show	VERB VB show
+36	for	ADP IN for
+37	thine	PRON PRP$ thy
+38	undertaking	VERB VBG undertake [A,C] | NOUN NN undertaking [B,D]  <-- differ
+39	such	DET PDT such [A,B,C] | ADJ JJ such [D]  <-- differ
+40	a	DET DT a
+41	journey	NOUN NN journey
+42	?	PUNCT . ?
+
+# sentence 174
+# text: I never knew, among the whole of my acquaintance in England, any one like you but Mr. Polhill of Crofton” (or some such place): “he was always mopish, just as you are.
+0	I	PRON PRP I
+1	never	ADV RB never
+2	knew	VERB VBD know
+3	,	PUNCT , ,
+4	among	ADP IN among
+5	the	DET DT the
+6	whole	NOUN NN whole
+7	of	ADP IN of
+8	my	PRON PRP$ my
+9	acquaintance	NOUN NN acquaintance
+10	in	ADP IN in
+11	England	PROPN NNP England
+12	,	PUNCT , ,
+13	any	DET DT any
+14	one	NOUN NN one [A,B,C] | NUM CD one [D]  <-- differ
+15	like	ADP IN like
+16	you	PRON PRP you
+17	but	ADP IN but
+18	Mr.	PROPN NNP Mr.
+19	Polhill	PROPN NNP Polhill
+20	of	ADP IN of
+21	Crofton	PROPN NNP Crofton
+22	”	PUNCT '' ” [A,C,D] | PUNCT '' " [B]  <-- differ
+23	(	PUNCT -LRB- (
+24	or	CCONJ CC or
+25	some	DET DT some
+26	such	ADJ JJ such
+27	place	NOUN NN place
+28	):	PUNCT : ): [A,D] | PUNCT : : [B] | PUNCT -RRB- ): [C]  <-- differ
+29	“	PUNCT `` “ [A,C,D] | PUNCT `` " [B]  <-- differ
+30	he	PRON PRP he
+31	was	AUX VBD be
+32	always	ADV RB always
+33	mopish	ADJ JJ mopish
+34	,	PUNCT , ,
+35	just	ADV RB just
+36	as	SCONJ IN as
+37	you	PRON PRP you
+38	are	AUX VBP be
+39	.	PUNCT . .
+
+# sentence 175
+# text: What is feminine in its material symbol is derivative in its spiritual significance; "there is no such thing in eternity as a female will;" for in eternity substances lose their shadows, and essence puts off accident.
+0	What	PRON WP what
+1	is	AUX VBZ be
+2	feminine	ADJ JJ feminine
+3	in	ADP IN in
+4	its	PRON PRP$ its
+5	material	ADJ JJ material
+6	symbol	NOUN NN symbol
+7	is	AUX VBZ be
+8	derivative	ADJ JJ derivative
+9	in	ADP IN in
+10	its	PRON PRP$ its
+11	spiritual	ADJ JJ spiritual
+12	significance	NOUN NN significance
+13	;	PUNCT : ;
+14	"	PUNCT `` "
+15	there	PRON EX there
+16	is	VERB VBZ be
+17	no	DET DT no
+18	such	ADJ JJ such
+19	thing	NOUN NN thing
+20	in	ADP IN in
+21	eternity	NOUN NN eternity
+22	as	ADP IN as
+23	a	DET DT a
+24	female	ADJ JJ female
+25	will	NOUN NN will
+26	;	PUNCT : ;
+27	"	PUNCT '' "
+28	for	SCONJ IN for
+29	in	ADP IN in
+30	eternity	NOUN NN eternity
+31	substances	NOUN NNS substance
+32	lose	VERB VBP lose
+33	their	PRON PRP$ their
+34	shadows	NOUN NNS shadow
+35	,	PUNCT , ,
+36	and	CCONJ CC and
+37	essence	NOUN NN essence
+38	puts	VERB VBZ put
+39	off	ADP RP off
+40	accident	NOUN NN accident
+41	.	PUNCT . .
+
+# sentence 176
+# text: We know that what they really do who profess to substitute formlessness for form is to substitute a bad form for a good one, or an ugly form for a beautiful one.
+0	We	PRON PRP we
+1	know	VERB VBP know
+2	that	SCONJ IN that
+3	what	PRON WP what
+4	they	PRON PRP they
+5	really	ADV RB really
+6	do	VERB VBP do
+7	who	PRON WP who
+8	profess	VERB VBP profess
+9	to	PART TO to
+10	substitute	VERB VB substitute
+11	formlessness	NOUN NN formlessness
+12	for	ADP IN for
+13	form	NOUN NN form
+14	is	AUX VBZ be
+15	to	PART TO to
+16	substitute	VERB VB substitute
+17	a	DET DT a
+18	bad	ADJ JJ bad
+19	form	NOUN NN form
+20	for	ADP IN for
+21	a	DET DT a
+22	good	ADJ JJ good
+23	one	NOUN NN one
+24	,	PUNCT , ,
+25	or	CCONJ CC or
+26	an	DET DT a
+27	ugly	ADJ JJ ugly
+28	form	NOUN NN form
+29	for	ADP IN for
+30	a	DET DT a
+31	beautiful	ADJ JJ beautiful
+32	one	NOUN NN one
+33	.	PUNCT . .
+
+# sentence 177
+# text: Let you go down, sorrowful rhymes, to the hard rock is covering my dear treasure, and then let you call out till herself that is in the Heavens will make answer, though her dead body is lying in a shady place.
+0	Let	VERB VB let
+1	you	PRON PRP you
+2	go	VERB VB go
+3	down	ADV RB down [B,C,D] | ADP RP down [A]  <-- differ
+4	,	PUNCT , ,
+5	sorrowful	ADJ JJ sorrowful
+6	rhymes	NOUN NNS rhyme
+7	,	PUNCT , ,
+8	to	ADP IN to
+9	the	DET DT the
+10	hard	ADJ JJ hard
+11	rock	NOUN NN rock
+12	is	AUX VBZ be
+13	covering	VERB VBG cover
+14	my	PRON PRP$ my
+15	dear	ADJ JJ dear
+16	treasure	NOUN NN treasure
+17	,	PUNCT , ,
+18	and	CCONJ CC and
+19	then	ADV RB then
+20	let	VERB VB let
+21	you	PRON PRP you
+22	call	VERB VB call
+23	out	ADP RP out [A,B,C] | ADV RB out [D]  <-- differ
+24	till	SCONJ IN till
+25	herself	PRON PRP herself
+26	that	PRON WDT that
+27	is	AUX VBZ be
+28	in	ADP IN in
+29	the	DET DT the
+30	Heavens	NOUN NNS heaven
+31	will	AUX MD will
+32	make	VERB VB make
+33	answer	NOUN NN answer
+34	,	PUNCT , ,
+35	though	SCONJ IN though
+36	her	PRON PRP$ her
+37	dead	ADJ JJ dead
+38	body	NOUN NN body
+39	is	AUX VBZ be
+40	lying	VERB VBG lie
+41	in	ADP IN in
+42	a	DET DT a
+43	shady	ADJ JJ shady
+44	place	NOUN NN place
+45	.	PUNCT . .
+
+# sentence 178
+# text: Amid other sepulchral monuments are, an altar inscribed by Annia Augustalis, to the manes of M. Clodius, his brother Felix, and to Tyrannus; and a bas-relief discovered near the mausoleum of Augustus, representing a Muse standing before a dramatic poet.
+0	Amid	ADP IN amid
+1	other	ADJ JJ other
+2	sepulchral	ADJ JJ sepulchral
+3	monuments	NOUN NNS monument
+4	are	AUX VBP be [A,B,C] | VERB VBP be [D]  <-- differ
+5	,	PUNCT , ,
+6	an	DET DT a
+7	altar	NOUN NN altar
+8	inscribed	VERB VBN inscribe
+9	by	ADP IN by
+10	Annia	PROPN NNP Annia
+11	Augustalis	PROPN NNP Augustalis
+12	,	PUNCT , ,
+13	to	ADP IN to
+14	the	DET DT the
+15	manes	NOUN NNS manes
+16	of	ADP IN of
+17	M.	PROPN NNP M.
+18	Clodius	PROPN NNP Clodius
+19	,	PUNCT , ,
+20	his	PRON PRP$ his
+21	brother	NOUN NN brother
+22	Felix	PROPN NNP Felix
+23	,	PUNCT , ,
+24	and	CCONJ CC and
+25	to	ADP IN to
+26	Tyrannus	PROPN NNP Tyrannus
+27	;	PUNCT : ;
+28	and	CCONJ CC and
+29	a	DET DT a
+30	bas	NOUN NN bas
+31	-	PUNCT HYPH -
+32	relief	NOUN NN relief
+33	discovered	VERB VBN discover
+34	near	ADP IN near
+35	the	DET DT the
+36	mausoleum	NOUN NN mausoleum
+37	of	ADP IN of
+38	Augustus	PROPN NNP Augustus
+39	,	PUNCT , ,
+40	representing	VERB VBG represent
+41	a	DET DT a
+42	Muse	PROPN NNP Muse [A,B] | NOUN NN muse [C,D]  <-- differ
+43	standing	VERB VBG stand
+44	before	ADP IN before
+45	a	DET DT a
+46	dramatic	ADJ JJ dramatic
+47	poet	NOUN NN poet
+48	.	PUNCT . .
+
+# sentence 179
+# text: Ane gat a twist o’ the craig, Ane gat a bunch o’ the wame, Anither gat lam’d o’ a leg, And syne he went bellowing hame.
+0	Ane	NUM CD one [A,B,C] | NUM CD ane [D]  <-- differ
+1	gat	VERB VBD get
+2	a	DET DT a
+3	twist	NOUN NN twist
+4	o’	ADP IN of
+5	the	DET DT the
+6	craig	NOUN NN craig [A,C,D] | NOUN NN crag [B]  <-- differ
+7	,	PUNCT , ,
+8	Ane	NUM CD one [A,B,C] | NUM CD ane [D]  <-- differ
+9	gat	VERB VBD get
+10	a	DET DT a
+11	bunch	NOUN NN bunch
+12	o’	ADP IN of
+13	the	DET DT the
+14	wame	NOUN NN wame [A,C,D] | NOUN NN womb [B]  <-- differ
+15	,	PUNCT , ,
+16	Anither	PRON DT another [A,B,C] | NOUN NN another [D]  <-- differ
+17	gat	VERB VBD get
+18	lam’d	VERB VBN lame [A,B,C] | ADJ JJ lamed [D]  <-- differ
+19	o’	ADP IN of
+20	a	DET DT a
+21	leg	NOUN NN leg
+22	,	PUNCT , ,
+23	And	CCONJ CC and
+24	syne	ADV RB syne
+25	he	PRON PRP he
+26	went	VERB VBD go
+27	bellowing	VERB VBG bellow
+28	hame	ADV RB home
+29	.	PUNCT . .

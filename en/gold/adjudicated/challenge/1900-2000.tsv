@@ -1,0 +1,167 @@
+# sentence 234
+When	ADV	WRB	when
+the	DET	DT	the
+zun	NOUN	NN	sun	West Country z for s: zun = sun
+beyond	ADP	IN	beyond
+the	DET	DT	the
+Beacon	PROPN	NNP	Beacon
+be	AUX	VBP	be	West Country finite 'be' = is (3sg subject); tagged VBP as finite present like 'they be', not VB subjunctive
+a	ADP	IN	a	a- prefix before participle (a-zettin') = IN ADP, lemma a
+-	PUNCT	HYPH	-
+zettin	VERB	VBG	set	West Country zettin' = setting
+’	PUNCT	NFP	’	detached elision apostrophe (dropped g), not a closing quote
+And	CCONJ	CC	and
+everything	PRON	NN	everything
+’s	AUX	VBZ	be
+as	ADV	RB	as
+quiet	ADJ	JJ	quiet
+as	SCONJ	IN	as
+can	AUX	MD	can
+be	AUX	VB	be
+,	PUNCT	,	,
+By	ADP	IN	by
+the	DET	DT	the
+gate	NOUN	NN	gate
+to	ADP	IN	to
+varmur	NOUN	NN	farmer	West Country varmur = farmer
+’s	PART	POS	's
+meddy	NOUN	NN	meadow	dialect meddy = meadow
+,	PUNCT	,	,
+That	DET	DT	that
+old	ADJ	JJ	old
+gate	NOUN	NN	gate
+zo	ADV	RB	so	West Country zo = so
+vurm	ADJ	JJ	firm	West Country vurm = firm
+and	CCONJ	CC	and
+zteddy	ADJ	JJ	steady	West Country zteddy = steady
+,	PUNCT	,	,
+You	PRON	PRP	you
+be	AUX	VBP	be	West Country 'you be' = you are (copula)
+pretty	ADV	RB	pretty
+zure	ADJ	JJ	sure	West Country zure = sure
+uv	SCONJ	IN	of
+vindin	VERB	VBG	find	West Country vindin' = finding
+’	PUNCT	NFP	’	detached elision apostrophe (dropped g), not a closing quote
+Jim	PROPN	NNP	Jim
+and	CCONJ	CC	and
+me	PRON	PRP	I
+.	PUNCT	.	.
+# sentence 235
+Weel	ADV	RB	well	Yorkshire weel = well
+I	PRON	PRP	I
+know	VERB	VBP	know
+I	PRON	PRP	I
+san’t	AUX	MD	shall	Yorkshire san't = shan't; fused modal+not takes the modal's labels
+win	VERB	VB	win
+t’	DET	DT	the	Yorkshire definite article t' = the (not to)
+vict’ry	NOUN	NN	victory	vict'ry = victory
+:	PUNCT	:	:
+son	NOUN	NN	son
+’s	AUX	VBZ	be
+agean	ADP	IN	against	Yorkshire agean = against
+me	PRON	PRP	I
+,	PUNCT	,	,
+dowters	NOUN	NNS	daughter	dowters = daughters
+,	PUNCT	,	,
+wife	NOUN	NN	wife
+;	PUNCT	:	;
+Yit	CCONJ	CC	yet	dialect yit = yet (coordinating, 'but')
+I	PRON	PRP	I
+’ll	AUX	MD	will
+hold	VERB	VB	hold
+my	PRON	PRP$	my
+ground	NOUN	NN	ground
+bout	SCONJ	IN	without
+flinchin	VERB	VBG	flinch	flinchin' = flinching; gerund without determiner
+’	PUNCT	NFP	’	detached elision apostrophe (dropped g), not a closing quote
+,	PUNCT	,	,
+feight	VERB	VB	fight	dialect feight = fight
+so	ADV	RB	so
+long	ADV	RB	long
+as	SCONJ	IN	as
+I	PRON	PRP	I
+have	VERB	VBP	have
+life	NOUN	NN	life
+.	PUNCT	.	.
+# sentence 236
+I	PRON	PRP	I
+told	VERB	VBD	tell
+you	PRON	PRP	you
+before	ADV	RB	before
+that	SCONJ	IN	that
+Don	PROPN	NNP	Don
+'s	AUX	VBZ	be
+no	DET	DT	no
+fool	NOUN	NN	fool
+,	PUNCT	,	,
+but	CCONJ	CC	but
+'	PUNCT	NFP	'	elision apostrophe of dropped h in 'e, not an opening quote
+e	PRON	PRP	he	Cockney 'e = he
+ai	AUX	VBZ	be	ain't = isn't with 3sg subject 'e -> VBZ
+n't	PART	RB	not
+such	DET	PDT	such
+a	DET	DT	a
+bloomin	ADJ	JJ	blooming	bloomin' = blooming (intensifier adjective)
+'	PUNCT	NFP	'	detached elision apostrophe (dropped g), not a closing quote
+conjurer	NOUN	NN	conjurer
+as	ADP	IN	as
+all	DET	PDT	all	'all that' (pronoun that): all as predeterminer before demonstrative
+that	PRON	DT	that
+.	PUNCT	.	.
+# sentence 237
+"	PUNCT	``	"
+I	PRON	PRP	I
+reckon	VERB	VBP	reckon
+Black	PROPN	NNP	Black
+Davis	PROPN	NNP	Davis
+was	AUX	VBD	be
+some	ADV	RB	some
+scared	ADJ	JJ	scared
+he	PRON	PRP	he
+'d	AUX	MD	would
+lose	VERB	VB	lose
+his	PRON	PRP$	his
+job	NOUN	NN	job
+if	SCONJ	IN	if
+Jack	PROPN	NNP	Jack
+downs	VERB	VBZ	down
+him	PRON	PRP	he
+,	PUNCT	,	,
+same	ADJ	JJ	same
+as	ADP	IN	as
+that	DET	DT	that
+other	ADJ	JJ	other
+fire	NOUN	NN	fire
+-	PUNCT	HYPH	-
+eatin	VERB	VBG	eat	fire-eatin' = fire-eating; participle with incorporated object stays verbal
+'	PUNCT	NFP	'	detached elision apostrophe (dropped g), not a closing quote
+miscreant	NOUN	NN	miscreant
+,	PUNCT	,	,
+"	PUNCT	''	"
+mused	VERB	VBD	muse
+Broncho	PROPN	NNP	Broncho
+.	PUNCT	.	.
+# sentence 238
+"	PUNCT	``	"
+'	PUNCT	``	'
+Where	ADV	WRB	where
+are	AUX	VBP	be
+you	PRON	PRP	you
+goin'	VERB	VBG	go
+,	PUNCT	,	,
+Neddy	PROPN	NNP	Neddy
+?	PUNCT	.	?
+'	PUNCT	''	'
+says	VERB	VBZ	say
+he	PRON	PRP	he
+,	PUNCT	,	,
+the	DET	DT	the
+same	ADJ	JJ	same
+as	SCONJ	IN	as
+if	SCONJ	IN	if
+he	PRON	PRP	he
+got	VERB	VBD	get
+a	DET	DT	a
+terrible	ADJ	JJ	terrible
+surprise	NOUN	NN	surprise
+.	PUNCT	.	.

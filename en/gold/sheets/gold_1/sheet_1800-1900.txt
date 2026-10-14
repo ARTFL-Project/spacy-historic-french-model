@@ -1,0 +1,744 @@
+# sentence 60
+# text: The ladies had by this time thronged to the windows to see the unusual sight, except Miss Webberly, who affected to keep at a distance, though she could not refrain from peeping over their heads as she stood on tip-toe.
+0	The	DET DT the
+1	ladies	NOUN NNS lady
+2	had	AUX VBD have
+3	by	ADP IN by
+4	this	DET DT this
+5	time	NOUN NN time
+6	thronged	VERB VBN throng
+7	to	ADP IN to
+8	the	DET DT the
+9	windows	NOUN NNS window
+10	to	PART TO to
+11	see	VERB VB see
+12	the	DET DT the
+13	unusual	ADJ JJ unusual
+14	sight	NOUN NN sight
+15	,	PUNCT , ,
+16	except	ADP IN except
+17	Miss	PROPN NNP Miss
+18	Webberly	PROPN NNP Webberly
+19	,	PUNCT , ,
+20	who	PRON WP who
+21	affected	VERB VBD affect
+22	to	PART TO to
+23	keep	VERB VB keep
+24	at	ADP IN at
+25	a	DET DT a
+26	distance	NOUN NN distance
+27	,	PUNCT , ,
+28	though	SCONJ IN though
+29	she	PRON PRP she
+30	could	AUX MD could
+31	not	PART RB not
+32	refrain	VERB VB refrain
+33	from	ADP IN from [B,C,D] | SCONJ IN from [A]  <-- differ
+34	peeping	VERB VBG peep
+35	over	ADP IN over
+36	their	PRON PRP$ their
+37	heads	NOUN NNS head
+38	as	SCONJ IN as
+39	she	PRON PRP she
+40	stood	VERB VBD stand
+41	on	ADP IN on
+42	tip	NOUN NN tip
+43	-	PUNCT HYPH -
+44	toe	NOUN NN toe
+45	.	PUNCT . .
+
+# sentence 61
+# text: The entertainment lasted three days, and dancing, singing, music and drinking went on till the small hours of the morning.
+0	The	DET DT the
+1	entertainment	NOUN NN entertainment
+2	lasted	VERB VBD last
+3	three	NUM CD three
+4	days	NOUN NNS day
+5	,	PUNCT , ,
+6	and	CCONJ CC and
+7	dancing	NOUN NN dancing
+8	,	PUNCT , ,
+9	singing	NOUN NN singing
+10	,	PUNCT , ,
+11	music	NOUN NN music
+12	and	CCONJ CC and
+13	drinking	NOUN NN drinking
+14	went	VERB VBD go
+15	on	ADP RP on [A,C,D] | ADV RB on [B]  <-- differ
+16	till	ADP IN till
+17	the	DET DT the
+18	small	ADJ JJ small
+19	hours	NOUN NNS hour
+20	of	ADP IN of
+21	the	DET DT the
+22	morning	NOUN NN morning
+23	.	PUNCT . .
+
+# sentence 62
+# text: M. Taine, who has a theory to sustain, does it by a graphic catalogue of details and traits that cannot be denied; only there is a great deal in English society that he does not include, perhaps does not apprehend.
+0	M.	PROPN NNP M.
+1	Taine	PROPN NNP Taine
+2	,	PUNCT , ,
+3	who	PRON WP who
+4	has	VERB VBZ have
+5	a	DET DT a
+6	theory	NOUN NN theory
+7	to	PART TO to
+8	sustain	VERB VB sustain
+9	,	PUNCT , ,
+10	does	VERB VBZ do
+11	it	PRON PRP it
+12	by	ADP IN by
+13	a	DET DT a
+14	graphic	ADJ JJ graphic
+15	catalogue	NOUN NN catalogue
+16	of	ADP IN of
+17	details	NOUN NNS detail
+18	and	CCONJ CC and
+19	traits	NOUN NNS trait
+20	that	PRON WDT that
+21	can	AUX MD can
+22	not	PART RB not
+23	be	AUX VB be
+24	denied	VERB VBN deny
+25	;	PUNCT : ;
+26	only	ADV RB only
+27	there	PRON EX there
+28	is	VERB VBZ be
+29	a	DET DT a
+30	great	ADJ JJ great
+31	deal	NOUN NN deal
+32	in	ADP IN in
+33	English	ADJ JJ English [A,B] | ADJ JJ english [C,D]  <-- differ
+34	society	NOUN NN society
+35	that	PRON WDT that
+36	he	PRON PRP he
+37	does	AUX VBZ do
+38	not	PART RB not
+39	include	VERB VB include
+40	,	PUNCT , ,
+41	perhaps	ADV RB perhaps
+42	does	AUX VBZ do
+43	not	PART RB not
+44	apprehend	VERB VB apprehend
+45	.	PUNCT . .
+
+# sentence 63
+# text: I seldom enjoyed a view more than I did this; but our enquiries were fruitless as to the name of the person who had resided in this romantic solitude: none knew his name but Dominick, his banker, who had gone to Candia.
+0	I	PRON PRP I
+1	seldom	ADV RB seldom
+2	enjoyed	VERB VBD enjoy
+3	a	DET DT a
+4	view	NOUN NN view
+5	more	ADV RBR more [B,C,D] | ADV RBR much [A]  <-- differ
+6	than	SCONJ IN than
+7	I	PRON PRP I
+8	did	VERB VBD do
+9	this	PRON DT this
+10	;	PUNCT : ;
+11	but	CCONJ CC but
+12	our	PRON PRP$ our
+13	enquiries	NOUN NNS enquiry
+14	were	AUX VBD be
+15	fruitless	ADJ JJ fruitless
+16	as	ADP IN as
+17	to	ADP IN to
+18	the	DET DT the
+19	name	NOUN NN name
+20	of	ADP IN of
+21	the	DET DT the
+22	person	NOUN NN person
+23	who	PRON WP who
+24	had	AUX VBD have
+25	resided	VERB VBN reside
+26	in	ADP IN in
+27	this	DET DT this
+28	romantic	ADJ JJ romantic
+29	solitude	NOUN NN solitude
+30	:	PUNCT : :
+31	none	PRON NN none
+32	knew	VERB VBD know
+33	his	PRON PRP$ his
+34	name	NOUN NN name
+35	but	ADP IN but
+36	Dominick	PROPN NNP Dominick
+37	,	PUNCT , ,
+38	his	PRON PRP$ his
+39	banker	NOUN NN banker
+40	,	PUNCT , ,
+41	who	PRON WP who
+42	had	AUX VBD have
+43	gone	VERB VBN go
+44	to	ADP IN to
+45	Candia	PROPN NNP Candia
+46	.	PUNCT . .
+
+# sentence 64
+# text: It was as if a harp with wires Was traversed by the breath I drew; And, oh, sweet meeting of desires, She, answering, own’d that she loved too.
+0	It	PRON PRP it
+1	was	AUX VBD be
+2	as	SCONJ IN as
+3	if	SCONJ IN if
+4	a	DET DT a
+5	harp	NOUN NN harp
+6	with	ADP IN with
+7	wires	NOUN NNS wire
+8	Was	AUX VBD be
+9	traversed	VERB VBN traverse
+10	by	ADP IN by
+11	the	DET DT the
+12	breath	NOUN NN breath
+13	I	PRON PRP I
+14	drew	VERB VBD draw
+15	;	PUNCT : ;
+16	And	CCONJ CC and
+17	,	PUNCT , ,
+18	oh	INTJ UH oh
+19	,	PUNCT , ,
+20	sweet	ADJ JJ sweet
+21	meeting	NOUN NN meeting
+22	of	ADP IN of
+23	desires	NOUN NNS desire
+24	,	PUNCT , ,
+25	She	PRON PRP she
+26	,	PUNCT , ,
+27	answering	VERB VBG answer
+28	,	PUNCT , ,
+29	own’d	VERB VBD own
+30	that	SCONJ IN that
+31	she	PRON PRP she
+32	loved	VERB VBD love
+33	too	ADV RB too
+34	.	PUNCT . .
+
+# sentence 65
+# text: "I thought your time was short, when they brought you in the other day in such a pickle: but I was wrong, you see."
+0	"	PUNCT `` "
+1	I	PRON PRP I
+2	thought	VERB VBD think
+3	your	PRON PRP$ your
+4	time	NOUN NN time
+5	was	AUX VBD be
+6	short	ADJ JJ short
+7	,	PUNCT , ,
+8	when	ADV WRB when
+9	they	PRON PRP they
+10	brought	VERB VBD bring
+11	you	PRON PRP you
+12	in	ADP RP in [B,C] | ADV RB in [A] | ADP IN in [D]  <-- differ
+13	the	DET DT the
+14	other	ADJ JJ other
+15	day	NOUN NN day
+16	in	ADP IN in
+17	such	DET PDT such [A,B,C] | ADJ PDT such [D]  <-- differ
+18	a	DET DT a
+19	pickle	NOUN NN pickle
+20	:	PUNCT : :
+21	but	CCONJ CC but
+22	I	PRON PRP I
+23	was	AUX VBD be
+24	wrong	ADJ JJ wrong
+25	,	PUNCT , ,
+26	you	PRON PRP you
+27	see	VERB VBP see
+28	.	PUNCT . .
+29	"	PUNCT '' "
+
+# sentence 66
+# text: His parents dying while he was a child he was apprenticed to a silk-mercer in London, but not liking the trade, was released by his master.
+0	His	PRON PRP$ his
+1	parents	NOUN NNS parent
+2	dying	VERB VBG die
+3	while	SCONJ IN while
+4	he	PRON PRP he
+5	was	AUX VBD be
+6	a	DET DT a
+7	child	NOUN NN child
+8	he	PRON PRP he
+9	was	AUX VBD be
+10	apprenticed	VERB VBN apprentice
+11	to	ADP IN to
+12	a	DET DT a
+13	silk	NOUN NN silk
+14	-	PUNCT HYPH -
+15	mercer	NOUN NN mercer
+16	in	ADP IN in
+17	London	PROPN NNP London
+18	,	PUNCT , ,
+19	but	CCONJ CC but
+20	not	PART RB not
+21	liking	VERB VBG like
+22	the	DET DT the
+23	trade	NOUN NN trade
+24	,	PUNCT , ,
+25	was	AUX VBD be
+26	released	VERB VBN release
+27	by	ADP IN by
+28	his	PRON PRP$ his
+29	master	NOUN NN master
+30	.	PUNCT . .
+
+# sentence 67
+# text: An affair of this kind lasted, as you may suppose, whole weeks, and the height of cleverness was to surprise one another into receiving a trifle without uttering the magic word."
+0	An	DET DT a
+1	affair	NOUN NN affair
+2	of	ADP IN of
+3	this	DET DT this
+4	kind	NOUN NN kind
+5	lasted	VERB VBD last
+6	,	PUNCT , ,
+7	as	SCONJ IN as
+8	you	PRON PRP you
+9	may	AUX MD may
+10	suppose	VERB VB suppose
+11	,	PUNCT , ,
+12	whole	ADJ JJ whole
+13	weeks	NOUN NNS week
+14	,	PUNCT , ,
+15	and	CCONJ CC and
+16	the	DET DT the
+17	height	NOUN NN height
+18	of	ADP IN of
+19	cleverness	NOUN NN cleverness
+20	was	AUX VBD be
+21	to	PART TO to
+22	surprise	VERB VB surprise
+23	one	PRON NN one [B,D] | NUM CD one [A] | PRON PRP one [C]  <-- differ
+24	another	PRON DT another [A,C,D] | DET DT another [B]  <-- differ
+25	into	ADP IN into
+26	receiving	VERB VBG receive
+27	a	DET DT a
+28	trifle	NOUN NN trifle
+29	without	ADP IN without
+30	uttering	VERB VBG utter
+31	the	DET DT the
+32	magic	ADJ JJ magic [A,B,C] | NOUN NN magic [D]  <-- differ
+33	word	NOUN NN word
+34	.	PUNCT . .
+35	"	PUNCT '' "
+
+# sentence 68
+# text: I nodded; for I was still crying, and too frightened at what I had done to be able to speak.
+0	I	PRON PRP I
+1	nodded	VERB VBD nod
+2	;	PUNCT : ;
+3	for	SCONJ IN for
+4	I	PRON PRP I
+5	was	AUX VBD be
+6	still	ADV RB still
+7	crying	VERB VBG cry
+8	,	PUNCT , ,
+9	and	CCONJ CC and
+10	too	ADV RB too
+11	frightened	ADJ JJ frightened
+12	at	ADP IN at
+13	what	PRON WP what
+14	I	PRON PRP I
+15	had	AUX VBD have
+16	done	VERB VBN do
+17	to	PART TO to
+18	be	AUX VB be
+19	able	ADJ JJ able
+20	to	PART TO to
+21	speak	VERB VB speak
+22	.	PUNCT . .
+
+# sentence 69
+# text: Sweet it was to see below them the green grass instead of the cold, running wave; and the hollows of the meadows, how much dearer were they than the troughs of the drowning billows!
+0	Sweet	ADJ JJ sweet
+1	it	PRON PRP it
+2	was	AUX VBD be
+3	to	PART TO to
+4	see	VERB VB see
+5	below	ADP IN below
+6	them	PRON PRP they
+7	the	DET DT the
+8	green	ADJ JJ green
+9	grass	NOUN NN grass
+10	instead	ADV RB instead
+11	of	ADP IN of
+12	the	DET DT the
+13	cold	ADJ JJ cold
+14	,	PUNCT , ,
+15	running	VERB VBG run [A,C] | ADJ JJ running [B,D]  <-- differ
+16	wave	NOUN NN wave
+17	;	PUNCT : ;
+18	and	CCONJ CC and
+19	the	DET DT the
+20	hollows	NOUN NNS hollow
+21	of	ADP IN of
+22	the	DET DT the
+23	meadows	NOUN NNS meadow
+24	,	PUNCT , ,
+25	how	ADV WRB how
+26	much	ADV RB much
+27	dearer	ADJ JJR dear
+28	were	AUX VBD be
+29	they	PRON PRP they
+30	than	ADP IN than
+31	the	DET DT the
+32	troughs	NOUN NNS trough
+33	of	ADP IN of
+34	the	DET DT the
+35	drowning	VERB VBG drown [A,C] | ADJ JJ drowning [B,D]  <-- differ
+36	billows	NOUN NNS billow
+37	!	PUNCT . !
+
+# sentence 70
+# text: Nay, while new things and wishes are afloat, I own to one that I should not rebut-- Instead of this old rent, to have a coat With more of the New Cut!
+0	Nay	INTJ UH nay
+1	,	PUNCT , ,
+2	while	SCONJ IN while
+3	new	ADJ JJ new
+4	things	NOUN NNS thing
+5	and	CCONJ CC and
+6	wishes	NOUN NNS wish
+7	are	AUX VBP be
+8	afloat	ADV RB afloat [A,C] | ADJ JJ afloat [B,D]  <-- differ
+9	,	PUNCT , ,
+10	I	PRON PRP I
+11	own	VERB VBP own
+12	to	ADP IN to
+13	one	NUM CD one [B,C] | PRON NN one [A] | NOUN NN one [D]  <-- differ
+14	that	PRON WDT that
+15	I	PRON PRP I
+16	should	AUX MD should
+17	not	PART RB not
+18	rebut--	VERB VB rebut
+19	Instead	ADV RB instead
+20	of	ADP IN of
+21	this	DET DT this
+22	old	ADJ JJ old
+23	rent	NOUN NN rent
+24	,	PUNCT , ,
+25	to	PART TO to
+26	have	VERB VB have
+27	a	DET DT a
+28	coat	NOUN NN coat
+29	With	ADP IN with
+30	more	ADJ JJR more [B,C] | ADJ JJR much [A] | NOUN NN more [D]  <-- differ
+31	of	ADP IN of
+32	the	DET DT the
+33	New	PROPN NNP New
+34	Cut	PROPN NNP Cut
+35	!	PUNCT . !
+
+# sentence 71
+# text: I cannot write much (God knows how hardly I steal this time when all sleep), and it is also time for me to separate my thoughts from the world.
+0	I	PRON PRP I
+1	can	AUX MD can
+2	not	PART RB not
+3	write	VERB VB write
+4	much	ADV RB much
+5	(	PUNCT -LRB- (
+6	God	PROPN NNP God
+7	knows	VERB VBZ know
+8	how	ADV WRB how
+9	hardly	ADV RB hardly
+10	I	PRON PRP I
+11	steal	VERB VBP steal
+12	this	DET DT this
+13	time	NOUN NN time
+14	when	ADV WRB when
+15	all	PRON DT all
+16	sleep	VERB VBP sleep
+17	)	PUNCT -RRB- )
+18	,	PUNCT , ,
+19	and	CCONJ CC and
+20	it	PRON PRP it
+21	is	AUX VBZ be
+22	also	ADV RB also
+23	time	NOUN NN time
+24	for	SCONJ IN for [A,B] | ADP IN for [C,D]  <-- differ
+25	me	PRON PRP I
+26	to	PART TO to
+27	separate	VERB VB separate
+28	my	PRON PRP$ my
+29	thoughts	NOUN NNS thought
+30	from	ADP IN from
+31	the	DET DT the
+32	world	NOUN NN world
+33	.	PUNCT . .
+
+# sentence 72
+# text: The lands at the Gore, and near to it, passed into various lay hands, and will be hereafter more fully noticed.
+0	The	DET DT the
+1	lands	NOUN NNS land
+2	at	ADP IN at
+3	the	DET DT the
+4	Gore	PROPN NNP Gore
+5	,	PUNCT , ,
+6	and	CCONJ CC and
+7	near	ADP IN near [B,C,D] | ADV RB near [A]  <-- differ
+8	to	ADP IN to
+9	it	PRON PRP it
+10	,	PUNCT , ,
+11	passed	VERB VBD pass
+12	into	ADP IN into
+13	various	ADJ JJ various
+14	lay	ADJ JJ lay
+15	hands	NOUN NNS hand
+16	,	PUNCT , ,
+17	and	CCONJ CC and
+18	will	AUX MD will
+19	be	AUX VB be
+20	hereafter	ADV RB hereafter
+21	more	ADV RBR much [A,D] | ADV RBR more [B,C]  <-- differ
+22	fully	ADV RB fully
+23	noticed	VERB VBN notice
+24	.	PUNCT . .
+
+# sentence 73
+# text: She seems to have set her heart upon going abroad with us, and after all she’s done, I don’t think we could well refuse her.”
+0	She	PRON PRP she
+1	seems	VERB VBZ seem
+2	to	PART TO to
+3	have	AUX VB have
+4	set	VERB VBN set
+5	her	PRON PRP$ her
+6	heart	NOUN NN heart
+7	upon	ADP IN upon [B,C,D] | SCONJ IN upon [A]  <-- differ
+8	going	VERB VBG go
+9	abroad	ADV RB abroad
+10	with	ADP IN with
+11	us	PRON PRP we
+12	,	PUNCT , ,
+13	and	CCONJ CC and
+14	after	ADP IN after [A,B,C] | SCONJ IN after [D]  <-- differ
+15	all	PRON DT all
+16	she	PRON PRP she
+17	’s	AUX VBZ have
+18	done	VERB VBN do
+19	,	PUNCT , ,
+20	I	PRON PRP I
+21	do	AUX VBP do
+22	n’t	PART RB not
+23	think	VERB VB think
+24	we	PRON PRP we
+25	could	AUX MD could
+26	well	ADV RB well
+27	refuse	VERB VB refuse
+28	her	PRON PRP she
+29	.	PUNCT . .
+30	”	PUNCT '' ” [A,C,D] | PUNCT '' " [B]  <-- differ
+
+# sentence 74
+# text: On the brow the schist blocks, traversed by porphyry, are upheaved in the wildest confusion, and assume an endless variety of form, more so than the shore blocks, which are washed and rolled and rounded by the waves.
+0	On	ADP IN on
+1	the	DET DT the
+2	brow	NOUN NN brow
+3	the	DET DT the
+4	schist	NOUN NN schist
+5	blocks	NOUN NNS block
+6	,	PUNCT , ,
+7	traversed	VERB VBN traverse
+8	by	ADP IN by
+9	porphyry	NOUN NN porphyry
+10	,	PUNCT , ,
+11	are	AUX VBP be
+12	upheaved	VERB VBN upheave
+13	in	ADP IN in
+14	the	DET DT the
+15	wildest	ADJ JJS wild
+16	confusion	NOUN NN confusion
+17	,	PUNCT , ,
+18	and	CCONJ CC and
+19	assume	VERB VBP assume
+20	an	DET DT a
+21	endless	ADJ JJ endless
+22	variety	NOUN NN variety
+23	of	ADP IN of
+24	form	NOUN NN form
+25	,	PUNCT , ,
+26	more	ADV RBR more [B,C,D] | ADV RBR much [A]  <-- differ
+27	so	ADV RB so
+28	than	ADP IN than [A,B,C] | SCONJ IN than [D]  <-- differ
+29	the	DET DT the
+30	shore	NOUN NN shore
+31	blocks	NOUN NNS block
+32	,	PUNCT , ,
+33	which	PRON WDT which
+34	are	AUX VBP be
+35	washed	VERB VBN wash
+36	and	CCONJ CC and
+37	rolled	VERB VBN roll
+38	and	CCONJ CC and
+39	rounded	VERB VBN round
+40	by	ADP IN by
+41	the	DET DT the
+42	waves	NOUN NNS wave
+43	.	PUNCT . .
+
+# sentence 75
+# text: I was thinking of the bustling Regent Street pavement, of the rumble of Piccadilly, of newsboys yelling special editions in the Strand, drowsily conjuring up these and other commonplace contrasts.
+0	I	PRON PRP I
+1	was	AUX VBD be
+2	thinking	VERB VBG think
+3	of	ADP IN of
+4	the	DET DT the
+5	bustling	ADJ JJ bustling
+6	Regent	PROPN NNP Regent
+7	Street	PROPN NNP Street
+8	pavement	NOUN NN pavement
+9	,	PUNCT , ,
+10	of	ADP IN of
+11	the	DET DT the
+12	rumble	NOUN NN rumble
+13	of	ADP IN of
+14	Piccadilly	PROPN NNP Piccadilly
+15	,	PUNCT , ,
+16	of	ADP IN of
+17	newsboys	NOUN NNS newsboy
+18	yelling	VERB VBG yell
+19	special	ADJ JJ special
+20	editions	NOUN NNS edition
+21	in	ADP IN in
+22	the	DET DT the
+23	Strand	PROPN NNP Strand
+24	,	PUNCT , ,
+25	drowsily	ADV RB drowsily
+26	conjuring	VERB VBG conjure
+27	up	ADP RP up
+28	these	PRON DT this [B,D] | PRON DT these [A] | DET DT this [C]  <-- differ
+29	and	CCONJ CC and
+30	other	ADJ JJ other
+31	commonplace	ADJ JJ commonplace
+32	contrasts	NOUN NNS contrast
+33	.	PUNCT . .
+
+# sentence 76
+# text: "Cinq Mars has been deceived, misled, abused!" cried the King, with a degree of agitation almost amounting to agony.
+0	"	PUNCT `` "
+1	Cinq	PROPN NNP Cinq
+2	Mars	PROPN NNP Mars
+3	has	AUX VBZ have
+4	been	AUX VBN be
+5	deceived	VERB VBN deceive
+6	,	PUNCT , ,
+7	misled	VERB VBN mislead
+8	,	PUNCT , ,
+9	abused	VERB VBN abuse
+10	!	PUNCT . !
+11	"	PUNCT '' "
+12	cried	VERB VBD cry
+13	the	DET DT the
+14	King	NOUN NN king
+15	,	PUNCT , ,
+16	with	ADP IN with
+17	a	DET DT a
+18	degree	NOUN NN degree
+19	of	ADP IN of
+20	agitation	NOUN NN agitation
+21	almost	ADV RB almost
+22	amounting	VERB VBG amount
+23	to	ADP IN to
+24	agony	NOUN NN agony
+25	.	PUNCT . .
+
+# sentence 77
+# text: How have you got money to go up to Oxford with--and all those bills unpaid--and Mrs. Waite still dunning us for the rent from last quarter?
+0	How	ADV WRB how
+1	have	AUX VBP have
+2	you	PRON PRP you
+3	got	VERB VBN get
+4	money	NOUN NN money
+5	to	PART TO to
+6	go	VERB VB go
+7	up	ADP RP up [A,C,D] | ADV RB up [B]  <-- differ
+8	to	ADP IN to
+9	Oxford	PROPN NNP Oxford
+10	with	ADP IN with
+11	--	PUNCT : --
+12	and	CCONJ CC and
+13	all	DET PDT all
+14	those	DET DT that [B,C,D] | DET DT those [A]  <-- differ
+15	bills	NOUN NNS bill
+16	unpaid	ADJ JJ unpaid
+17	--	PUNCT : --
+18	and	CCONJ CC and
+19	Mrs.	PROPN NNP Mrs.
+20	Waite	PROPN NNP Waite
+21	still	ADV RB still
+22	dunning	VERB VBG dun
+23	us	PRON PRP we
+24	for	ADP IN for
+25	the	DET DT the
+26	rent	NOUN NN rent
+27	from	ADP IN from
+28	last	ADJ JJ last
+29	quarter	NOUN NN quarter
+30	?	PUNCT . ?
+
+# sentence 78
+# text: Previous to it, however, there existed a British track, still clearly visible across the Forest, especially near Butts Ash barrows, by its deep depressions.
+0	Previous	ADJ JJ previous
+1	to	ADP IN to
+2	it	PRON PRP it
+3	,	PUNCT , ,
+4	however	ADV RB however
+5	,	PUNCT , ,
+6	there	PRON EX there
+7	existed	VERB VBD exist
+8	a	DET DT a
+9	British	ADJ JJ british [A,C,D] | ADJ JJ British [B]  <-- differ
+10	track	NOUN NN track
+11	,	PUNCT , ,
+12	still	ADV RB still
+13	clearly	ADV RB clearly
+14	visible	ADJ JJ visible
+15	across	ADP IN across
+16	the	DET DT the
+17	Forest	PROPN NNP Forest [A,B,D] | NOUN NN forest [C]  <-- differ
+18	,	PUNCT , ,
+19	especially	ADV RB especially
+20	near	ADP IN near
+21	Butts	PROPN NNP Butts
+22	Ash	PROPN NNP Ash
+23	barrows	NOUN NNS barrow
+24	,	PUNCT , ,
+25	by	ADP IN by
+26	its	PRON PRP$ its
+27	deep	ADJ JJ deep
+28	depressions	NOUN NNS depression
+29	.	PUNCT . .
+
+# sentence 79
+# text: The Passage of the Bidasoa, with the military movements which immediately ensued, completing that operation and establishing the left wing of our army on the soil of France, occupies the entire of this Canto.
+0	The	DET DT the
+1	Passage	NOUN NN passage
+2	of	ADP IN of
+3	the	DET DT the
+4	Bidasoa	PROPN NNP Bidasoa
+5	,	PUNCT , ,
+6	with	ADP IN with
+7	the	DET DT the
+8	military	ADJ JJ military
+9	movements	NOUN NNS movement
+10	which	PRON WDT which
+11	immediately	ADV RB immediately
+12	ensued	VERB VBD ensue
+13	,	PUNCT , ,
+14	completing	VERB VBG complete
+15	that	DET DT that
+16	operation	NOUN NN operation
+17	and	CCONJ CC and
+18	establishing	VERB VBG establish
+19	the	DET DT the
+20	left	ADJ JJ left
+21	wing	NOUN NN wing
+22	of	ADP IN of
+23	our	PRON PRP$ our
+24	army	NOUN NN army
+25	on	ADP IN on
+26	the	DET DT the
+27	soil	NOUN NN soil
+28	of	ADP IN of
+29	France	PROPN NNP France
+30	,	PUNCT , ,
+31	occupies	VERB VBZ occupy
+32	the	DET DT the
+33	entire	NOUN NN entire
+34	of	ADP IN of
+35	this	DET DT this
+36	Canto	NOUN NN canto [A,B,C] | PROPN NNP Canto [D]  <-- differ
+37	.	PUNCT . .

@@ -1,0 +1,12 @@
+{
+  "run": "gemini-4_high",
+  "sentences": 100,
+  "annotated": 100,
+  "failures": [],
+  "prompt_tokens": 171853,
+  "completion_tokens": 266885,
+  "cost": 2.9729201,
+  "reasoning_tokens": 233919,
+  "requests": 36,
+  "seconds": 583
+}

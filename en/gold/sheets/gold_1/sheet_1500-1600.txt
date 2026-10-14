@@ -1,0 +1,735 @@
+# sentence 0
+# text: Scratch not thy head Martin, for be thou Martin the bird, or Martin the beast; a bird with the longest bill, or a beast with the longest eares, theres a net spread for your necke.
+0	Scratch	VERB VB scratch
+1	not	PART RB not
+2	thy	PRON PRP$ thy
+3	head	NOUN NN head
+4	Martin	PROPN NNP Martin
+5	,	PUNCT , ,
+6	for	SCONJ IN for
+7	be	AUX VB be
+8	thou	PRON PRP thou
+9	Martin	PROPN NNP Martin
+10	the	DET DT the
+11	bird	NOUN NN bird
+12	,	PUNCT , ,
+13	or	CCONJ CC or
+14	Martin	PROPN NNP Martin
+15	the	DET DT the
+16	beast	NOUN NN beast
+17	;	PUNCT : ;
+18	a	DET DT a
+19	bird	NOUN NN bird
+20	with	ADP IN with
+21	the	DET DT the
+22	longest	ADJ JJS long
+23	bill	NOUN NN bill
+24	,	PUNCT , ,
+25	or	CCONJ CC or
+26	a	DET DT a
+27	beast	NOUN NN beast
+28	with	ADP IN with
+29	the	DET DT the
+30	longest	ADJ JJS long
+31	eares	NOUN NNS ear
+32	,	PUNCT , ,
+33	there	PRON EX there
+34	s	VERB VBZ be [A,C] | AUX VBZ be [B,D]  <-- differ
+35	a	DET DT a
+36	net	NOUN NN net
+37	spread	VERB VBN spread
+38	for	ADP IN for
+39	your	PRON PRP$ your
+40	necke	NOUN NN neck
+41	.	PUNCT . .
+
+# sentence 1
+# text: Beſides all this, the argument followeth not, as is euident; bicauſe the booke it ſelfe attributeth two or three ſeuerall duties or functions to two or three ſeuerall offices.
+0	Beſides	ADP IN besides [A,B,C] | ADV RB besides [D]  <-- differ
+1	all	DET PDT all [A,B,C] | PRON DT all [D]  <-- differ
+2	this	PRON DT this
+3	,	PUNCT , ,
+4	the	DET DT the
+5	argument	NOUN NN argument
+6	followeth	VERB VBZ follow
+7	not	PART RB not
+8	,	PUNCT , ,
+9	as	SCONJ IN as
+10	is	AUX VBZ be
+11	euident	ADJ JJ evident
+12	;	PUNCT : ;
+13	bicauſe	SCONJ IN because
+14	the	DET DT the
+15	booke	NOUN NN book
+16	it	PRON PRP it
+17	ſelfe	NOUN NN self
+18	attributeth	VERB VBZ attribute
+19	two	NUM CD two
+20	or	CCONJ CC or
+21	three	NUM CD three
+22	ſeuerall	ADJ JJ several
+23	duties	NOUN NNS duty
+24	or	CCONJ CC or
+25	functions	NOUN NNS function
+26	to	ADP IN to
+27	two	NUM CD two
+28	or	CCONJ CC or
+29	three	NUM CD three
+30	ſeuerall	ADJ JJ several
+31	offices	NOUN NNS office
+32	.	PUNCT . .
+
+# sentence 2
+# text: For ſeeing they were made by the authoritie and commiſſion of ſuche as then helde the ſoueraigntie, it was al one, as if they them ſelues had made them.
+0	For	SCONJ IN for [A,C,D] | CCONJ CC for [B]  <-- differ
+1	ſeeing	VERB VBG see [A,C] | SCONJ IN see [B] | SCONJ IN seeing [D]  <-- differ
+2	they	PRON PRP they
+3	were	AUX VBD be
+4	made	VERB VBN make
+5	by	ADP IN by
+6	the	DET DT the
+7	authoritie	NOUN NN authority
+8	and	CCONJ CC and
+9	commiſſion	NOUN NN commission
+10	of	ADP IN of
+11	ſuche	ADJ JJ such [A,B,C] | PRON DT such [D]  <-- differ
+12	as	SCONJ IN as [A,C,D] | PRON WP as [B]  <-- differ
+13	then	ADV RB then
+14	helde	VERB VBD hold
+15	the	DET DT the
+16	ſoueraigntie	NOUN NN sovereignty
+17	,	PUNCT , ,
+18	it	PRON PRP it
+19	was	AUX VBD be
+20	al	ADV RB all [A,B,C] | ADJ JJ all [D]  <-- differ
+21	one	NUM CD one
+22	,	PUNCT , ,
+23	as	SCONJ IN as
+24	if	SCONJ IN if
+25	they	PRON PRP they
+26	them	PRON PRP they
+27	ſelues	NOUN NNS self
+28	had	AUX VBD have
+29	made	VERB VBN make
+30	them	PRON PRP they
+31	.	PUNCT . .
+
+# sentence 3
+# text: When hee was in Ieruſalem at the Paſſeouer, in the Feaſt day, many beleeued on his name, when they ſaw his miracles which he did.
+0	When	ADV WRB when
+1	hee	PRON PRP he
+2	was	AUX VBD be
+3	in	ADP IN in
+4	Ieruſalem	PROPN NNP Jerusalem
+5	at	ADP IN at
+6	the	DET DT the
+7	Paſſeouer	PROPN NNP Passover
+8	,	PUNCT , ,
+9	in	ADP IN in
+10	the	DET DT the
+11	Feaſt	NOUN NN feast
+12	day	NOUN NN day
+13	,	PUNCT , ,
+14	many	ADJ JJ many [A,B,C] | PRON DT many [D]  <-- differ
+15	beleeued	VERB VBD believe
+16	on	ADP IN on
+17	his	PRON PRP$ his
+18	name	NOUN NN name
+19	,	PUNCT , ,
+20	when	ADV WRB when
+21	they	PRON PRP they
+22	ſaw	VERB VBD see
+23	his	PRON PRP$ his
+24	miracles	NOUN NNS miracle
+25	which	PRON WDT which
+26	he	PRON PRP he
+27	did	VERB VBD do
+28	.	PUNCT . .
+
+# sentence 4
+# text: Foure Merchants entred into Partnership, that is to ſay, A. B. C. and D. with this condition following.
+0	Foure	NUM CD four
+1	Merchants	NOUN NNS merchant
+2	entred	VERB VBD enter
+3	into	ADP IN into
+4	Partnership	NOUN NN partnership
+5	,	PUNCT , ,
+6	that	PRON DT that
+7	is	AUX VBZ be [A,C,D] | VERB VBZ be [B]  <-- differ
+8	to	PART TO to
+9	ſay	VERB VB say
+10	,	PUNCT , ,
+11	A.	PROPN NNP A.
+12	B.	PROPN NNP B.
+13	C.	PROPN NNP C.
+14	and	CCONJ CC and
+15	D.	PROPN NNP D.
+16	with	ADP IN with
+17	this	DET DT this
+18	condition	NOUN NN condition
+19	following	VERB VBG follow
+20	.	PUNCT . .
+
+# sentence 5
+# text: The firſt quarter on Thurſeday, the.xx. day, at one of the clocke, and.iii. min. in the mornyng, wyndy & cloudy, weſterly wyndes threatnyng rayne.
+0	The	DET DT the
+1	firſt	ADJ JJ first
+2	quarter	NOUN NN quarter
+3	on	ADP IN on
+4	Thurſeday	PROPN NNP Thursday
+5	,	PUNCT , ,
+6	the.xx	NUM CD xx [A,C] | NUM CD the.xx [B] | ADJ JJ twentieth [D]  <-- differ
+7	.	PUNCT . . [A,B,C] | PUNCT NFP . [D]  <-- differ
+8	day	NOUN NN day
+9	,	PUNCT , ,
+10	at	ADP IN at
+11	one	NUM CD one
+12	of	ADP IN of
+13	the	DET DT the
+14	clocke	NOUN NN clock
+15	,	PUNCT , ,
+16	and.iii	NUM CD iii [A,C] | NUM CD and.iii [B] | CCONJ CC and [D]  <-- differ
+17	.	PUNCT . . [A,B,C] | PUNCT NFP . [D]  <-- differ
+18	min	NOUN NN min [A,C] | NOUN NN min. [B,D]  <-- differ
+19	.	PUNCT . .
+20	in	ADP IN in
+21	the	DET DT the
+22	mornyng	NOUN NN morning
+23	,	PUNCT , ,
+24	wyndy	ADJ JJ windy
+25	&	CCONJ CC and
+26	cloudy	ADJ JJ cloudy
+27	,	PUNCT , ,
+28	weſterly	ADJ JJ westerly
+29	wyndes	NOUN NNS wind
+30	threatnyng	VERB VBG threaten
+31	rayne	NOUN NN rain
+32	.	PUNCT . .
+
+# sentence 6
+# text: Nirt that quhair this zeale vnfeinȝeit is, GOD leuis neuer that perſone without continuall pouring of his bliſſingis on him, thairby to ſteir vp into him ane double meaſure of zeale and thankfulnes towardis God.
+0	Nirt	ADV RB next [A,C] | ADV RB nirt [B] | ADJ JJ nirt [D]  <-- differ
+1	that	SCONJ IN that
+2	quhair	ADV WRB where
+3	this	DET DT this
+4	zeale	NOUN NN zeal
+5	vnfeinȝeit	ADJ JJ unfeigned
+6	is	AUX VBZ be
+7	,	PUNCT , ,
+8	GOD	PROPN NNP God
+9	leuis	VERB VBZ leave
+10	neuer	ADV RB never
+11	that	DET DT that
+12	perſone	NOUN NN person
+13	without	ADP IN without
+14	continuall	ADJ JJ continual
+15	pouring	NOUN NN pouring
+16	of	ADP IN of
+17	his	PRON PRP$ his
+18	bliſſingis	NOUN NNS blessing
+19	on	ADP IN on
+20	him	PRON PRP he
+21	,	PUNCT , ,
+22	thairby	ADV RB thereby
+23	to	PART TO to
+24	ſteir	VERB VB stir
+25	vp	ADP RP up
+26	into	ADP IN into
+27	him	PRON PRP he
+28	ane	DET DT a
+29	double	ADJ JJ double
+30	meaſure	NOUN NN measure
+31	of	ADP IN of
+32	zeale	NOUN NN zeal
+33	and	CCONJ CC and
+34	thankfulnes	NOUN NN thankfulness
+35	towardis	ADP IN towards
+36	God	PROPN NNP God
+37	.	PUNCT . .
+
+# sentence 7
+# text: And whereas you rather infer the praise onely to Learning and not to Looue: I wil prooue that Looue in a publique weale, is to be allowed abooue Learuing, and Learning more better to be spared then Looue.
+0	And	CCONJ CC and
+1	whereas	SCONJ IN whereas
+2	you	PRON PRP you
+3	rather	ADV RB rather
+4	infer	VERB VBP infer
+5	the	DET DT the
+6	praise	NOUN NN praise
+7	onely	ADV RB only
+8	to	ADP IN to
+9	Learning	NOUN NN learning
+10	and	CCONJ CC and
+11	not	PART RB not
+12	to	ADP IN to
+13	Looue	NOUN NN love
+14	:	PUNCT : :
+15	I	PRON PRP I
+16	wil	AUX MD will
+17	prooue	VERB VB prove
+18	that	SCONJ IN that
+19	Looue	NOUN NN love
+20	in	ADP IN in
+21	a	DET DT a
+22	publique	ADJ JJ public
+23	weale	NOUN NN weal
+24	,	PUNCT , ,
+25	is	AUX VBZ be [A,C,D] | VERB VBZ be [B]  <-- differ
+26	to	PART TO to
+27	be	AUX VB be
+28	allowed	VERB VBN allow
+29	abooue	ADP IN above
+30	Learuing	NOUN NN learning
+31	,	PUNCT , ,
+32	and	CCONJ CC and
+33	Learning	NOUN NN learning
+34	more	ADV RBR more
+35	better	ADJ JJR good [A,B,C] | ADV RBR well [D]  <-- differ
+36	to	PART TO to
+37	be	AUX VB be
+38	spared	VERB VBN spare
+39	then	ADP IN than
+40	Looue	NOUN NN love
+41	.	PUNCT . .
+
+# sentence 8
+# text: But there muſt be leſſe of the vnwaſhed then of that which is waſhed: for becauſe that it is more ſharper then that which is vnwaſhed.
+0	But	CCONJ CC but
+1	there	PRON EX there
+2	muſt	AUX MD must
+3	be	VERB VB be
+4	leſſe	ADJ JJR less [B,C] | ADJ JJR little [A] | ADJ JJ little [D]  <-- differ
+5	of	ADP IN of
+6	the	DET DT the
+7	vnwaſhed	ADJ JJ unwashed [A,B,C] | NOUN NN unwashed [D]  <-- differ
+8	then	ADP IN than
+9	of	ADP IN of
+10	that	PRON DT that
+11	which	PRON WDT which
+12	is	AUX VBZ be
+13	waſhed	VERB VBN wash
+14	:	PUNCT : :
+15	for	SCONJ IN for [A,C,D] | ADP IN for [B]  <-- differ
+16	becauſe	SCONJ IN because
+17	that	SCONJ IN that
+18	it	PRON PRP it
+19	is	AUX VBZ be
+20	more	ADV RBR more
+21	ſharper	ADJ JJR sharp
+22	then	ADP IN than [A,B,C] | SCONJ IN than [D]  <-- differ
+23	that	PRON DT that
+24	which	PRON WDT which
+25	is	AUX VBZ be
+26	vnwaſhed	ADJ JJ unwashed
+27	.	PUNCT . .
+
+# sentence 9
+# text: We are Christes good sauer to God / both amō ge them yt are saued / & also amonge them that perisheth.
+0	We	PRON PRP we
+1	are	AUX VBP be
+2	Christes	PROPN NNP Christ
+3	good	ADJ JJ good
+4	sauer	NOUN NN savour
+5	to	ADP IN to
+6	God	PROPN NNP God
+7	/	PUNCT , / [A,B] | PUNCT : / [C] | PUNCT NFP / [D]  <-- differ
+8	both	CCONJ CC both
+9	amō	ADP IN among
+10	ge	ADP IN among [B,C,D] | ADP IN ge [A]  <-- differ
+11	them	PRON PRP they
+12	yt	PRON WDT that
+13	are	AUX VBP be
+14	saued	VERB VBN save
+15	/	PUNCT , / [A,B] | PUNCT : / [C] | PUNCT NFP / [D]  <-- differ
+16	&	CCONJ CC and
+17	also	ADV RB also
+18	amonge	ADP IN among
+19	them	PRON PRP they
+20	that	PRON WDT that
+21	perisheth	VERB VBZ perish
+22	.	PUNCT . .
+
+# sentence 10
+# text: For ſtreightwaye after the floud, when the worlde was newly growing againe, he preſcribed a lawe, with theſe wordes.
+0	For	SCONJ IN for
+1	ſtreightwaye	ADV RB straightway
+2	after	ADP IN after
+3	the	DET DT the
+4	floud	NOUN NN flood
+5	,	PUNCT , ,
+6	when	ADV WRB when
+7	the	DET DT the
+8	worlde	NOUN NN world
+9	was	AUX VBD be
+10	newly	ADV RB newly
+11	growing	VERB VBG grow
+12	againe	ADV RB again
+13	,	PUNCT , ,
+14	he	PRON PRP he
+15	preſcribed	VERB VBD prescribe
+16	a	DET DT a
+17	lawe	NOUN NN law
+18	,	PUNCT , ,
+19	with	ADP IN with
+20	theſe	DET DT these [A,B,C] | DET DT this [D]  <-- differ
+21	wordes	NOUN NNS word
+22	.	PUNCT . .
+
+# sentence 11
+# text: Here thou mayſt playnlie perceyue, according to the agrement of theſe two doctours, how the one defendeth the other.
+0	Here	ADV RB here
+1	thou	PRON PRP thou
+2	mayſt	AUX MD may
+3	playnlie	ADV RB plainly
+4	perceyue	VERB VB perceive
+5	,	PUNCT , ,
+6	according	VERB VBG accord
+7	to	ADP IN to
+8	the	DET DT the
+9	agrement	NOUN NN agreement
+10	of	ADP IN of
+11	theſe	DET DT these [A,B,C] | DET DT this [D]  <-- differ
+12	two	NUM CD two
+13	doctours	NOUN NNS doctor
+14	,	PUNCT , ,
+15	how	ADV WRB how
+16	the	DET DT the
+17	one	NOUN NN one [A,B,D] | NUM CD one [C]  <-- differ
+18	defendeth	VERB VBZ defend
+19	the	DET DT the
+20	other	ADJ JJ other [A,B,C] | NOUN NN other [D]  <-- differ
+21	.	PUNCT . .
+
+# sentence 12
+# text: Well I praie you, dispence all thinges in order Contra Pestem, in thesame sorte, bothe noumber of the Simples, Dose and quantitee, euen as you did it yesterdaie, whiche was geuen to Paule.
+0	Well	INTJ UH well
+1	I	PRON PRP I
+2	praie	VERB VBP pray
+3	you	PRON PRP you
+4	,	PUNCT , ,
+5	dispence	VERB VB dispense
+6	all	DET DT all
+7	thinges	NOUN NNS thing
+8	in	ADP IN in
+9	order	NOUN NN order
+10	Contra	X FW contra
+11	Pestem	X FW pestem
+12	,	PUNCT , ,
+13	in	ADP IN in
+14	thesame	ADJ JJ same [A,C,D] | ADJ JJ thesame [B]  <-- differ
+15	sorte	NOUN NN sort
+16	,	PUNCT , ,
+17	bothe	CCONJ CC both
+18	noumber	NOUN NN number
+19	of	ADP IN of
+20	the	DET DT the
+21	Simples	NOUN NNS simple
+22	,	PUNCT , ,
+23	Dose	NOUN NN dose
+24	and	CCONJ CC and
+25	quantitee	NOUN NN quantity
+26	,	PUNCT , ,
+27	euen	ADV RB even
+28	as	SCONJ IN as
+29	you	PRON PRP you
+30	did	VERB VBD do
+31	it	PRON PRP it
+32	yesterdaie	NOUN NN yesterday
+33	,	PUNCT , ,
+34	whiche	PRON WDT which
+35	was	AUX VBD be
+36	geuen	VERB VBN give
+37	to	ADP IN to
+38	Paule	PROPN NNP Paul
+39	.	PUNCT . .
+
+# sentence 13
+# text: And be thair vpbringing thair in fals and corruptit doctrine, It is Intendit that the cours of the trew Religioun in this our Realme ſalbe impugnit, reſiſtit, and ſa far as thair deuiſes may vtterly be ſubuertit and brocht in decay gif God of his mercy for his awin Namis ſaik Impeid it not.
+0	And	CCONJ CC and
+1	be	ADP IN by
+2	thair	PRON PRP$ their
+3	vpbringing	NOUN NN upbringing
+4	thair	ADV RB there
+5	in	ADP IN in
+6	fals	ADJ JJ false
+7	and	CCONJ CC and
+8	corruptit	ADJ JJ corrupted [A,C] | ADJ JJ corrupt [B,D]  <-- differ
+9	doctrine	NOUN NN doctrine
+10	,	PUNCT , ,
+11	It	PRON PRP it
+12	is	AUX VBZ be
+13	Intendit	VERB VBN intend
+14	that	SCONJ IN that
+15	the	DET DT the
+16	cours	NOUN NN course
+17	of	ADP IN of
+18	the	DET DT the
+19	trew	ADJ JJ true
+20	Religioun	NOUN NN religion
+21	in	ADP IN in
+22	this	DET DT this
+23	our	PRON PRP$ our
+24	Realme	NOUN NN realm
+25	ſalbe	AUX MD shall
+26	impugnit	VERB VBN impugn
+27	,	PUNCT , ,
+28	reſiſtit	VERB VBN resist
+29	,	PUNCT , ,
+30	and	CCONJ CC and
+31	ſa	ADV RB so
+32	far	ADV RB far
+33	as	SCONJ IN as
+34	thair	PRON PRP$ their
+35	deuiſes	NOUN NNS device
+36	may	AUX MD may
+37	vtterly	ADV RB utterly
+38	be	AUX VB be
+39	ſubuertit	VERB VBN subvert
+40	and	CCONJ CC and
+41	brocht	VERB VBN bring
+42	in	ADP IN in
+43	decay	NOUN NN decay
+44	gif	SCONJ IN if
+45	God	PROPN NNP God
+46	of	ADP IN of
+47	his	PRON PRP$ his
+48	mercy	NOUN NN mercy
+49	for	ADP IN for
+50	his	PRON PRP$ his
+51	awin	ADJ JJ own
+52	Namis	NOUN NN name [A,C,D] | PROPN NNP Name [B]  <-- differ
+53	ſaik	NOUN NN sake
+54	Impeid	VERB VB impede
+55	it	PRON PRP it
+56	not	PART RB not
+57	.	PUNCT . .
+
+# sentence 14
+# text: Theſe thynges muſt be often propouned, and repeted in ſermons, chiefely on the holie dayes, when a greate cōpany of people reſorteth togyther.
+0	Theſe	DET DT these [A,B,C] | DET DT this [D]  <-- differ
+1	thynges	NOUN NNS thing
+2	muſt	AUX MD must
+3	be	AUX VB be
+4	often	ADV RB often
+5	propouned	VERB VBN propound
+6	,	PUNCT , ,
+7	and	CCONJ CC and
+8	repeted	VERB VBN repeat
+9	in	ADP IN in
+10	ſermons	NOUN NNS sermon
+11	,	PUNCT , ,
+12	chiefely	ADV RB chiefly
+13	on	ADP IN on
+14	the	DET DT the
+15	holie	ADJ JJ holy
+16	dayes	NOUN NNS day
+17	,	PUNCT , ,
+18	when	ADV WRB when
+19	a	DET DT a
+20	greate	ADJ JJ great
+21	cōpany	NOUN NN company
+22	of	ADP IN of
+23	people	NOUN NNS people
+24	reſorteth	VERB VBZ resort
+25	togyther	ADV RB together
+26	.	PUNCT . .
+
+# sentence 15
+# text: At his entrye into the Realme, the ſaide Lord of Mayne ſent to receiue him the Lord of S. Paule, ſometime a Page, and afterward one of the houſholde ſeruants of the Lord of Beauuaies Nangy, and now one of the moſt famous Lords of the leaguers armye.
+0	At	ADP IN at
+1	his	PRON PRP$ his
+2	entrye	NOUN NN entry
+3	into	ADP IN into
+4	the	DET DT the
+5	Realme	NOUN NN realm
+6	,	PUNCT , ,
+7	the	DET DT the
+8	ſaide	ADJ JJ said [A,B,D] | VERB VBN say [C]  <-- differ
+9	Lord	NOUN NN lord [A,C] | PROPN NNP Lord [B,D]  <-- differ
+10	of	ADP IN of
+11	Mayne	PROPN NNP Mayne
+12	ſent	VERB VBD send
+13	to	PART TO to
+14	receiue	VERB VB receive
+15	him	PRON PRP he
+16	the	DET DT the
+17	Lord	NOUN NN lord [A,C] | PROPN NNP Lord [B,D]  <-- differ
+18	of	ADP IN of
+19	S.	PROPN NNP S. [A,C] | PROPN NNP St. [B,D]  <-- differ
+20	Paule	PROPN NNP Paul [A,C,D] | PROPN NNP Paule [B]  <-- differ
+21	,	PUNCT , ,
+22	ſometime	ADV RB sometime
+23	a	DET DT a
+24	Page	NOUN NN page
+25	,	PUNCT , ,
+26	and	CCONJ CC and
+27	afterward	ADV RB afterward
+28	one	NUM CD one
+29	of	ADP IN of
+30	the	DET DT the
+31	houſholde	NOUN NN household
+32	ſeruants	NOUN NNS servant
+33	of	ADP IN of
+34	the	DET DT the
+35	Lord	NOUN NN lord [A,C] | PROPN NNP Lord [B,D]  <-- differ
+36	of	ADP IN of
+37	Beauuaies	PROPN NNP Beauvais
+38	Nangy	PROPN NNP Nangy
+39	,	PUNCT , ,
+40	and	CCONJ CC and
+41	now	ADV RB now
+42	one	NUM CD one
+43	of	ADP IN of
+44	the	DET DT the
+45	moſt	ADV RBS most
+46	famous	ADJ JJ famous
+47	Lords	NOUN NNS lord [A,C,D] | PROPN NNPS Lord [B]  <-- differ
+48	of	ADP IN of
+49	the	DET DT the
+50	leaguers	NOUN NNS leaguer
+51	armye	NOUN NN army
+52	.	PUNCT . .
+
+# sentence 16
+# text: Amonge good and true marchāts it hath not ben ſeen that euer they ſold the onely ſight of their wares.
+0	Amonge	ADP IN among
+1	good	ADJ JJ good
+2	and	CCONJ CC and
+3	true	ADJ JJ true
+4	marchāts	NOUN NNS merchant
+5	it	PRON PRP it
+6	hath	AUX VBZ have
+7	not	PART RB not
+8	ben	AUX VBN be
+9	ſeen	VERB VBN see
+10	that	SCONJ IN that
+11	euer	ADV RB ever
+12	they	PRON PRP they
+13	ſold	VERB VBD sell
+14	the	DET DT the
+15	onely	ADJ JJ only
+16	ſight	NOUN NN sight
+17	of	ADP IN of
+18	their	PRON PRP$ their
+19	wares	NOUN NNS ware
+20	.	PUNCT . .
+
+# sentence 17
+# text: VVhat an horrible securitie is it therfore, to liue in sinne and wickednes, and neuer to thinke thereof! were they touched with any care of their saluation, they doubtles would obserue some meane in sinning, and euermore thinke of the last daie of their life.
+0	VVhat	DET WDT what [A,B,C] | DET PDT what [D]  <-- differ
+1	an	DET DT a
+2	horrible	ADJ JJ horrible
+3	securitie	NOUN NN security
+4	is	AUX VBZ be
+5	it	PRON PRP it
+6	therfore	ADV RB therefore
+7	,	PUNCT , ,
+8	to	PART TO to
+9	liue	VERB VB live
+10	in	ADP IN in
+11	sinne	NOUN NN sin
+12	and	CCONJ CC and
+13	wickednes	NOUN NN wickedness
+14	,	PUNCT , ,
+15	and	CCONJ CC and
+16	neuer	ADV RB never
+17	to	PART TO to
+18	thinke	VERB VB think
+19	thereof	ADV RB thereof
+20	!	PUNCT . !
+21	were	AUX VBD be
+22	they	PRON PRP they
+23	touched	VERB VBN touch
+24	with	ADP IN with
+25	any	DET DT any
+26	care	NOUN NN care
+27	of	ADP IN of
+28	their	PRON PRP$ their
+29	saluation	NOUN NN salvation
+30	,	PUNCT , ,
+31	they	PRON PRP they
+32	doubtles	ADV RB doubtless
+33	would	AUX MD would
+34	obserue	VERB VB observe
+35	some	DET DT some
+36	meane	NOUN NN mean
+37	in	ADP IN in
+38	sinning	VERB VBG sin [A,C] | NOUN NN sinning [B,D]  <-- differ
+39	,	PUNCT , ,
+40	and	CCONJ CC and
+41	euermore	ADV RB evermore
+42	thinke	VERB VB think
+43	of	ADP IN of
+44	the	DET DT the
+45	last	ADJ JJ last
+46	daie	NOUN NN day
+47	of	ADP IN of
+48	their	PRON PRP$ their
+49	life	NOUN NN life
+50	.	PUNCT . .
+
+# sentence 18
+# text: For this, this head, this heart, this hand and sworde, Contriues, imagines and fully executes, Matters of importe, aimde at by many, Yet vnderstoode by none.
+0	For	SCONJ IN for [A,D] | ADP IN for [B,C]  <-- differ
+1	this	PRON DT this [A,B,C] | DET DT this [D]  <-- differ
+2	,	PUNCT , ,
+3	this	DET DT this
+4	head	NOUN NN head
+5	,	PUNCT , ,
+6	this	DET DT this
+7	heart	NOUN NN heart
+8	,	PUNCT , ,
+9	this	DET DT this
+10	hand	NOUN NN hand
+11	and	CCONJ CC and
+12	sworde	NOUN NN sword
+13	,	PUNCT , ,
+14	Contriues	VERB VBZ contrive
+15	,	PUNCT , ,
+16	imagines	VERB VBZ imagine
+17	and	CCONJ CC and
+18	fully	ADV RB fully
+19	executes	VERB VBZ execute
+20	,	PUNCT , ,
+21	Matters	NOUN NNS matter
+22	of	ADP IN of
+23	importe	NOUN NN import
+24	,	PUNCT , ,
+25	aimde	VERB VBN aim
+26	at	ADP IN at
+27	by	ADP IN by
+28	many	ADJ JJ many [A,B,C] | PRON NNS many [D]  <-- differ
+29	,	PUNCT , ,
+30	Yet	CCONJ CC yet
+31	vnderstoode	VERB VBN understand
+32	by	ADP IN by
+33	none	PRON NN none
+34	.	PUNCT . .
+
+# sentence 19
+# text: And thinketh al-to-little on the vpright Righteousnes / which is required by the Woorde / wherout the vpright Ioye proceedeth.
+0	And	CCONJ CC and
+1	thinketh	VERB VBZ think
+2	al	ADV RB all
+3	-	PUNCT HYPH -
+4	to	ADV RB too [A,C] | ADV RB to [B,D]  <-- differ
+5	-	PUNCT HYPH -
+6	little	ADV RB little
+7	on	ADP IN on
+8	the	DET DT the
+9	vpright	ADJ JJ upright
+10	Righteousnes	NOUN NN righteousness
+11	/	PUNCT : / [B,C] | PUNCT , / [A] | PUNCT NFP / [D]  <-- differ
+12	which	PRON WDT which
+13	is	AUX VBZ be
+14	required	VERB VBN require
+15	by	ADP IN by
+16	the	DET DT the
+17	Woorde	NOUN NN word
+18	/	PUNCT : / [B,C] | PUNCT , / [A] | PUNCT NFP / [D]  <-- differ
+19	wherout	ADV WRB whereout [A,B,C] | ADV WRB wherout [D]  <-- differ
+20	the	DET DT the
+21	vpright	ADJ JJ upright
+22	Ioye	NOUN NN joy
+23	proceedeth	VERB VBZ proceed
+24	.	PUNCT . .

@@ -1,0 +1,96 @@
+id	idx	token	POS	TAG	lemma	note
+0	33	theres	VERB	VBZ	be	fused "there is": labels of the verb (existential be)
+1	1	all	DET	PDT	all	all before demonstrative pronoun (all this) treated as predeterminer
+2	1	ſeeing	VERB	VBG	see	seeing = since; participle tagged VBG like according/touching
+2	11	ſuche	ADJ	JJ	such	such used as a pronoun (such as ...); JJ ADJ like same/other
+2	12	as	SCONJ	IN	as	relative-like as after such; SCONJ before a clause
+3	14	many	ADJ	JJ	many	many used without a noun: JJ ADJ (PTB JJ), not DT PRON
+5	6	the.xx	NUM	CD	xx	fused the+xx (the 20th); numeral labels, form kept
+5	7	.	PUNCT	.	.	abbreviation point split off mid-sentence; tagged .
+5	16	and.iii	NUM	CD	iii	fused and+iii; numeral is the main word
+5	17	.	PUNCT	.	.	abbreviation point split off mid-sentence; tagged .
+5	18	min	NOUN	NN	min	abbreviation of minutes; token form as lemma (point is a separate token); NN for invariant abbreviation
+5	19	.	PUNCT	.	.	abbreviation point split off mid-sentence; tagged .
+6	0	Nirt	ADV	RB	next	Nirt = misprint/misreading of Scots nixt 'next'
+6	6	is	AUX	VBZ	be	where this zeal is: locative copula (existential reading possible)
+7	30	Learuing	NOUN	NN	learning	Learuing = misprint for Learning
+8	4	leſſe	ADJ	JJR	less	less lemmatized as less, parallel to more (not little)
+9	7	/	PUNCT	:	/	virgule used as a light pause mark: : (other mid-sentence punctuation)
+9	9	amō	ADP	IN	among	amō ge = among split by a space; both pieces get the labels of the whole word
+9	10	ge	ADP	IN	among	amō ge = among split by a space; both pieces get the labels of the whole word
+12	14	thesame	ADJ	JJ	same	fused the+same; labels of same
+13	25	ſalbe	AUX	MD	shall	fused sal+be (shall be); finite modal taken as main word
+13	52	Namis	NOUN	NN	name	Scots possessive -is without apostrophe (Name's sake): labels of the noun
+15	9	Lord	NOUN	NN	lord	title + of + place (Lord of Mayenne), no personal name: NN
+15	11	Mayne	PROPN	NNP	Mayenne	Mayne = Mayenne (Duke of Mayenne, League leader); modern form
+15	17	Lord	NOUN	NN	lord	title + of + place, no personal name: NN
+15	19	S.	PROPN	NNP	S.	S. = Saint; abbreviation keeps printed form
+15	35	Lord	NOUN	NN	lord	title + of + place, no personal name: NN
+15	38	Nangy	PROPN	NNP	Nangis	Nangy = Nangis (Beauvais-Nangis); modern form
+15	50	leaguers	NOUN	NNS	leaguer	possessive without apostrophe (leaguers' army); plural reading chosen
+17	0	VVhat	DET	WDT	what	exclamative what an: WDT DET rather than PDT
+18	0	For	SCONJ	IN	for	For read as clause conjunction; this is the subject (sg. Contriues)
+18	28	many	ADJ	JJ	many	many used without a noun: JJ ADJ
+20	7	Abbots	NOUN	NNS	abbot	possessive without apostrophe; plural reading chosen
+20	8	goods	NOUN	NNS	good	goods (possessions) lemmatised to singular good
+20	40	goods	NOUN	NNS	good	goods (possessions) lemmatised to singular good
+21	13	beſieging	VERB	VBG	besiege	possessive + gerund with direct object kept VBG
+22	44	No	DET	DT	no	title of a work tagged compositionally
+22	45	Proteſtant	ADJ	JJ	Protestant	title of a work tagged compositionally; attributive proper adjective, lemma capitalised
+22	47	Plot	NOUN	NN	plot	title of a work tagged compositionally
+22	54	his	PRON	PRP	his	independent possessive (= his name) -> PRP, like mine/theirs
+23	5	Judgment	NOUN	NN	judgement	British general spelling judgement
+23	32	Judgment	NOUN	NN	judgement	British general spelling judgement
+24	14	one	NOUN	NN	one	pronominal one with determiner -> NOUN (cf. 'that wicked one')
+27	22	whatſoever	DET	WDT	whatsoever	postposed whatsoever (all things whatsoever) kept WDT DET
+27	37	Chriſtian	PROPN	NNP	Christian	religious-group noun treated like nationality noun (Americans)
+28	20	d	X	FW	de	French elided d' -> de
+28	21	'	PUNCT	NFP	'	elision apostrophe split off by tokenizer; not a quotation mark
+28	22	Ividot	PROPN	NNP	Yvetot	Ividot = Yvetot (Roi d'Yvetot)
+31	10	Lord	NOUN	NN	lord	lord = the King here, not God
+32	27	no	ADV	RB	no	no modifying an adverb -> RB ADV
+32	30	Vindication	NOUN	NN	vindication	title of a work tagged compositionally
+32	32	Apology	NOUN	NN	apology	title of a work tagged compositionally
+33	25	is	AUX	VBZ	be	copula with wh-predicate when (cf. where is), not 'happen'
+34	0	WHiles	SCONJ	IN	whiles	archaic whiles kept as own lemma (cf. whilst)
+34	30	whom	PRON	WP	who	whom lemmatised to nominative who
+34	32	no	ADV	RB	no	no modifying an adverb -> RB ADV
+35	1	prethee	VERB	VBP	pray	fused pray + thee; labels of the verb
+35	14	O	INTJ	UH	O	interjection O capitalised as in modern spelling
+35	16	no	ADV	RB	no	no modifying an adverb -> RB ADV
+36	6	Verſities	NOUN	NNS	varsity	Versities = 'versities (aphetic university); modern spelling varsity
+37	16	Gods	PROPN	NNP	God	possessive without apostrophe; singular noun
+37	19	many	DET	PDT	many	many a: predeterminer like such a
+38	9	ſt	X	FW	st	Latin abbreviation (st: ve: = stilo veteri, no: sti: = novo stilo); lemma = printed form
+38	11	ve	X	FW	ve	Latin abbreviation (st: ve: = stilo veteri, no: sti: = novo stilo); lemma = printed form
+38	18	no	X	FW	no	Latin abbreviation (st: ve: = stilo veteri, no: sti: = novo stilo); lemma = printed form
+38	20	ſti	X	FW	sti	Latin abbreviation (st: ve: = stilo veteri, no: sti: = novo stilo); lemma = printed form
+41	15	wounded	VERB	VBN	wound	passive (lest any of them should be wounded); a stative reading is possible but there is no adjective cue
+43	12	Niddiſdale	PROPN	NNP	Nithsdale	historic spelling of Nithsdale (William Douglas, Lord of Nithsdale)
+43	23	Second	PROPN	NNP	Second	regnal epithet (Robert the Second) read as part of the name
+45	27	Sentry	NOUN	NNS	sentry	apostrophe plural Sentry's = sentries (their Posts); tokenizer split off 's
+45	28	's	PART	POS	's	plural ending of Sentry's, not a possessive; no better tag in the tagset
+48	52	Means	NOUN	NNS	means	invariant noun means (by no means); lemma means, tagged NNS
+51	0	Theſe	PRON	DT	this	demonstrative these/those lemmatized to this/that (as UD EWT)
+54	4	means	NOUN	NNS	means	invariant noun means; lemma means, tagged NNS
+56	26	resolv'd	VERB	VBN	resolve	participle with its own infinitive complement (resolv'd to live)
+57	8	those	PRON	DT	that	demonstrative those lemmatized to that (as UD EWT)
+57	10	whom	PRON	WP	who	whom -> who by the nominative rule for pronoun lemmas
+58	11	'	PUNCT	NFP	'	elision apostrophe of Tho' split off by the tokenizer, not a quotation mark
+58	19	Maudlin	PROPN	NNP	Magdalen	Maudlin = Magdalen (Magdalen hospitals for penitents), with a pun on maudlin
+69	35	drowning	VERB	VBG	drown	active participle with verbal force (billows that drown): VBG
+70	8	afloat	ADJ	JJ	afloat	predicative after copula: ADJ (a-adjective like asleep, alive)
+70	13	one	NUM	CD	one	numeral pronoun = one (wish)
+72	7	near	ADV	RB	near	'near to it': near takes a PP complement, so adverb; near + NP is IN
+73	14	after	ADP	IN	after	after + NP 'all she's done'
+75	28	these	DET	DT	this	'these and other ... contrasts': determiner sharing the head noun; lemma this
+77	7	up	ADP	RP	up	go up (to university): verb particle
+78	17	Forest	PROPN	NNP	Forest	the Forest = the New Forest (short name, like the Strand)
+79	1	Passage	PROPN	NNP	Passage	named event: the Passage of the Bidasoa (1813), like the Battle of X
+81	16	side	NOUN	NN	side	first piece of hyphenated verb side-stepped: noun element
+82	2	Specimens	PROPN	NNPS	Specimens	short book title (Ellis's Specimens); title kept as printed, not singularised
+84	12	these	DET	DT	this	plural demonstrative lemmatised to singular (these -> this)
+85	36	acquainted	ADJ	JJ	acquainted	stative 'acquainted with' (= familiar with) treated as adjective
+89	12	replied--	VERB	VBD	reply	token fuses replied + --; labelled as the verb
+96	0	What	DET	WDT	what	exclamative what a: WDT DET (wh-determiner), not PDT
+99	1	Gone	ADJ	JJ	gone	elliptical exclamation, stative gone = lost/departed

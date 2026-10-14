@@ -1,0 +1,805 @@
+# sentence 120
+# text: He was much pleased with the purity and simplicity of nature in little children (to the imitation of whom we are called by our blessed Saviour) being wont to compare them to angels.
+0	He	PRON PRP he
+1	was	AUX VBD be
+2	much	ADV RB much
+3	pleased	ADJ JJ pleased
+4	with	ADP IN with
+5	the	DET DT the
+6	purity	NOUN NN purity
+7	and	CCONJ CC and
+8	simplicity	NOUN NN simplicity
+9	of	ADP IN of
+10	nature	NOUN NN nature
+11	in	ADP IN in
+12	little	ADJ JJ little
+13	children	NOUN NNS child
+14	(	PUNCT -LRB- (
+15	to	ADP IN to
+16	the	DET DT the
+17	imitation	NOUN NN imitation
+18	of	ADP IN of
+19	whom	PRON WP whom [A,B,D] | PRON WP who [C]  <-- differ
+20	we	PRON PRP we
+21	are	AUX VBP be
+22	called	VERB VBN call
+23	by	ADP IN by
+24	our	PRON PRP$ our
+25	blessed	ADJ JJ blessed
+26	Saviour	PROPN NNP Saviour
+27	)	PUNCT -RRB- )
+28	being	AUX VBG be
+29	wo	AUX MD will [A,C] | ADJ JJ wont [B,D]  <-- differ
+30	nt	PART RB not [A,C] | ADJ JJ wont [B,D]  <-- differ
+31	to	PART TO to
+32	compare	VERB VB compare
+33	them	PRON PRP they
+34	to	ADP IN to
+35	angels	NOUN NNS angel
+36	.	PUNCT . .
+
+# sentence 121
+# text: Haynes) "Wherefore, tho' late, now finding like a Novice, "Players (like Wits) are Fools, when out of Office: And ſeeing Nocturnal Friends drop off ſo faſt, Like Limerick I'me compell'd to yield at laſt.
+0	Haynes	PROPN NNP Haynes
+1	)	PUNCT -RRB- )
+2	"	PUNCT `` "
+3	Wherefore	ADV WRB wherefore
+4	,	PUNCT , ,
+5	tho	SCONJ IN though
+6	'	PUNCT '' ' [A,B,C] | PUNCT NFP ' [D]  <-- differ
+7	late	ADV RB late [A,B,D] | ADJ JJ late [C]  <-- differ
+8	,	PUNCT , ,
+9	now	ADV RB now
+10	finding	VERB VBG find
+11	like	ADP IN like
+12	a	DET DT a
+13	Novice	NOUN NN novice
+14	,	PUNCT , ,
+15	"	PUNCT `` "
+16	Players	NOUN NNS player
+17	(	PUNCT -LRB- (
+18	like	ADP IN like
+19	Wits	NOUN NNS wit
+20	)	PUNCT -RRB- )
+21	are	AUX VBP be
+22	Fools	NOUN NNS fool
+23	,	PUNCT , ,
+24	when	ADV WRB when
+25	out	ADP IN out
+26	of	ADP IN of
+27	Office	NOUN NN office
+28	:	PUNCT : :
+29	And	CCONJ CC and
+30	ſeeing	VERB VBG see
+31	Nocturnal	ADJ JJ nocturnal
+32	Friends	NOUN NNS friend
+33	drop	VERB VB drop [A,B,C] | VERB VBP drop [D]  <-- differ
+34	off	ADP RP off
+35	ſo	ADV RB so
+36	faſt	ADV RB fast
+37	,	PUNCT , ,
+38	Like	ADP IN like
+39	Limerick	PROPN NNP Limerick
+40	I'me	AUX VBP be [A,B,C] | PRON PRP I [D]  <-- differ
+41	compell'd	VERB VBN compel
+42	to	PART TO to
+43	yield	VERB VB yield
+44	at	ADP IN at
+45	laſt	ADJ JJ last
+46	.	PUNCT . .
+
+# sentence 122
+# text: One had his Wife bewitched, the other his Friend, Becauſe in ſome things they the Witch offend: For which they labour under cruel pain, In vain ſeek remedy, but none can gain.
+0	One	NUM CD one [A,C,D] | PRON NN one [B]  <-- differ
+1	had	VERB VBD have
+2	his	PRON PRP$ his
+3	Wife	NOUN NN wife
+4	bewitched	VERB VBN bewitch [A,C,D] | ADJ JJ bewitched [B]  <-- differ
+5	,	PUNCT , ,
+6	the	DET DT the
+7	other	ADJ JJ other
+8	his	PRON PRP$ his
+9	Friend	NOUN NN friend
+10	,	PUNCT , ,
+11	Becauſe	SCONJ IN because
+12	in	ADP IN in
+13	ſome	DET DT some
+14	things	NOUN NNS thing
+15	they	PRON PRP they
+16	the	DET DT the
+17	Witch	NOUN NN witch
+18	offend	VERB VBP offend
+19	:	PUNCT : :
+20	For	ADP IN for
+21	which	PRON WDT which [A,B,C] | DET WDT which [D]  <-- differ
+22	they	PRON PRP they
+23	labour	VERB VBP labour
+24	under	ADP IN under
+25	cruel	ADJ JJ cruel
+26	pain	NOUN NN pain
+27	,	PUNCT , ,
+28	In	ADP IN in
+29	vain	ADJ JJ vain [A,B,C] | NOUN NN vain [D]  <-- differ
+30	ſeek	VERB VBP seek
+31	remedy	NOUN NN remedy
+32	,	PUNCT , ,
+33	but	CCONJ CC but
+34	none	PRON NN none
+35	can	AUX MD can
+36	gain	VERB VB gain
+37	.	PUNCT . .
+
+# sentence 123
+# text: And I could not, me thought, hinder the working of God within me, nor refuſe that teſtimony of S. Paul: the holy Ghoſt giueth teſtimonie vnto our ſoules, that we are the children of God, yet ſo if we ſuffer with Chriſt, that we may alſo raigne with Chriſt.
+0	And	CCONJ CC and
+1	I	PRON PRP I
+2	could	AUX MD could
+3	not	PART RB not
+4	,	PUNCT , ,
+5	me	PRON PRP I
+6	thought	VERB VBD think
+7	,	PUNCT , ,
+8	hinder	VERB VB hinder
+9	the	DET DT the
+10	working	NOUN NN working
+11	of	ADP IN of
+12	God	PROPN NNP God
+13	within	ADP IN within
+14	me	PRON PRP I
+15	,	PUNCT , ,
+16	nor	CCONJ CC nor
+17	refuſe	VERB VB refuse
+18	that	DET DT that
+19	teſtimony	NOUN NN testimony
+20	of	ADP IN of
+21	S.	PROPN NNP S. [A,C] | PROPN NNP St. [B,D]  <-- differ
+22	Paul	PROPN NNP Paul
+23	:	PUNCT : :
+24	the	DET DT the
+25	holy	ADJ JJ holy
+26	Ghoſt	PROPN NNP Ghost
+27	giueth	VERB VBZ give
+28	teſtimonie	NOUN NN testimony
+29	vnto	ADP IN unto
+30	our	PRON PRP$ our
+31	ſoules	NOUN NNS soul
+32	,	PUNCT , ,
+33	that	SCONJ IN that
+34	we	PRON PRP we
+35	are	AUX VBP be
+36	the	DET DT the
+37	children	NOUN NNS child
+38	of	ADP IN of
+39	God	PROPN NNP God
+40	,	PUNCT , ,
+41	yet	CCONJ CC yet
+42	ſo	ADV RB so
+43	if	SCONJ IN if
+44	we	PRON PRP we
+45	ſuffer	VERB VBP suffer
+46	with	ADP IN with
+47	Chriſt	PROPN NNP Christ
+48	,	PUNCT , ,
+49	that	SCONJ IN that
+50	we	PRON PRP we
+51	may	AUX MD may
+52	alſo	ADV RB also
+53	raigne	VERB VB reign
+54	with	ADP IN with
+55	Chriſt	PROPN NNP Christ
+56	.	PUNCT . .
+
+# sentence 124
+# text: The Subſcription Books lie open at the Chambers of Thomas Gooding Serjeant at Law, in Field-Court in Grayes-Inn At Philip Neave Eſq his Chambers, the ſecond Stair-caſe of the Paper-Buildings in the Inner Temple.
+0	The	DET DT the
+1	Subſcription	NOUN NN subscription
+2	Books	NOUN NNS book
+3	lie	VERB VBP lie
+4	open	ADJ JJ open
+5	at	ADP IN at
+6	the	DET DT the
+7	Chambers	NOUN NNS chamber
+8	of	ADP IN of
+9	Thomas	PROPN NNP Thomas
+10	Gooding	PROPN NNP Gooding
+11	Serjeant	NOUN NN serjeant [A,D] | PROPN NNP Serjeant [B] | NOUN NN sergeant [C]  <-- differ
+12	at	ADP IN at
+13	Law	NOUN NN law [A,C,D] | PROPN NNP Law [B]  <-- differ
+14	,	PUNCT , ,
+15	in	ADP IN in
+16	Field	PROPN NNP Field
+17	-	PUNCT HYPH -
+18	Court	PROPN NNP Court
+19	in	ADP IN in
+20	Grayes	PROPN NNP Gray [A,C,D] | PROPN NNP Grayes [B]  <-- differ
+21	-	PUNCT HYPH -
+22	Inn	PROPN NNP Inn
+23	At	ADP IN at
+24	Philip	PROPN NNP Philip
+25	Neave	PROPN NNP Neave
+26	Eſq	PROPN NNP Esq [A,C] | PROPN NNP esq. [B] | NOUN NN esq. [D]  <-- differ
+27	his	PRON PRP$ his
+28	Chambers	NOUN NNS chamber
+29	,	PUNCT , ,
+30	the	DET DT the
+31	ſecond	ADJ JJ second
+32	Stair	NOUN NN stair
+33	-	PUNCT HYPH -
+34	caſe	NOUN NN case
+35	of	ADP IN of
+36	the	DET DT the
+37	Paper	PROPN NNP Paper
+38	-	PUNCT HYPH -
+39	Buildings	PROPN NNPS Building [A,C] | PROPN NNPS Buildings [B,D]  <-- differ
+40	in	ADP IN in
+41	the	DET DT the
+42	Inner	PROPN NNP Inner
+43	Temple	PROPN NNP Temple
+44	.	PUNCT . .
+
+# sentence 125
+# text: It is good being in God's ways, how many hath he ſavingly and graciouſly met there, and his power hath been preſent to heal them, to convert and ſave them.
+0	It	PRON PRP it
+1	is	AUX VBZ be
+2	good	ADJ JJ good
+3	being	AUX VBG be [A,C] | VERB VBG be [B,D]  <-- differ
+4	in	ADP IN in
+5	God	PROPN NNP God
+6	's	PART POS 's
+7	ways	NOUN NNS way
+8	,	PUNCT , ,
+9	how	ADV WRB how
+10	many	ADJ JJ many
+11	hath	AUX VBZ have
+12	he	PRON PRP he
+13	ſavingly	ADV RB savingly
+14	and	CCONJ CC and
+15	graciouſly	ADV RB graciously
+16	met	VERB VBN meet
+17	there	ADV RB there
+18	,	PUNCT , ,
+19	and	CCONJ CC and
+20	his	PRON PRP$ his
+21	power	NOUN NN power
+22	hath	AUX VBZ have
+23	been	AUX VBN be
+24	preſent	ADJ JJ present
+25	to	PART TO to
+26	heal	VERB VB heal
+27	them	PRON PRP they
+28	,	PUNCT , ,
+29	to	PART TO to
+30	convert	VERB VB convert
+31	and	CCONJ CC and
+32	ſave	VERB VB save
+33	them	PRON PRP they
+34	.	PUNCT . .
+
+# sentence 126
+# text: The Man of Integrity and Conſcience needs no Arts of Diſſimulation, the more he appears, the ſooner is he truſted; and the more he depends on God and his own Sincerity, the better he ſucceeds.
+0	The	DET DT the
+1	Man	NOUN NN man
+2	of	ADP IN of
+3	Integrity	NOUN NN integrity
+4	and	CCONJ CC and
+5	Conſcience	NOUN NN conscience
+6	needs	VERB VBZ need
+7	no	DET DT no
+8	Arts	NOUN NNS art
+9	of	ADP IN of
+10	Diſſimulation	NOUN NN dissimulation
+11	,	PUNCT , ,
+12	the	DET DT the
+13	more	ADV RBR much [A,D] | ADV RBR more [B,C]  <-- differ
+14	he	PRON PRP he
+15	appears	VERB VBZ appear
+16	,	PUNCT , ,
+17	the	DET DT the
+18	ſooner	ADV RBR soon
+19	is	AUX VBZ be
+20	he	PRON PRP he
+21	truſted	VERB VBN trust
+22	;	PUNCT : ;
+23	and	CCONJ CC and
+24	the	DET DT the
+25	more	ADV RBR much [A,D] | ADV RBR more [B,C]  <-- differ
+26	he	PRON PRP he
+27	depends	VERB VBZ depend
+28	on	ADP IN on
+29	God	PROPN NNP God
+30	and	CCONJ CC and
+31	his	PRON PRP$ his
+32	own	ADJ JJ own
+33	Sincerity	NOUN NN sincerity
+34	,	PUNCT , ,
+35	the	DET DT the
+36	better	ADV RBR well
+37	he	PRON PRP he
+38	ſucceeds	VERB VBZ succeed
+39	.	PUNCT . .
+
+# sentence 127
+# text: Whereby we are taught that the onely ſon of God did loue the condition of the Vnion of many kings in one, as being an Image of his heauenly kingdome, aboue all other eſtates.
+0	Whereby	ADV WRB whereby
+1	we	PRON PRP we
+2	are	AUX VBP be
+3	taught	VERB VBN teach
+4	that	SCONJ IN that
+5	the	DET DT the
+6	onely	ADJ JJ only
+7	ſon	NOUN NN son
+8	of	ADP IN of
+9	God	PROPN NNP God
+10	did	AUX VBD do
+11	loue	VERB VB love
+12	the	DET DT the
+13	condition	NOUN NN condition
+14	of	ADP IN of
+15	the	DET DT the
+16	Vnion	NOUN NN union
+17	of	ADP IN of
+18	many	ADJ JJ many
+19	kings	NOUN NNS king
+20	in	ADP IN in
+21	one	NUM CD one
+22	,	PUNCT , ,
+23	as	SCONJ IN as [A,B,C] | ADP IN as [D]  <-- differ
+24	being	AUX VBG be [A,B,C] | VERB VBG be [D]  <-- differ
+25	an	DET DT a
+26	Image	NOUN NN image
+27	of	ADP IN of
+28	his	PRON PRP$ his
+29	heauenly	ADJ JJ heavenly
+30	kingdome	NOUN NN kingdom
+31	,	PUNCT , ,
+32	aboue	ADP IN above
+33	all	DET DT all
+34	other	ADJ JJ other
+35	eſtates	NOUN NNS estate
+36	.	PUNCT . .
+
+# sentence 128
+# text: Or at any other Hours than between Eight and Twelve in the Morning? unleſs he had a Licenſe or Diſpenſation ſo to do, granted by ſuch Authority, and in ſuch Form as the Canons direct?
+0	Or	CCONJ CC or
+1	at	ADP IN at
+2	any	DET DT any
+3	other	ADJ JJ other
+4	Hours	NOUN NNS hour
+5	than	ADP IN than
+6	between	ADP IN between
+7	Eight	NUM CD eight
+8	and	CCONJ CC and
+9	Twelve	NUM CD twelve
+10	in	ADP IN in
+11	the	DET DT the
+12	Morning	NOUN NN morning
+13	?	PUNCT . ?
+14	unleſs	SCONJ IN unless
+15	he	PRON PRP he
+16	had	VERB VBD have
+17	a	DET DT a
+18	Licenſe	NOUN NN licence [A,C,D] | NOUN NN license [B]  <-- differ
+19	or	CCONJ CC or
+20	Diſpenſation	NOUN NN dispensation
+21	ſo	ADV RB so
+22	to	PART TO to
+23	do	VERB VB do
+24	,	PUNCT , ,
+25	granted	VERB VBN grant
+26	by	ADP IN by
+27	ſuch	ADJ JJ such
+28	Authority	NOUN NN authority
+29	,	PUNCT , ,
+30	and	CCONJ CC and
+31	in	ADP IN in
+32	ſuch	ADJ JJ such
+33	Form	NOUN NN form
+34	as	SCONJ IN as
+35	the	DET DT the
+36	Canons	NOUN NNS canon
+37	direct	VERB VBP direct
+38	?	PUNCT . ?
+
+# sentence 129
+# text: Whoſo robbeth his father or his mother, and ſaith it is no tranſgreſſion, the ſame is a companion of a deſtroyer.
+0	Whoſo	PRON WP whoso
+1	robbeth	VERB VBZ rob
+2	his	PRON PRP$ his
+3	father	NOUN NN father
+4	or	CCONJ CC or
+5	his	PRON PRP$ his
+6	mother	NOUN NN mother
+7	,	PUNCT , ,
+8	and	CCONJ CC and
+9	ſaith	VERB VBZ say
+10	it	PRON PRP it
+11	is	AUX VBZ be
+12	no	DET DT no
+13	tranſgreſſion	NOUN NN transgression
+14	,	PUNCT , ,
+15	the	DET DT the
+16	ſame	ADJ JJ same
+17	is	AUX VBZ be
+18	a	DET DT a
+19	companion	NOUN NN companion
+20	of	ADP IN of
+21	a	DET DT a
+22	deſtroyer	NOUN NN destroyer
+23	.	PUNCT . .
+
+# sentence 130
+# text: God ſave your Lordſhip, then ſaid the Meſſenger, and grant your Lady her hearts deſire, And to your Son Richard good fortune & happineſs, yt ſwéet young Gentleman & gallant young ſquire Our King gréets you well, and thus he doth ſay, You muſt come to the Court on St. Georges day.
+0	God	PROPN NNP God
+1	ſave	VERB VB save
+2	your	PRON PRP$ your
+3	Lordſhip	NOUN NN lordship
+4	,	PUNCT , ,
+5	then	ADV RB then
+6	ſaid	VERB VBD say
+7	the	DET DT the
+8	Meſſenger	NOUN NN messenger
+9	,	PUNCT , ,
+10	and	CCONJ CC and
+11	grant	VERB VB grant
+12	your	PRON PRP$ your
+13	Lady	NOUN NN lady
+14	her	PRON PRP$ her
+15	hearts	NOUN NN heart [A,B] | NOUN NNS heart [C,D]  <-- differ
+16	deſire	NOUN NN desire
+17	,	PUNCT , ,
+18	And	CCONJ CC and
+19	to	ADP IN to
+20	your	PRON PRP$ your
+21	Son	NOUN NN son
+22	Richard	PROPN NNP Richard
+23	good	ADJ JJ good
+24	fortune	NOUN NN fortune
+25	&	CCONJ CC and
+26	happineſs	NOUN NN happiness
+27	,	PUNCT , ,
+28	yt	DET DT that [A,C,D] | PRON DT that [B]  <-- differ
+29	ſwéet	ADJ JJ sweet
+30	young	ADJ JJ young
+31	Gentleman	NOUN NN gentleman
+32	&	CCONJ CC and
+33	gallant	ADJ JJ gallant
+34	young	ADJ JJ young
+35	ſquire	NOUN NN squire
+36	Our	PRON PRP$ our
+37	King	NOUN NN king
+38	gréets	VERB VBZ greet
+39	you	PRON PRP you
+40	well	ADV RB well
+41	,	PUNCT , ,
+42	and	CCONJ CC and
+43	thus	ADV RB thus
+44	he	PRON PRP he
+45	doth	AUX VBZ do
+46	ſay	VERB VB say
+47	,	PUNCT , ,
+48	You	PRON PRP you
+49	muſt	AUX MD must
+50	come	VERB VB come
+51	to	ADP IN to
+52	the	DET DT the
+53	Court	NOUN NN court
+54	on	ADP IN on
+55	St.	PROPN NNP St.
+56	Georges	PROPN NNP George
+57	day	NOUN NN day
+58	.	PUNCT . .
+
+# sentence 131
+# text: And did all thinges that ere ſhe might, to ſet her beautie forth to ſight And her beſt skill in euery thing, ſhe ſhewed to entertaine the King.
+0	And	CCONJ CC and
+1	did	VERB VBD do [A,B,C] | AUX VBD do [D]  <-- differ
+2	all	DET DT all [A,B,C] | PRON DT all [D]  <-- differ
+3	thinges	NOUN NNS thing
+4	that	PRON WDT that
+5	ere	ADV RB ever [A,C] | ADV RB ere [B,D]  <-- differ
+6	ſhe	PRON PRP she
+7	might	AUX MD might
+8	,	PUNCT , ,
+9	to	PART TO to
+10	ſet	VERB VB set
+11	her	PRON PRP$ her
+12	beautie	NOUN NN beauty
+13	forth	ADP RP forth [A,C,D] | ADV RB forth [B]  <-- differ
+14	to	ADP IN to
+15	ſight	NOUN NN sight
+16	And	CCONJ CC and
+17	her	PRON PRP$ her
+18	beſt	ADJ JJS good [A,B,C] | ADJ JJ good [D]  <-- differ
+19	skill	NOUN NN skill
+20	in	ADP IN in
+21	euery	DET DT every
+22	thing	NOUN NN thing
+23	,	PUNCT , ,
+24	ſhe	PRON PRP she
+25	ſhewed	VERB VBD show
+26	to	PART TO to
+27	entertaine	VERB VB entertain
+28	the	DET DT the
+29	King	NOUN NN king
+30	.	PUNCT . .
+
+# sentence 132
+# text: Nabal was very drunken, wherefore his Wife told him nothing leſs or more, until the morning light: In 1.
+0	Nabal	PROPN NNP Nabal
+1	was	AUX VBD be
+2	very	ADV RB very
+3	drunken	ADJ JJ drunken
+4	,	PUNCT , ,
+5	wherefore	ADV WRB wherefore
+6	his	PRON PRP$ his
+7	Wife	NOUN NN wife
+8	told	VERB VBD tell
+9	him	PRON PRP he
+10	nothing	PRON NN nothing
+11	leſs	ADV RBR little [A,D] | ADJ JJR less [B,C]  <-- differ
+12	or	CCONJ CC or
+13	more	ADJ JJR more [B,C] | ADV RBR much [A] | ADV RBR more [D]  <-- differ
+14	,	PUNCT , ,
+15	until	ADP IN until
+16	the	DET DT the
+17	morning	NOUN NN morning
+18	light	NOUN NN light
+19	:	PUNCT : :
+20	In	ADP IN in
+21	1	NUM CD 1
+22	.	PUNCT . .
+
+# sentence 133
+# text: It is now no ſecret, that tho' both the Prince and Princeſs of Orange are great Enemies to Perſecution, and in particular to all Rigour againſt the Preſbyterians, yet they are not ſatisfied with the way in which this Toleration is granted.
+0	It	PRON PRP it
+1	is	AUX VBZ be
+2	now	ADV RB now
+3	no	DET DT no
+4	ſecret	NOUN NN secret
+5	,	PUNCT , ,
+6	that	SCONJ IN that
+7	tho	SCONJ IN though
+8	'	PUNCT '' ' [A,B,C] | PUNCT NFP ' [D]  <-- differ
+9	both	CCONJ CC both
+10	the	DET DT the
+11	Prince	NOUN NN prince [A,C,D] | PROPN NNP Prince [B]  <-- differ
+12	and	CCONJ CC and
+13	Princeſs	NOUN NN princess [A,C,D] | PROPN NNP Princess [B]  <-- differ
+14	of	ADP IN of
+15	Orange	PROPN NNP Orange
+16	are	AUX VBP be
+17	great	ADJ JJ great
+18	Enemies	NOUN NNS enemy
+19	to	ADP IN to
+20	Perſecution	NOUN NN persecution
+21	,	PUNCT , ,
+22	and	CCONJ CC and
+23	in	ADP IN in
+24	particular	ADJ JJ particular
+25	to	ADP IN to
+26	all	DET DT all
+27	Rigour	NOUN NN rigour
+28	againſt	ADP IN against
+29	the	DET DT the
+30	Preſbyterians	PROPN NNPS Presbyterian
+31	,	PUNCT , ,
+32	yet	CCONJ CC yet
+33	they	PRON PRP they
+34	are	AUX VBP be
+35	not	PART RB not
+36	ſatisfied	ADJ JJ satisfied
+37	with	ADP IN with
+38	the	DET DT the
+39	way	NOUN NN way
+40	in	ADP IN in
+41	which	PRON WDT which
+42	this	DET DT this
+43	Toleration	NOUN NN toleration
+44	is	AUX VBZ be
+45	granted	VERB VBN grant
+46	.	PUNCT . .
+
+# sentence 134
+# text: In the beginning whereof some of the most singular and selected wits of your Maiesties triangular Monarchie doe combate in the listes of Helicon and Parnassus; and in the end my Fathers Ghost alone doeth diuerberate the enthusiasticke ayre of Pierian poesie.
+0	In	ADP IN in
+1	the	DET DT the
+2	beginning	NOUN NN beginning
+3	whereof	ADV WRB whereof
+4	some	PRON DT some
+5	of	ADP IN of
+6	the	DET DT the
+7	most	ADV RBS most [A,B,C] | ADV RBS much [D]  <-- differ
+8	singular	ADJ JJ singular
+9	and	CCONJ CC and
+10	selected	ADJ JJ selected
+11	wits	NOUN NNS wit
+12	of	ADP IN of
+13	your	PRON PRP$ your
+14	Maiesties	NOUN NN majesty [A,D] | PROPN NNPS Majesty [B] | NOUN NNS majesty [C]  <-- differ
+15	triangular	ADJ JJ triangular
+16	Monarchie	NOUN NN monarchy
+17	doe	AUX VBP do
+18	combate	VERB VB combat
+19	in	ADP IN in
+20	the	DET DT the
+21	listes	NOUN NNS list
+22	of	ADP IN of
+23	Helicon	PROPN NNP Helicon
+24	and	CCONJ CC and
+25	Parnassus	PROPN NNP Parnassus
+26	;	PUNCT : ;
+27	and	CCONJ CC and
+28	in	ADP IN in
+29	the	DET DT the
+30	end	NOUN NN end
+31	my	PRON PRP$ my
+32	Fathers	NOUN NN father [A,B,D] | NOUN NNS father [C]  <-- differ
+33	Ghost	NOUN NN ghost
+34	alone	ADV RB alone
+35	doeth	AUX VBZ do
+36	diuerberate	VERB VB diverberate
+37	the	DET DT the
+38	enthusiasticke	ADJ JJ enthusiastic
+39	ayre	NOUN NN air
+40	of	ADP IN of
+41	Pierian	ADJ JJ Pierian [A,B,D] | ADJ JJ pierian [C]  <-- differ
+42	poesie	NOUN NN poesy
+43	.	PUNCT . .
+
+# sentence 135
+# text: When I the Saints Graves do mind That formerly I have seen, Makes me to long that glorious Day We'll meet again in Heaven.
+0	When	ADV WRB when
+1	I	PRON PRP I
+2	the	DET DT the
+3	Saints	NOUN NNS saint
+4	Graves	NOUN NNS grave
+5	do	AUX VBP do
+6	mind	VERB VB mind
+7	That	PRON WDT that
+8	formerly	ADV RB formerly
+9	I	PRON PRP I
+10	have	AUX VBP have
+11	seen	VERB VBN see
+12	,	PUNCT , ,
+13	Makes	VERB VBZ make
+14	me	PRON PRP I
+15	to	PART TO to
+16	long	VERB VB long
+17	that	DET DT that
+18	glorious	ADJ JJ glorious
+19	Day	NOUN NN day
+20	We	PRON PRP we
+21	'll	AUX MD will
+22	meet	VERB VB meet
+23	again	ADV RB again
+24	in	ADP IN in
+25	Heaven	PROPN NNP Heaven [A,B,D] | NOUN NN heaven [C]  <-- differ
+26	.	PUNCT . .
+
+# sentence 136
+# text: VVere you diſtre'ſt, 'twould prove a gen'rous ſtrife, VVho firſt ſhould loſe his Own, to ſave Your Life.
+0	VVere	AUX VBD be
+1	you	PRON PRP you
+2	diſtre'ſt	ADJ JJ distressed [B,C,D] | VERB VBN distress [A]  <-- differ
+3	,	PUNCT , ,
+4	't	PRON PRP it
+5	would	AUX MD would
+6	prove	VERB VB prove
+7	a	DET DT a
+8	gen'rous	ADJ JJ generous
+9	ſtrife	NOUN NN strife
+10	,	PUNCT , ,
+11	VVho	PRON WP who
+12	firſt	ADV RB first
+13	ſhould	AUX MD should
+14	loſe	VERB VB lose
+15	his	PRON PRP$ his
+16	Own	ADJ JJ own [A,B,C] | NOUN NN own [D]  <-- differ
+17	,	PUNCT , ,
+18	to	PART TO to
+19	ſave	VERB VB save
+20	Your	PRON PRP$ your
+21	Life	NOUN NN life
+22	.	PUNCT . .
+
+# sentence 137
+# text: The Heat of their Age makes them impatient to ſuffer the leaſt Injuries, indiſcreet and inconſiderate to be able to repreſs them any other ways than by thoſe of Paſſion, which carries them to Diſſentions, Enmities, and Revenge.
+0	The	DET DT the
+1	Heat	NOUN NN heat
+2	of	ADP IN of
+3	their	PRON PRP$ their
+4	Age	NOUN NN age
+5	makes	VERB VBZ make
+6	them	PRON PRP they
+7	impatient	ADJ JJ impatient
+8	to	PART TO to
+9	ſuffer	VERB VB suffer
+10	the	DET DT the
+11	leaſt	ADJ JJS little [A,D] | ADJ JJS least [B,C]  <-- differ
+12	Injuries	NOUN NNS injury
+13	,	PUNCT , ,
+14	indiſcreet	ADJ JJ indiscreet
+15	and	CCONJ CC and
+16	inconſiderate	ADJ JJ inconsiderate
+17	to	PART TO to
+18	be	AUX VB be
+19	able	ADJ JJ able
+20	to	PART TO to
+21	repreſs	VERB VB repress
+22	them	PRON PRP they
+23	any	DET DT any
+24	other	ADJ JJ other
+25	ways	NOUN NNS way
+26	than	ADP IN than
+27	by	ADP IN by
+28	thoſe	PRON DT those
+29	of	ADP IN of
+30	Paſſion	NOUN NN passion
+31	,	PUNCT , ,
+32	which	PRON WDT which
+33	carries	VERB VBZ carry
+34	them	PRON PRP they
+35	to	ADP IN to
+36	Diſſentions	NOUN NNS dissension
+37	,	PUNCT , ,
+38	Enmities	NOUN NNS enmity
+39	,	PUNCT , ,
+40	and	CCONJ CC and
+41	Revenge	NOUN NN revenge
+42	.	PUNCT . .
+
+# sentence 138
+# text: Not as Cain, who was of that wicked one, and ſlew his brother: and wherefore ſlew he him?
+0	Not	PART RB not
+1	as	ADP IN as
+2	Cain	PROPN NNP Cain
+3	,	PUNCT , ,
+4	who	PRON WP who
+5	was	AUX VBD be
+6	of	ADP IN of
+7	that	DET DT that
+8	wicked	ADJ JJ wicked
+9	one	NOUN NN one
+10	,	PUNCT , ,
+11	and	CCONJ CC and
+12	ſlew	VERB VBD slay
+13	his	PRON PRP$ his
+14	brother	NOUN NN brother
+15	:	PUNCT : :
+16	and	CCONJ CC and
+17	wherefore	ADV WRB wherefore
+18	ſlew	VERB VBD slay
+19	he	PRON PRP he
+20	him	PRON PRP he
+21	?	PUNCT . ?
+
+# sentence 139
+# text: The Servants they did soone prepare, to doe the message of the King, And Berseba the Lady faire, unto the Court did quickly bring.
+0	The	DET DT the
+1	Servants	NOUN NNS servant
+2	they	PRON PRP they
+3	did	AUX VBD do
+4	soone	ADV RB soon
+5	prepare	VERB VB prepare
+6	,	PUNCT , ,
+7	to	PART TO to
+8	doe	VERB VB do
+9	the	DET DT the
+10	message	NOUN NN message
+11	of	ADP IN of
+12	the	DET DT the
+13	King	NOUN NN king
+14	,	PUNCT , ,
+15	And	CCONJ CC and
+16	Berseba	PROPN NNP Bathsheba [A,D] | PROPN NNP Berseba [B,C]  <-- differ
+17	the	DET DT the
+18	Lady	NOUN NN lady
+19	faire	ADJ JJ fair
+20	,	PUNCT , ,
+21	unto	ADP IN unto
+22	the	DET DT the
+23	Court	NOUN NN court
+24	did	AUX VBD do
+25	quickly	ADV RB quickly
+26	bring	VERB VB bring
+27	.	PUNCT . .

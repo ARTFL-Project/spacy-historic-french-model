@@ -1,0 +1,176 @@
+# sentence 234
+# text: When the zun beyond the Beacon be a-zettin’ And everything’s as quiet as can be, By the gate to varmur’s meddy, That old gate zo vurm and zteddy, You be pretty zure uv vindin’ Jim and me.
+0	When	ADV WRB when
+1	the	DET DT the
+2	zun	NOUN NN sun
+3	beyond	ADP IN beyond
+4	the	DET DT the
+5	Beacon	PROPN NNP Beacon
+6	be	AUX VBP be [A,C,D] | AUX VB be [B]  <-- differ
+7	a	ADP IN a [A,B,C] | ADV RB a [D]  <-- differ
+8	-	PUNCT HYPH -
+9	zettin	VERB VBG set
+10	’	PUNCT '' ’ [A,C] | PUNCT '' ' [B] | PUNCT NFP ’ [D]  <-- differ
+11	And	CCONJ CC and
+12	everything	PRON NN everything
+13	’s	AUX VBZ be
+14	as	ADV RB as
+15	quiet	ADJ JJ quiet
+16	as	SCONJ IN as
+17	can	AUX MD can
+18	be	AUX VB be
+19	,	PUNCT , ,
+20	By	ADP IN by
+21	the	DET DT the
+22	gate	NOUN NN gate
+23	to	ADP IN to
+24	varmur	NOUN NN farmer
+25	’s	PART POS 's
+26	meddy	NOUN NN meadow
+27	,	PUNCT , ,
+28	That	DET DT that
+29	old	ADJ JJ old
+30	gate	NOUN NN gate
+31	zo	ADV RB so
+32	vurm	ADJ JJ firm
+33	and	CCONJ CC and
+34	zteddy	ADJ JJ steady
+35	,	PUNCT , ,
+36	You	PRON PRP you
+37	be	AUX VBP be
+38	pretty	ADV RB pretty
+39	zure	ADJ JJ sure
+40	uv	ADP IN of
+41	vindin	VERB VBG find
+42	’	PUNCT '' ’ [A,C] | PUNCT '' ' [B] | PUNCT NFP ’ [D]  <-- differ
+43	Jim	PROPN NNP Jim
+44	and	CCONJ CC and
+45	me	PRON PRP I
+46	.	PUNCT . .
+
+# sentence 235
+# text: Weel I know I san’t win t’ vict’ry: son’s agean me, dowters, wife; Yit I’ll hold my ground bout flinchin’, feight so long as I have life.
+0	Weel	ADV RB well
+1	I	PRON PRP I
+2	know	VERB VBP know
+3	I	PRON PRP I
+4	san’t	AUX MD shall
+5	win	VERB VB win
+6	t’	DET DT the [A,B,C] | ADP IN to [D]  <-- differ
+7	vict’ry	NOUN NN victory
+8	:	PUNCT : :
+9	son	NOUN NN son
+10	’s	AUX VBZ be
+11	agean	ADP IN against
+12	me	PRON PRP I
+13	,	PUNCT , ,
+14	dowters	NOUN NNS daughter
+15	,	PUNCT , ,
+16	wife	NOUN NN wife
+17	;	PUNCT : ;
+18	Yit	CCONJ CC yet [A,C,D] | ADV RB yet [B]  <-- differ
+19	I	PRON PRP I
+20	’ll	AUX MD will
+21	hold	VERB VB hold
+22	my	PRON PRP$ my
+23	ground	NOUN NN ground
+24	bout	ADP IN without [A,B,D] | ADP IN bout [C]  <-- differ
+25	flinchin	VERB VBG flinch [A,B,C] | NOUN NN flinching [D]  <-- differ
+26	’	PUNCT NFP ’ [A,D] | PUNCT '' ' [B] | PUNCT '' ’ [C]  <-- differ
+27	,	PUNCT , ,
+28	feight	VERB VB fight
+29	so	ADV RB so
+30	long	ADV RB long
+31	as	SCONJ IN as
+32	I	PRON PRP I
+33	have	VERB VBP have
+34	life	NOUN NN life
+35	.	PUNCT . .
+
+# sentence 236
+# text: I told you before that Don's no fool, but 'e ain't such a bloomin' conjurer as all that.
+0	I	PRON PRP I
+1	told	VERB VBD tell
+2	you	PRON PRP you
+3	before	ADV RB before
+4	that	SCONJ IN that
+5	Don	PROPN NNP Don
+6	's	AUX VBZ be
+7	no	DET DT no
+8	fool	NOUN NN fool
+9	,	PUNCT , ,
+10	but	CCONJ CC but
+11	'	PUNCT NFP ' [A,D] | PUNCT `` ' [B,C]  <-- differ
+12	e	PRON PRP he
+13	ai	AUX VBZ be [A,D] | AUX VBP be [B,C]  <-- differ
+14	n't	PART RB not
+15	such	DET PDT such
+16	a	DET DT a
+17	bloomin	ADJ JJ blooming
+18	'	PUNCT NFP ' [A,D] | PUNCT '' ' [B,C]  <-- differ
+19	conjurer	NOUN NN conjurer
+20	as	ADP IN as
+21	all	DET PDT all [B,C] | ADV RB all [A] | PRON DT all [D]  <-- differ
+22	that	PRON DT that [A,B,C] | DET DT that [D]  <-- differ
+23	.	PUNCT . .
+
+# sentence 237
+# text: "I reckon Black Davis was some scared he'd lose his job if Jack downs him, same as that other fire-eatin' miscreant," mused Broncho.
+0	"	PUNCT `` "
+1	I	PRON PRP I
+2	reckon	VERB VBP reckon
+3	Black	PROPN NNP Black
+4	Davis	PROPN NNP Davis
+5	was	AUX VBD be
+6	some	ADV RB some
+7	scared	ADJ JJ scared
+8	he	PRON PRP he
+9	'd	AUX MD would
+10	lose	VERB VB lose
+11	his	PRON PRP$ his
+12	job	NOUN NN job
+13	if	SCONJ IN if
+14	Jack	PROPN NNP Jack
+15	downs	VERB VBZ down
+16	him	PRON PRP he
+17	,	PUNCT , ,
+18	same	ADJ JJ same
+19	as	ADP IN as [A,B,C] | SCONJ IN as [D]  <-- differ
+20	that	DET DT that
+21	other	ADJ JJ other
+22	fire	NOUN NN fire
+23	-	PUNCT HYPH -
+24	eatin	VERB VBG eat
+25	'	PUNCT NFP ' [A,D] | PUNCT '' ' [B,C]  <-- differ
+26	miscreant	NOUN NN miscreant
+27	,	PUNCT , ,
+28	"	PUNCT '' "
+29	mused	VERB VBD muse
+30	Broncho	PROPN NNP Broncho
+31	.	PUNCT . .
+
+# sentence 238
+# text: "'Where are you goin', Neddy?' says he, the same as if he got a terrible surprise.
+0	"	PUNCT `` "
+1	'	PUNCT `` '
+2	Where	ADV WRB where
+3	are	AUX VBP be
+4	you	PRON PRP you
+5	goin'	VERB VBG go
+6	,	PUNCT , ,
+7	Neddy	PROPN NNP Neddy
+8	?	PUNCT . ?
+9	'	PUNCT '' '
+10	says	VERB VBZ say
+11	he	PRON PRP he
+12	,	PUNCT , ,
+13	the	DET DT the
+14	same	ADJ JJ same
+15	as	SCONJ IN as [A,C,D] | ADP IN as [B]  <-- differ
+16	if	SCONJ IN if
+17	he	PRON PRP he
+18	got	VERB VBD get
+19	a	DET DT a
+20	terrible	ADJ JJ terrible
+21	surprise	NOUN NN surprise
+22	.	PUNCT . .

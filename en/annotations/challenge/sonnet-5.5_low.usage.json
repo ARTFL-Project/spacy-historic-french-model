@@ -1,0 +1,17 @@
+{
+  "run": "sonnet-5.5_low",
+  "sentences": 39,
+  "annotated": 38,
+  "failures": [
+    [
+      216,
+      "malformed line 'Wait \u2014 I must follow the token list exactly; the corrected output is below.'"
+    ]
+  ],
+  "prompt_tokens": 141596,
+  "completion_tokens": 33057,
+  "cost": 0.613762,
+  "reasoning_tokens": 0,
+  "requests": 23,
+  "seconds": 74
+}

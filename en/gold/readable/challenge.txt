@@ -1,0 +1,1806 @@
+================================================================================
+SENTENCE 200 (1700-1800)
+================================================================================
+TEXT: With Equal Justice and Historic Care Their Laws, their Toils, their Arms with His compare; Confess the various Attributes of Fame Collected and Compleat in WILLIAM's Name; To all the list'ning World relate, As thou dost his Story read, That nothing went before so Great, And nothing Greater can succeed.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     With                 ADP        IN         with
+1     Equal                ADJ        JJ         equal
+2     Justice              NOUN       NN         justice
+3     and                  CCONJ      CC         and
+4     Historic             ADJ        JJ         historic
+5     Care                 NOUN       NN         care
+6     Their                PRON       PRP$       their
+7     Laws                 NOUN       NNS        law
+8     ,                    PUNCT      ,          ,
+9     their                PRON       PRP$       their
+10    Toils                NOUN       NNS        toil
+11    ,                    PUNCT      ,          ,
+12    their                PRON       PRP$       their
+13    Arms                 NOUN       NNS        arm
+14    with                 ADP        IN         with
+15    His                  PRON       PRP        his                    # ? PRON PRP$ his | note: independent possessive (= his laws etc.), like mine/thine used alone
+16    compare              VERB       VB         compare
+17    ;                    PUNCT      :          ;
+18    Confess              VERB       VB         confess
+19    the                  DET        DT         the
+20    various              ADJ        JJ         various
+21    Attributes           NOUN       NNS        attribute
+22    of                   ADP        IN         of
+23    Fame                 NOUN       NN         fame
+24    Collected            VERB       VBN        collect
+25    and                  CCONJ      CC         and
+26    Compleat             ADJ        JJ         complete
+27    in                   ADP        IN         in
+28    WILLIAM              PROPN      NNP        William
+29    's                   PART       POS        's
+30    Name                 NOUN       NN         name
+31    ;                    PUNCT      :          ;
+32    To                   ADP        IN         to                     # ? PART TO to
+33    all                  DET        PDT        all                    # ? DET DT all
+34    the                  DET        DT         the
+35    list'ning            VERB       VBG        listen                 # ? ADJ JJ listening
+36    World                NOUN       NN         world
+37    relate               VERB       VB         relate
+38    ,                    PUNCT      ,          ,
+39    As                   SCONJ      IN         as                     # ? ADP IN as
+40    thou                 PRON       PRP        thou
+41    dost                 AUX        VBP        do
+42    his                  PRON       PRP$       his
+43    Story                NOUN       NN         story
+44    read                 VERB       VB         read
+45    ,                    PUNCT      ,          ,
+46    That                 SCONJ      IN         that
+47    nothing              PRON       NN         nothing
+48    went                 VERB       VBD        go
+49    before               ADV        RB         before
+50    so                   ADV        RB         so
+51    Great                ADJ        JJ         great
+52    ,                    PUNCT      ,          ,
+53    And                  CCONJ      CC         and
+54    nothing              PRON       NN         nothing
+55    Greater              ADJ        JJR        great
+56    can                  AUX        MD         can
+57    succeed              VERB       VB         succeed
+58    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 201 (1500-1600)
+================================================================================
+TEXT: The law thus commaundeth as touchyng loue: Thou shalt loue thy Lord God as it doth behoue, With al thy hert, with al thy soule, & wt al thy strēgth, And thy neighbor as thy self.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     The                  DET        DT         the
+1     law                  NOUN       NN         law
+2     thus                 ADV        RB         thus
+3     commaundeth          VERB       VBZ        command
+4     as                   SCONJ      IN         as                     # ! runs: ADP IN as
+5     touchyng             VERB       VBG        touch
+6     loue                 NOUN       NN         love
+7     :                    PUNCT      :          :
+8     Thou                 PRON       PRP        thou
+9     shalt                AUX        MD         shall
+10    loue                 VERB       VB         love
+11    thy                  PRON       PRP$       thy
+12    Lord                 PROPN      NNP        Lord
+13    God                  PROPN      NNP        God
+14    as                   SCONJ      IN         as
+15    it                   PRON       PRP        it
+16    doth                 AUX        VBZ        do
+17    behoue               VERB       VB         behove
+18    ,                    PUNCT      ,          ,
+19    With                 ADP        IN         with
+20    al                   DET        PDT        all                    # ? DET DT all
+21    thy                  PRON       PRP$       thy
+22    hert                 NOUN       NN         heart
+23    ,                    PUNCT      ,          ,
+24    with                 ADP        IN         with
+25    al                   DET        PDT        all                    # ? DET DT all
+26    thy                  PRON       PRP$       thy
+27    soule                NOUN       NN         soul
+28    ,                    PUNCT      ,          ,
+29    &                    CCONJ      CC         and
+30    wt                   ADP        IN         with
+31    al                   DET        PDT        all                    # ? DET DT all
+32    thy                  PRON       PRP$       thy
+33    strēgth              NOUN       NN         strength
+34    ,                    PUNCT      ,          ,
+35    And                  CCONJ      CC         and
+36    thy                  PRON       PRP$       thy
+37    neighbor             NOUN       NN         neighbour
+38    as                   ADP        IN         as
+39    thy                  PRON       PRP$       thy
+40    self                 NOUN       NN         self
+41    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 202 (1600-1700)
+================================================================================
+TEXT: That Name which is the greatest prop of thine Affiance, commandeth thy Fear and Reverence, when thou hearest: In the fear of God give Audience to his Word; Acts 13. 16.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     That                 DET        DT         that
+1     Name                 NOUN       NN         name
+2     which                PRON       WDT        which
+3     is                   AUX        VBZ        be
+4     the                  DET        DT         the
+5     greatest             ADJ        JJS        great
+6     prop                 NOUN       NN         prop
+7     of                   ADP        IN         of
+8     thine                PRON       PRP$       thy
+9     Affiance             NOUN       NN         affiance
+10    ,                    PUNCT      ,          ,
+11    commandeth           VERB       VBZ        command
+12    thy                  PRON       PRP$       thy
+13    Fear                 NOUN       NN         fear
+14    and                  CCONJ      CC         and
+15    Reverence            NOUN       NN         reverence
+16    ,                    PUNCT      ,          ,
+17    when                 ADV        WRB        when
+18    thou                 PRON       PRP        thou
+19    hearest              VERB       VBP        hear
+20    :                    PUNCT      :          :
+21    In                   ADP        IN         in
+22    the                  DET        DT         the
+23    fear                 NOUN       NN         fear
+24    of                   ADP        IN         of
+25    God                  PROPN      NNP        God
+26    give                 VERB       VB         give
+27    Audience             NOUN       NN         audience
+28    to                   ADP        IN         to
+29    his                  PRON       PRP$       his
+30    Word                 NOUN       NN         word
+31    ;                    PUNCT      :          ;
+32    Acts                 PROPN      NNP        Acts
+33    13                   NUM        CD         13
+34    .                    PUNCT      .          .                      # ? PUNCT NFP . | note: non-final period tagged . (every period character tagged .)
+35    16                   NUM        CD         16
+36    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 203 (1700-1800)
+================================================================================
+TEXT: Oh, Anthony! thou hast touch'd his Heart, and put me upon a meritorious Action—I must have regard to his poor Soul—Well, young Man, since I find thou art become the Care of Heav'n, I think thee worthy my Regard.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     Oh                   INTJ       UH         oh
+1     ,                    PUNCT      ,          ,
+2     Anthony              PROPN      NNP        Anthony
+3     !                    PUNCT      .          !
+4     thou                 PRON       PRP        thou
+5     hast                 AUX        VBP        have
+6     touch'd              VERB       VBN        touch
+7     his                  PRON       PRP$       his
+8     Heart                NOUN       NN         heart
+9     ,                    PUNCT      ,          ,
+10    and                  CCONJ      CC         and
+11    put                  VERB       VBN        put
+12    me                   PRON       PRP        I
+13    upon                 ADP        IN         upon
+14    a                    DET        DT         a
+15    meritorious          ADJ        JJ         meritorious
+16    Action               NOUN       NN         action
+17    —                    PUNCT      :          —
+18    I                    PRON       PRP        I
+19    must                 AUX        MD         must
+20    have                 VERB       VB         have
+21    regard               NOUN       NN         regard
+22    to                   ADP        IN         to
+23    his                  PRON       PRP$       his
+24    poor                 ADJ        JJ         poor
+25    Soul                 NOUN       NN         soul
+26    —                    PUNCT      :          —
+27    Well                 INTJ       UH         well
+28    ,                    PUNCT      ,          ,
+29    young                ADJ        JJ         young
+30    Man                  NOUN       NN         man
+31    ,                    PUNCT      ,          ,
+32    since                SCONJ      IN         since
+33    I                    PRON       PRP        I
+34    find                 VERB       VBP        find
+35    thou                 PRON       PRP        thou
+36    art                  AUX        VBP        be
+37    become               VERB       VBN        become
+38    the                  DET        DT         the
+39    Care                 NOUN       NN         care
+40    of                   ADP        IN         of
+41    Heav'n               NOUN       NN         heaven                 # ? PROPN NNP heaven
+42    ,                    PUNCT      ,          ,
+43    I                    PRON       PRP        I
+44    think                VERB       VBP        think
+45    thee                 PRON       PRP        thou
+46    worthy               ADJ        JJ         worthy
+47    my                   PRON       PRP$       my
+48    Regard               NOUN       NN         regard
+49    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 204 (1500-1600)
+================================================================================
+TEXT: Thou must not kill, nor whoredome once commit: to steale abhor, but labour hard, to liue.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     Thou                 PRON       PRP        thou
+1     must                 AUX        MD         must
+2     not                  PART       RB         not
+3     kill                 VERB       VB         kill
+4     ,                    PUNCT      ,          ,
+5     nor                  CCONJ      CC         nor
+6     whoredome            NOUN       NN         whoredom
+7     once                 ADV        RB         once
+8     commit               VERB       VB         commit
+9     :                    PUNCT      :          :
+10    to                   PART       TO         to
+11    steale               VERB       VB         steal
+12    abhor                VERB       VB         abhor
+13    ,                    PUNCT      ,          ,
+14    but                  CCONJ      CC         but
+15    labour               VERB       VB         labour
+16    hard                 ADV        RB         hard
+17    ,                    PUNCT      ,          ,
+18    to                   PART       TO         to
+19    liue                 VERB       VB         live
+20    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 205 (1500-1600)
+================================================================================
+TEXT: Yet thou must not bee so driuen into dispaire, as though at the first assault thy countrey were in hazard of vtter destruction.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     Yet                  CCONJ      CC         yet
+1     thou                 PRON       PRP        thou
+2     must                 AUX        MD         must
+3     not                  PART       RB         not
+4     bee                  AUX        VB         be
+5     so                   ADV        RB         so
+6     driuen               VERB       VBN        drive
+7     into                 ADP        IN         into
+8     dispaire             NOUN       NN         despair
+9     ,                    PUNCT      ,          ,
+10    as                   SCONJ      IN         as
+11    though               SCONJ      IN         though
+12    at                   ADP        IN         at
+13    the                  DET        DT         the
+14    first                ADJ        JJ         first
+15    assault              NOUN       NN         assault
+16    thy                  PRON       PRP$       thy
+17    countrey             NOUN       NN         country
+18    were                 AUX        VBD        be
+19    in                   ADP        IN         in
+20    hazard               NOUN       NN         hazard
+21    of                   ADP        IN         of
+22    vtter                ADJ        JJ         utter
+23    destruction          NOUN       NN         destruction
+24    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 206 (1600-1700)
+================================================================================
+TEXT: 'Tis a moſt incredible what a ſtrange number there is of this ſort of Creatures, ſome ſay Fifteen hundred, ſome a great many more; in truth, I believe there may be a thouſand of them that are Commiſſion Officers, beſides Subalterns and Cadres, viz. Followers and Setters.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     'T                   PRON       PRP        it
+1     is                   AUX        VBZ        be
+2     a                    DET        DT         a                      # ? ADV RB a | note: probably 'almost' printed apart (a most); parts analysed separately
+3     moſt                 ADV        RBS        most                   # ? ADV RB most
+4     incredible           ADJ        JJ         incredible
+5     what                 DET        WDT        what                   # ? DET PDT what | PRON WP what | note: exclamative what before an article: WDT DET (as PTB/EWT), not PDT
+6     a                    DET        DT         a
+7     ſtrange              ADJ        JJ         strange
+8     number               NOUN       NN         number
+9     there                PRON       EX         there
+10    is                   VERB       VBZ        be
+11    of                   ADP        IN         of
+12    this                 DET        DT         this
+13    ſort                 NOUN       NN         sort
+14    of                   ADP        IN         of
+15    Creatures            NOUN       NNS        creature
+16    ,                    PUNCT      ,          ,
+17    ſome                 DET        DT         some                   # ! runs: PRON DT some
+18    ſay                  VERB       VBP        say
+19    Fifteen              NUM        CD         fifteen
+20    hundred              NUM        CD         hundred
+21    ,                    PUNCT      ,          ,
+22    ſome                 DET        DT         some                   # ! runs: PRON DT some
+23    a                    DET        DT         a
+24    great                ADJ        JJ         great
+25    many                 ADJ        JJ         many
+26    more                 ADJ        JJR        more
+27    ;                    PUNCT      :          ;
+28    in                   ADP        IN         in
+29    truth                NOUN       NN         truth
+30    ,                    PUNCT      ,          ,
+31    I                    PRON       PRP        I
+32    believe              VERB       VBP        believe
+33    there                PRON       EX         there
+34    may                  AUX        MD         may
+35    be                   VERB       VB         be
+36    a                    DET        DT         a
+37    thouſand             NUM        CD         thousand
+38    of                   ADP        IN         of
+39    them                 PRON       PRP        they
+40    that                 PRON       WDT        that
+41    are                  AUX        VBP        be
+42    Commiſſion           NOUN       NN         commission
+43    Officers             NOUN       NNS        officer
+44    ,                    PUNCT      ,          ,
+45    beſides              ADP        IN         besides
+46    Subalterns           NOUN       NNS        subaltern
+47    and                  CCONJ      CC         and
+48    Cadres               NOUN       NNS        cadre
+49    ,                    PUNCT      ,          ,
+50    viz                  ADV        RB         viz                    # ? ADV RB viz. | note: period split off by tokenizer; lemma = printed token
+51    .                    PUNCT      .          .                      # ? PUNCT NFP . | note: non-final period tagged . (every period character tagged .)
+52    Followers            NOUN       NNS        follower
+53    and                  CCONJ      CC         and
+54    Setters              NOUN       NNS        setter
+55    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 207 (1600-1700)
+================================================================================
+TEXT: Be this my prayer, may they ſo proſper all, Who with unworthy private baſe Intents So run a Whoreing after Parliaments: For 'tis concluded by the graver Bench That Babylon's Strumpet's now the ſounder Wench.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     Be                   AUX        VB         be                     # ? VERB VB be
+1     this                 PRON       DT         this                   # ? DET DT this
+2     my                   PRON       PRP$       my
+3     prayer               NOUN       NN         prayer
+4     ,                    PUNCT      ,          ,
+5     may                  AUX        MD         may
+6     they                 PRON       PRP        they
+7     ſo                   ADV        RB         so
+8     proſper              VERB       VB         prosper
+9     all                  DET        DT         all                    # ! runs: PRON DT all
+10    ,                    PUNCT      ,          ,
+11    Who                  PRON       WP         who
+12    with                 ADP        IN         with
+13    unworthy             ADJ        JJ         unworthy
+14    private              ADJ        JJ         private
+15    baſe                 ADJ        JJ         base
+16    Intents              NOUN       NNS        intent
+17    So                   ADV        RB         so
+18    run                  VERB       VBP        run
+19    a                    SCONJ      IN         a                      # ? ADP IN a | DET DT a
+20    Whoreing             VERB       VBG        whore                  # ! runs: NOUN NN whoring | note: gerund after preposition a-, no determiner -> VBG
+21    after                ADP        IN         after
+22    Parliaments          NOUN       NNS        parliament
+23    :                    PUNCT      :          :
+24    For                  SCONJ      IN         for
+25    't                   PRON       PRP        it
+26    is                   AUX        VBZ        be
+27    concluded            VERB       VBN        conclude
+28    by                   ADP        IN         by
+29    the                  DET        DT         the
+30    graver               ADJ        JJR        grave
+31    Bench                NOUN       NN         bench
+32    That                 SCONJ      IN         that
+33    Babylon              PROPN      NNP        Babylon
+34    's                   PART       POS        's
+35    Strumpet             NOUN       NN         strumpet
+36    's                   AUX        VBZ        be
+37    now                  ADV        RB         now
+38    the                  DET        DT         the
+39    ſounder              ADJ        JJR        sound
+40    Wench                NOUN       NN         wench
+41    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 208 (1700-1800)
+================================================================================
+TEXT: 'Tis true, but our dear Friend and Brother knew and loved Jeſus Chriſt and his Goſpel, and in the whole courſe of his Study, thoſe were moſt delightful to him, that led him into the Myſteries of our Redemption.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     'T                   PRON       PRP        it
+1     is                   AUX        VBZ        be
+2     true                 ADJ        JJ         true
+3     ,                    PUNCT      ,          ,
+4     but                  CCONJ      CC         but
+5     our                  PRON       PRP$       our
+6     dear                 ADJ        JJ         dear
+7     Friend               NOUN       NN         friend
+8     and                  CCONJ      CC         and
+9     Brother              NOUN       NN         brother
+10    knew                 VERB       VBD        know
+11    and                  CCONJ      CC         and
+12    loved                VERB       VBD        love
+13    Jeſus                PROPN      NNP        Jesus
+14    Chriſt               PROPN      NNP        Christ
+15    and                  CCONJ      CC         and
+16    his                  PRON       PRP$       his
+17    Goſpel               NOUN       NN         gospel
+18    ,                    PUNCT      ,          ,
+19    and                  CCONJ      CC         and
+20    in                   ADP        IN         in
+21    the                  DET        DT         the
+22    whole                ADJ        JJ         whole
+23    courſe               NOUN       NN         course
+24    of                   ADP        IN         of
+25    his                  PRON       PRP$       his
+26    Study                NOUN       NN         study
+27    ,                    PUNCT      ,          ,
+28    thoſe                PRON       DT         that                   # ? PRON DT those | note: demonstrative those lemmatized to that (as UD EWT)
+29    were                 AUX        VBD        be
+30    moſt                 ADV        RBS        most
+31    delightful           ADJ        JJ         delightful
+32    to                   ADP        IN         to
+33    him                  PRON       PRP        he
+34    ,                    PUNCT      ,          ,
+35    that                 PRON       WDT        that
+36    led                  VERB       VBD        lead
+37    him                  PRON       PRP        he
+38    into                 ADP        IN         into
+39    the                  DET        DT         the
+40    Myſteries            NOUN       NNS        mystery
+41    of                   ADP        IN         of
+42    our                  PRON       PRP$       our
+43    Redemption           NOUN       NN         redemption
+44    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 209 (1700-1800)
+================================================================================
+TEXT: Now 'tis a moving Argument to pity, that the case we commiserate may one day be our own; and the very reflexion on what we would then desire for our selves, must melt us into Charity toward other men.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     Now                  ADV        RB         now
+1     't                   PRON       PRP        it
+2     is                   AUX        VBZ        be
+3     a                    DET        DT         a
+4     moving               ADJ        JJ         moving
+5     Argument             NOUN       NN         argument
+6     to                   ADP        IN         to                     # ? PART TO to | note: argument to pity read as to + noun pity; infinitive reading possible
+7     pity                 NOUN       NN         pity                   # ? VERB VB pity | note: argument to pity read as to + noun pity; infinitive reading possible
+8     ,                    PUNCT      ,          ,
+9     that                 SCONJ      IN         that
+10    the                  DET        DT         the
+11    case                 NOUN       NN         case
+12    we                   PRON       PRP        we
+13    commiserate          VERB       VBP        commiserate
+14    may                  AUX        MD         may
+15    one                  NUM        CD         one
+16    day                  NOUN       NN         day
+17    be                   AUX        VB         be
+18    our                  PRON       PRP$       our
+19    own                  ADJ        JJ         own
+20    ;                    PUNCT      :          ;
+21    and                  CCONJ      CC         and
+22    the                  DET        DT         the
+23    very                 ADJ        JJ         very
+24    reflexion            NOUN       NN         reflection             # ? NOUN NN reflexion
+25    on                   ADP        IN         on
+26    what                 PRON       WP         what
+27    we                   PRON       PRP        we
+28    would                AUX        MD         would
+29    then                 ADV        RB         then
+30    desire               VERB       VB         desire
+31    for                  ADP        IN         for
+32    our                  PRON       PRP$       our
+33    selves               NOUN       NNS        self
+34    ,                    PUNCT      ,          ,
+35    must                 AUX        MD         must
+36    melt                 VERB       VB         melt
+37    us                   PRON       PRP        we
+38    into                 ADP        IN         into
+39    Charity              NOUN       NN         charity
+40    toward               ADP        IN         toward
+41    other                ADJ        JJ         other
+42    men                  NOUN       NNS        man
+43    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 210 (1700-1800)
+================================================================================
+TEXT: And 'tis a juſt Query, Whether thoſe Men who combine to leſſen the King's Revenue, would not do the ſame to ſhorten his Life? for taking away Life and Livelihood are very near akin.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     And                  CCONJ      CC         and
+1     't                   PRON       PRP        it
+2     is                   AUX        VBZ        be
+3     a                    DET        DT         a
+4     juſt                 ADJ        JJ         just
+5     Query                NOUN       NN         query
+6     ,                    PUNCT      ,          ,
+7     Whether              SCONJ      IN         whether
+8     thoſe                DET        DT         that                   # ? DET DT those | note: demonstrative those lemmatized to that (as UD EWT)
+9     Men                  NOUN       NNS        man
+10    who                  PRON       WP         who
+11    combine              VERB       VBP        combine
+12    to                   PART       TO         to
+13    leſſen               VERB       VB         lessen
+14    the                  DET        DT         the
+15    King                 NOUN       NN         king
+16    's                   PART       POS        's
+17    Revenue              NOUN       NN         revenue
+18    ,                    PUNCT      ,          ,
+19    would                AUX        MD         would
+20    not                  PART       RB         not
+21    do                   VERB       VB         do
+22    the                  DET        DT         the
+23    ſame                 ADJ        JJ         same
+24    to                   PART       TO         to
+25    ſhorten              VERB       VB         shorten
+26    his                  PRON       PRP$       his
+27    Life                 NOUN       NN         life
+28    ?                    PUNCT      .          ?
+29    for                  SCONJ      IN         for
+30    taking               VERB       VBG        take                   # ? NOUN NN taking
+31    away                 ADV        RB         away                   # ? ADP RP away
+32    Life                 NOUN       NN         life
+33    and                  CCONJ      CC         and
+34    Livelihood           NOUN       NN         livelihood
+35    are                  AUX        VBP        be
+36    very                 ADV        RB         very
+37    near                 ADV        RB         near                   # ? ADJ JJ near
+38    akin                 ADJ        JJ         akin
+39    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 211 (1500-1600)
+================================================================================
+TEXT: And thoughe it be very lytyll and nothynge in comparyson to ye other ymage that is infynyte and without comparison excedynge all thynges create / yet he wyll haue it vnto ye lykenes of his loue sayeng.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     And                  CCONJ      CC         and
+1     thoughe              SCONJ      IN         though
+2     it                   PRON       PRP        it
+3     be                   AUX        VB         be
+4     very                 ADV        RB         very
+5     lytyll               ADJ        JJ         little
+6     and                  CCONJ      CC         and
+7     nothynge             PRON       NN         nothing
+8     in                   ADP        IN         in
+9     comparyson           NOUN       NN         comparison
+10    to                   ADP        IN         to
+11    ye                   DET        DT         the
+12    other                ADJ        JJ         other
+13    ymage                NOUN       NN         image
+14    that                 PRON       WDT        that
+15    is                   AUX        VBZ        be
+16    infynyte             ADJ        JJ         infinite
+17    and                  CCONJ      CC         and
+18    without              ADP        IN         without
+19    comparison           NOUN       NN         comparison
+20    excedynge            VERB       VBG        exceed
+21    all                  DET        DT         all
+22    thynges              NOUN       NNS        thing
+23    create               VERB       VBN        create                 # ! runs: ADJ JJ create | note: archaic short participle (= created), postnominal like 'net spread'
+24    /                    PUNCT      :          /                      # ? PUNCT , / | note: virgule used as a light pause mark: : (other mid-sentence punctuation)
+25    yet                  ADV        RB         yet                    # ? CCONJ CC yet | note: yet resuming the main clause after a concessive clause: RB
+26    he                   PRON       PRP        he
+27    wyll                 AUX        MD         will
+28    haue                 VERB       VB         have
+29    it                   PRON       PRP        it
+30    vnto                 ADP        IN         unto
+31    ye                   DET        DT         the
+32    lykenes              NOUN       NN         likeness
+33    of                   ADP        IN         of
+34    his                  PRON       PRP$       his
+35    loue                 NOUN       NN         love
+36    sayeng               VERB       VBG        say
+37    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 212 (1500-1600)
+================================================================================
+TEXT: The nature of the word appeareth more euident in those which we cal to fef, feoff, or feoffees, the one be fiduciarii possessores, or fidei cōmissarii, ye other is, dare in fiduciam, or fidei commissum, or more latinely, fidei committere.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     The                  DET        DT         the
+1     nature               NOUN       NN         nature
+2     of                   ADP        IN         of
+3     the                  DET        DT         the
+4     word                 NOUN       NN         word
+5     appeareth            VERB       VBZ        appear
+6     more                 ADV        RBR        more
+7     euident              ADJ        JJ         evident
+8     in                   ADP        IN         in
+9     those                PRON       DT         that                   # ? PRON DT those
+10    which                PRON       WDT        which
+11    we                   PRON       PRP        we
+12    cal                  VERB       VBP        call
+13    to                   PART       TO         to                     # ? ADP IN to
+14    fef                  VERB       VB         feoff                  # ? NOUN NN fef | note: cited verb 'to fef' (= feoff)
+15    ,                    PUNCT      ,          ,
+16    feoff                VERB       VB         feoff                  # ? NOUN NN feoff | note: variant of the cited verb (to fef, feoff); noun feoff possible
+17    ,                    PUNCT      ,          ,
+18    or                   CCONJ      CC         or
+19    feoffees             NOUN       NNS        feoffee
+20    ,                    PUNCT      ,          ,
+21    the                  DET        DT         the
+22    one                  NOUN       NN         one
+23    be                   AUX        VBP        be                     # ? VERB VBP be
+24    fiduciarii           X          FW         fiduciarii
+25    possessores          X          FW         possessores
+26    ,                    PUNCT      ,          ,
+27    or                   CCONJ      CC         or
+28    fidei                X          FW         fidei
+29    cōmissarii           X          FW         commissarii
+30    ,                    PUNCT      ,          ,
+31    ye                   DET        DT         the
+32    other                ADJ        JJ         other                  # ? NOUN NN other
+33    is                   AUX        VBZ        be
+34    ,                    PUNCT      ,          ,
+35    dare                 X          FW         dare
+36    in                   X          FW         in
+37    fiduciam             X          FW         fiduciam
+38    ,                    PUNCT      ,          ,
+39    or                   CCONJ      CC         or
+40    fidei                X          FW         fidei
+41    commissum            X          FW         commissum
+42    ,                    PUNCT      ,          ,
+43    or                   CCONJ      CC         or
+44    more                 ADV        RBR        more
+45    latinely             ADV        RB         latinly                # ? ADV RB latinely
+46    ,                    PUNCT      ,          ,
+47    fidei                X          FW         fidei
+48    committere           X          FW         committere
+49    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 213 (1500-1600)
+================================================================================
+TEXT: THis Balsame healeth all paynes in yt ioynts, so that ye wash the ioints therwith, and also plaister ye said ioints with a linnen cloth, wet it in the sayd Balsame, this must be done twise a day.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     THis                 DET        DT         this
+1     Balsame              NOUN       NN         balsam
+2     healeth              VERB       VBZ        heal
+3     all                  DET        DT         all
+4     paynes               NOUN       NNS        pain
+5     in                   ADP        IN         in
+6     yt                   DET        DT         that                   # ? DET DT the | note: yt read as that per guidelines, though before a plural noun ('the' in sense)
+7     ioynts               NOUN       NNS        joint
+8     ,                    PUNCT      ,          ,
+9     so                   ADV        RB         so
+10    that                 SCONJ      IN         that
+11    ye                   PRON       PRP        you
+12    wash                 VERB       VBP        wash
+13    the                  DET        DT         the
+14    ioints               NOUN       NNS        joint
+15    therwith             ADV        RB         therewith
+16    ,                    PUNCT      ,          ,
+17    and                  CCONJ      CC         and
+18    also                 ADV        RB         also
+19    plaister             VERB       VBP        plaster                # ? VERB VB plaster
+20    ye                   DET        DT         the                    # ? PRON PRP you
+21    said                 VERB       VBN        say                    # ! runs: ADJ JJ said
+22    ioints               NOUN       NNS        joint
+23    with                 ADP        IN         with
+24    a                    DET        DT         a
+25    linnen               NOUN       NN         linen                  # ? ADJ JJ linen
+26    cloth                NOUN       NN         cloth
+27    ,                    PUNCT      ,          ,
+28    wet                  VERB       VB         wet
+29    it                   PRON       PRP        it
+30    in                   ADP        IN         in
+31    the                  DET        DT         the                    # ? DET DT sayd
+32    sayd                 ADJ        JJ         said
+33    Balsame              NOUN       NN         balsam
+34    ,                    PUNCT      ,          ,
+35    this                 PRON       DT         this
+36    must                 AUX        MD         must
+37    be                   AUX        VB         be
+38    done                 VERB       VBN        do
+39    twise                ADV        RB         twice
+40    a                    DET        DT         a
+41    day                  NOUN       NN         day
+42    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 214 (1500-1600)
+================================================================================
+TEXT: Intending therfore to ſpeake of Ioſeph, we are to conſider firſt and formoſt what ye Lord by his Prouidence determined ineſpeciallye to make knowne in him.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     Intending            VERB       VBG        intend
+1     therfore             ADV        RB         therefore
+2     to                   PART       TO         to
+3     ſpeake               VERB       VB         speak
+4     of                   ADP        IN         of
+5     Ioſeph               PROPN      NNP        Joseph
+6     ,                    PUNCT      ,          ,
+7     we                   PRON       PRP        we
+8     are                  AUX        VBP        be                     # ? VERB VBP be
+9     to                   PART       TO         to
+10    conſider             VERB       VB         consider
+11    firſt                ADV        RB         first
+12    and                  CCONJ      CC         and
+13    formoſt              ADV        RB         foremost
+14    what                 PRON       WP         what
+15    ye                   DET        DT         the
+16    Lord                 PROPN      NNP        Lord
+17    by                   ADP        IN         by
+18    his                  PRON       PRP$       his
+19    Prouidence           NOUN       NN         providence
+20    determined           VERB       VBD        determine
+21    ineſpeciallye        ADV        RB         inespecially           # ? ADV RB especially | note: archaic in+especially; own lemma, modern spelling
+22    to                   PART       TO         to
+23    make                 VERB       VB         make
+24    knowne               VERB       VBN        know                   # ? ADJ JJ known
+25    in                   ADP        IN         in
+26    him                  PRON       PRP        he
+27    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 215 (1500-1600)
+================================================================================
+TEXT: Of thother ſide, if thei be not trewe, thei muſt be reiected and refuſed: becauſe this, by them or any other like, can not be auoided.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     Of                   ADP        IN         of
+1     thother              ADJ        JJ         other                  # ? DET DT other
+2     ſide                 NOUN       NN         side
+3     ,                    PUNCT      ,          ,
+4     if                   SCONJ      IN         if
+5     thei                 PRON       PRP        they
+6     be                   AUX        VB         be                     # ? AUX VBP be
+7     not                  PART       RB         not
+8     trewe                ADJ        JJ         true
+9     ,                    PUNCT      ,          ,
+10    thei                 PRON       PRP        they
+11    muſt                 AUX        MD         must
+12    be                   AUX        VB         be
+13    reiected             VERB       VBN        reject
+14    and                  CCONJ      CC         and
+15    refuſed              VERB       VBN        refuse
+16    :                    PUNCT      :          :
+17    becauſe              SCONJ      IN         because
+18    this                 PRON       DT         this
+19    ,                    PUNCT      ,          ,
+20    by                   ADP        IN         by
+21    them                 PRON       PRP        they
+22    or                   CCONJ      CC         or
+23    any                  DET        DT         any
+24    other                ADJ        JJ         other
+25    like                 ADJ        JJ         like                   # ? NOUN NN like
+26    ,                    PUNCT      ,          ,
+27    can                  AUX        MD         can
+28    not                  PART       RB         not
+29    be                   AUX        VB         be
+30    auoided              VERB       VBN        avoid
+31    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 216 (1700-1800)
+================================================================================
+TEXT: With Thee into thy watry Tomb, LORD, 'tis our Glory to descend; 'Tis wondrous Grace that gives us room To lie inter'd by such a Friend!
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     With                 ADP        IN         with
+1     Thee                 PRON       PRP        thou
+2     into                 ADP        IN         into
+3     thy                  PRON       PRP$       thy
+4     watry                ADJ        JJ         watery
+5     Tomb                 NOUN       NN         tomb
+6     ,                    PUNCT      ,          ,
+7     LORD                 PROPN      NNP        Lord
+8     ,                    PUNCT      ,          ,
+9     't                   PRON       PRP        it
+10    is                   AUX        VBZ        be
+11    our                  PRON       PRP$       our
+12    Glory                NOUN       NN         glory
+13    to                   PART       TO         to
+14    descend              VERB       VB         descend
+15    ;                    PUNCT      :          ;
+16    'T                   PRON       PRP        it
+17    is                   AUX        VBZ        be
+18    wondrous             ADJ        JJ         wondrous
+19    Grace                NOUN       NN         grace
+20    that                 PRON       WDT        that
+21    gives                VERB       VBZ        give
+22    us                   PRON       PRP        we
+23    room                 NOUN       NN         room
+24    To                   PART       TO         to
+25    lie                  VERB       VB         lie
+26    inter'd              VERB       VBN        inter                  # note: lie inter'd = lie buried: verbal participle (by = beside, not agent)
+27    by                   ADP        IN         by
+28    such                 DET        PDT        such
+29    a                    DET        DT         a
+30    Friend               NOUN       NN         friend
+31    !                    PUNCT      .          !
+
+================================================================================
+SENTENCE 217 (1500-1600)
+================================================================================
+TEXT: Whearby, whither it becam more delightſum in chaunge of tunez and armony too the eare: or els in differens of coolerz, kyndez & propertyez too the ey, Ile tell yoo if I can whē I haue better be thought me.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     Whearby              ADV        WRB        whereby
+1     ,                    PUNCT      ,          ,
+2     whither              SCONJ      IN         whether                # ? ADV WRB whither
+3     it                   PRON       PRP        it
+4     becam                VERB       VBD        become                 # ? AUX VBD become
+5     more                 ADV        RBR        more
+6     delightſum           ADJ        JJ         delightsome
+7     in                   ADP        IN         in
+8     chaunge              NOUN       NN         change
+9     of                   ADP        IN         of
+10    tunez                NOUN       NNS        tune
+11    and                  CCONJ      CC         and
+12    armony               NOUN       NN         harmony
+13    too                  ADP        IN         to
+14    the                  DET        DT         the
+15    eare                 NOUN       NN         ear
+16    :                    PUNCT      :          :
+17    or                   CCONJ      CC         or
+18    els                  ADV        RB         else
+19    in                   ADP        IN         in
+20    differens            NOUN       NN         difference
+21    of                   ADP        IN         of
+22    coolerz              NOUN       NNS        colour
+23    ,                    PUNCT      ,          ,
+24    kyndez               NOUN       NNS        kind
+25    &                    CCONJ      CC         and
+26    propertyez           NOUN       NNS        property
+27    too                  ADP        IN         to
+28    the                  DET        DT         the
+29    ey                   NOUN       NN         eye
+30    ,                    PUNCT      ,          ,
+31    Ile                  AUX        MD         will
+32    tell                 VERB       VB         tell
+33    yoo                  PRON       PRP        you
+34    if                   SCONJ      IN         if
+35    I                    PRON       PRP        I
+36    can                  AUX        MD         can
+37    whē                  ADV        WRB        when
+38    I                    PRON       PRP        I
+39    haue                 AUX        VBP        have                   # ? VERB VBP have
+40    better               ADV        RBR        well
+41    be                   VERB       VBN        bethink                # ? AUX VB be | AUX VBN be | note: be thought = bethought split by a space; both pieces get the labels of the whole word
+42    thought              VERB       VBN        bethink                # ? VERB VBN think | note: be thought = bethought split by a space; both pieces get the labels of the whole word
+43    me                   PRON       PRP        I
+44    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 218 (1700-1800)
+================================================================================
+TEXT: That as to the Government there is nothing in my Notions, but what is approved by moſt Learned Men of all theſe Churches; and if I live not under ſuch a Government; 'tis my Unhappineſs, not my Fault.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     That                 SCONJ      IN         that
+1     as                   ADP        IN         as
+2     to                   ADP        IN         to
+3     the                  DET        DT         the
+4     Government           NOUN       NN         government
+5     there                PRON       EX         there
+6     is                   VERB       VBZ        be
+7     nothing              PRON       NN         nothing
+8     in                   ADP        IN         in                     # ? ADP IN my
+9     my                   PRON       PRP$       my
+10    Notions              NOUN       NNS        notion
+11    ,                    PUNCT      ,          ,
+12    but                  ADP        IN         but                    # ? CCONJ CC but
+13    what                 PRON       WP         what
+14    is                   AUX        VBZ        be
+15    approved             VERB       VBN        approve
+16    by                   ADP        IN         by
+17    moſt                 ADJ        JJS        most                   # ? ADV RBS most
+18    Learned              ADJ        JJ         learned
+19    Men                  NOUN       NNS        man
+20    of                   ADP        IN         of
+21    all                  DET        PDT        all                    # ? DET DT all
+22    theſe                DET        DT         this                   # ? DET DT these | note: demonstrative these lemmatized to this (as UD EWT)
+23    Churches             NOUN       NNS        church
+24    ;                    PUNCT      :          ;
+25    and                  CCONJ      CC         and
+26    if                   SCONJ      IN         if
+27    I                    PRON       PRP        I
+28    live                 VERB       VBP        live
+29    not                  PART       RB         not
+30    under                ADP        IN         under
+31    ſuch                 DET        PDT        such                   # ? ADJ JJ such
+32    a                    DET        DT         a
+33    Government           NOUN       NN         government
+34    ;                    PUNCT      :          ;
+35    't                   PRON       PRP        it
+36    is                   AUX        VBZ        be
+37    my                   PRON       PRP$       my
+38    Unhappineſs          NOUN       NN         unhappiness
+39    ,                    PUNCT      ,          ,
+40    not                  PART       RB         not
+41    my                   PRON       PRP$       my
+42    Fault                NOUN       NN         fault
+43    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 219 (1700-1800)
+================================================================================
+TEXT: Waunds, Sir, I'll slabber no Man, an he must be an antimate Frant that I vouchsafe to gave my Hont too.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     Waunds               INTJ       UH         wounds                 # ? INTJ UH waunds | INTJ UH zounds | note: dialect oath; read as "wounds" (= zounds)
+1     ,                    PUNCT      ,          ,
+2     Sir                  NOUN       NN         sir
+3     ,                    PUNCT      ,          ,
+4     I                    PRON       PRP        I
+5     'll                  AUX        MD         will
+6     slabber              VERB       VB         slabber
+7     no                   DET        DT         no
+8     Man                  NOUN       NN         man
+9     ,                    PUNCT      ,          ,
+10    an                   CCONJ      CC         and                    # ? SCONJ IN an | SCONJ IN if | note: dialect an = and here; the if-reading makes no sense
+11    he                   PRON       PRP        he
+12    must                 AUX        MD         must
+13    be                   AUX        VB         be
+14    an                   DET        DT         a
+15    antimate             ADJ        JJ         intimate               # ? ADJ JJ antimate | note: dialect form of intimate
+16    Frant                NOUN       NN         friend                 # ? NOUN NN frant | note: dialect form of friend
+17    that                 PRON       WDT        that
+18    I                    PRON       PRP        I
+19    vouchsafe            VERB       VBP        vouchsafe
+20    to                   PART       TO         to
+21    gave                 VERB       VB         give                   # note: dialect gave = give (infinitive after to)
+22    my                   PRON       PRP$       my
+23    Hont                 NOUN       NN         hand                   # ? NOUN NN hont | note: dialect form of hand
+24    too                  ADP        IN         to                     # ? ADV RB too | note: too = to, stranded preposition of the relative that
+25    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 220 (1600-1700)
+================================================================================
+TEXT: Beluved, I mun conclude we ya ward, an that is this, ene this; There is but ya ſort o folke between Gad an ye: tak away that ſort o men, an ye may aw gang to heven, ſheeke by ſhole, yan by another.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     Beluved              ADJ        JJ         beloved                # ? VERB VBN belove
+1     ,                    PUNCT      ,          ,
+2     I                    PRON       PRP        I
+3     mun                  AUX        MD         mun                    # ! runs: AUX MD must | note: dialect modal mun (ON munu) is not a spelling of must; own lemma
+4     conclude             VERB       VB         conclude
+5     we                   ADP        IN         with                   # ? PRON PRP we
+6     ya                   NUM        CD         one                    # ? DET DT the
+7     ward                 NOUN       NN         word                   # ? NOUN NN ward
+8     ,                    PUNCT      ,          ,
+9     an                   CCONJ      CC         and                    # ? SCONJ IN an
+10    that                 PRON       DT         that
+11    is                   AUX        VBZ        be
+12    this                 PRON       DT         this
+13    ,                    PUNCT      ,          ,
+14    ene                  ADV        RB         even
+15    this                 PRON       DT         this
+16    ;                    PUNCT      :          ;
+17    There                PRON       EX         there
+18    is                   VERB       VBZ        be
+19    but                  ADV        RB         but
+20    ya                   NUM        CD         one                    # ? DET DT the
+21    ſort                 NOUN       NN         sort
+22    o                    ADP        IN         of
+23    folke                NOUN       NN         folk                   # ? NOUN NNS folk
+24    between              ADP        IN         between
+25    Gad                  PROPN      NNP        God
+26    an                   CCONJ      CC         and
+27    ye                   PRON       PRP        you
+28    :                    PUNCT      :          :
+29    tak                  VERB       VB         take
+30    away                 ADV        RB         away                   # ? ADP RP away
+31    that                 DET        DT         that
+32    ſort                 NOUN       NN         sort
+33    o                    ADP        IN         of
+34    men                  NOUN       NNS        man
+35    ,                    PUNCT      ,          ,
+36    an                   CCONJ      CC         and                    # ? SCONJ IN an
+37    ye                   PRON       PRP        you
+38    may                  AUX        MD         may
+39    aw                   DET        DT         all                    # ? ADV RB all
+40    gang                 VERB       VB         gang                   # ? VERB VB go | note: dialect verb gang kept as own lemma, not translated to go
+41    to                   ADP        IN         to
+42    heven                NOUN       NN         heaven                 # ? PROPN NNP heaven | note: heaven as common noun
+43    ,                    PUNCT      ,          ,
+44    ſheeke               NOUN       NN         cheek
+45    by                   ADP        IN         by
+46    ſhole                NOUN       NN         jowl
+47    ,                    PUNCT      ,          ,
+48    yan                  NUM        CD         one                    # ? PRON DT one | SCONJ IN than | note: yan = one ('one by another')
+49    by                   ADP        IN         by
+50    another              DET        DT         another                # ! runs: PRON DT another
+51    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 221 (1500-1600)
+================================================================================
+TEXT: Why some is areable, and some is pasture, And why some is spreint wt floure picture, I counsayle the to musen for a whyle, In the laureat poete virgile.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     Why                  ADV        WRB        why
+1     some                 DET        DT         some                   # ! runs: PRON DT some
+2     is                   AUX        VBZ        be
+3     areable              ADJ        JJ         arable                 # ? NOUN NN arable
+4     ,                    PUNCT      ,          ,
+5     and                  CCONJ      CC         and
+6     some                 DET        DT         some                   # ! runs: PRON DT some
+7     is                   AUX        VBZ        be
+8     pasture              NOUN       NN         pasture
+9     ,                    PUNCT      ,          ,
+10    And                  CCONJ      CC         and
+11    why                  ADV        WRB        why
+12    some                 DET        DT         some                   # ! runs: PRON DT some
+13    is                   AUX        VBZ        be
+14    spreint              VERB       VBN        spreng                 # ? VERB VBN sprenge | VERB VBN sprinkle | note: obsolete verb spreng 'sprinkle' (OED headword), pp. spreint
+15    wt                   ADP        IN         with
+16    floure               NOUN       NN         flower
+17    picture              NOUN       NN         picture
+18    ,                    PUNCT      ,          ,
+19    I                    PRON       PRP        I
+20    counsayle            VERB       VBP        counsel
+21    the                  PRON       PRP        thou
+22    to                   PART       TO         to
+23    musen                VERB       VB         muse
+24    for                  ADP        IN         for
+25    a                    DET        DT         a
+26    whyle                NOUN       NN         while
+27    ,                    PUNCT      ,          ,
+28    In                   ADP        IN         in
+29    the                  DET        DT         the
+30    laureat              ADJ        JJ         laureate
+31    poete                NOUN       NN         poet
+32    virgile              PROPN      NNP        Virgil
+33    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 222 (1500-1600)
+================================================================================
+TEXT: Where yf yt be ſaide / that he mente that off the Pope ouer all churches: althowgh the diſputation be directed againſte the Pope: yet his reaſons are generall / and proue that no man maie vſurpe that tytle.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     Where                ADV        WRB        where
+1     yf                   SCONJ      IN         if
+2     yt                   PRON       PRP        it                     # note: yt here = it (y-for-i spelling, cf. yf), not that
+3     be                   AUX        VB         be
+4     ſaide                VERB       VBN        say
+5     /                    PUNCT      :          /                      # ? PUNCT , /
+6     that                 SCONJ      IN         that
+7     he                   PRON       PRP        he
+8     mente                VERB       VBD        mean
+9     that                 PRON       DT         that
+10    off                  ADP        IN         of
+11    the                  DET        DT         the
+12    Pope                 NOUN       NN         pope                   # ? PROPN NNP pope
+13    ouer                 ADP        IN         over
+14    all                  DET        DT         all
+15    churches             NOUN       NNS        church
+16    :                    PUNCT      :          :
+17    althowgh             SCONJ      IN         although
+18    the                  DET        DT         the
+19    diſputation          NOUN       NN         disputation
+20    be                   AUX        VB         be
+21    directed             VERB       VBN        direct
+22    againſte             ADP        IN         against
+23    the                  DET        DT         the
+24    Pope                 NOUN       NN         pope                   # ? PROPN NNP pope
+25    :                    PUNCT      :          :
+26    yet                  ADV        RB         yet                    # ? CCONJ CC yet | note: yet resuming the main clause after a concessive clause: RB
+27    his                  PRON       PRP$       his
+28    reaſons              NOUN       NNS        reason
+29    are                  AUX        VBP        be
+30    generall             ADJ        JJ         general
+31    /                    PUNCT      :          /                      # ? PUNCT , /
+32    and                  CCONJ      CC         and
+33    proue                VERB       VBP        prove
+34    that                 SCONJ      IN         that
+35    no                   DET        DT         no
+36    man                  NOUN       NN         man
+37    maie                 AUX        MD         may
+38    vſurpe               VERB       VB         usurp
+39    that                 DET        DT         that
+40    tytle                NOUN       NN         title
+41    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 223 (1500-1600)
+================================================================================
+TEXT: But vpon this condictō / quantum permiserit humana fragilitas / yt is to saye / I vowe chastite as farre as mans fraylte will suffer me / and no farther do I vowe.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     But                  CCONJ      CC         but
+1     vpon                 ADP        IN         upon
+2     this                 DET        DT         this
+3     condictō             NOUN       NN         condition
+4     /                    PUNCT      :          /                      # ? PUNCT , /
+5     quantum              X          FW         quantum
+6     permiserit           X          FW         permiserit
+7     humana               X          FW         humana
+8     fragilitas           X          FW         fragilitas
+9     /                    PUNCT      :          /                      # ? PUNCT , /
+10    yt                   PRON       DT         that                   # ? PRON PRP it | note: yt = that in the formula that is to say
+11    is                   AUX        VBZ        be                     # ? VERB VBZ be
+12    to                   PART       TO         to
+13    saye                 VERB       VB         say
+14    /                    PUNCT      :          /                      # ? PUNCT , /
+15    I                    PRON       PRP        I
+16    vowe                 VERB       VBP        vow
+17    chastite             NOUN       NN         chastity
+18    as                   ADV        RB         as
+19    farre                ADV        RB         far
+20    as                   SCONJ      IN         as
+21    mans                 NOUN       NN         man
+22    fraylte              NOUN       NN         frailty
+23    will                 AUX        MD         will
+24    suffer               VERB       VB         suffer
+25    me                   PRON       PRP        I
+26    /                    PUNCT      :          /                      # ? PUNCT , /
+27    and                  CCONJ      CC         and
+28    no                   ADV        RB         no                     # ? DET DT no
+29    farther              ADV        RBR        far                    # ? ADV RB far
+30    do                   AUX        VBP        do
+31    I                    PRON       PRP        I
+32    vowe                 VERB       VB         vow
+33    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 224 (1500-1600)
+================================================================================
+TEXT: E To take hys leaue of the belles wt three peales / accordyng to my Lorde of Canterburies laſte peruertiſements.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     E                    PROPN      NNP        E                      # ? INTJ UH eh | NOUN NN e | X FW e | note: enumeration letter (list item marker); no LS tag in tagset, treated like letter labels A. B. C.
+1     To                   PART       TO         to
+2     take                 VERB       VB         take
+3     hys                  PRON       PRP$       his
+4     leaue                NOUN       NN         leave
+5     of                   ADP        IN         of
+6     the                  DET        DT         the
+7     belles               NOUN       NNS        bell
+8     wt                   ADP        IN         with
+9     three                NUM        CD         three
+10    peales               NOUN       NNS        peal
+11    /                    PUNCT      :          /                      # ? PUNCT , /
+12    accordyng            VERB       VBG        accord                 # ? ADP IN according
+13    to                   ADP        IN         to
+14    my                   PRON       PRP$       my
+15    Lorde                NOUN       NN         lord                   # ? PROPN NNP lord | note: my Lord of Canterbury: title + of + place, no personal name: NN
+16    of                   ADP        IN         of
+17    Canterburies         PROPN      NNP        Canterbury
+18    laſte                ADJ        JJ         last
+19    peruertiſements      NOUN       NNS        pervertisement         # ? NOUN NNS perverting
+20    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 225 (1600-1700)
+================================================================================
+TEXT: A regular may be a Bishop ergo a Bishops ſtate is perfecter: but is not a good argument: an Inferiour Paſtour may be a Religious man, ergo a Religious man hath a perfecter ſtate; but only ergo a Religious man hath a more ſecure ſtate.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     A                    DET        DT         a
+1     regular              NOUN       NN         regular
+2     may                  AUX        MD         may
+3     be                   AUX        VB         be
+4     a                    DET        DT         a
+5     Bishop               NOUN       NN         bishop
+6     ergo                 ADV        RB         ergo                   # ? X FW ergo | note: naturalised Latin ergo (= therefore) treated as English adverb, like viz
+7     a                    DET        DT         a
+8     Bishops              NOUN       NN         bishop                 # ? NOUN NNS bishop | note: possessive without apostrophe; singular noun
+9     ſtate                NOUN       NN         state
+10    is                   AUX        VBZ        be
+11    perfecter            ADJ        JJR        perfect
+12    :                    PUNCT      :          :
+13    but                  CCONJ      CC         but
+14    is                   AUX        VBZ        be
+15    not                  PART       RB         not
+16    a                    DET        DT         a
+17    good                 ADJ        JJ         good
+18    argument             NOUN       NN         argument
+19    :                    PUNCT      :          :
+20    an                   DET        DT         a
+21    Inferiour            ADJ        JJ         inferior
+22    Paſtour              NOUN       NN         pastor
+23    may                  AUX        MD         may
+24    be                   AUX        VB         be
+25    a                    DET        DT         a
+26    Religious            ADJ        JJ         religious
+27    man                  NOUN       NN         man
+28    ,                    PUNCT      ,          ,
+29    ergo                 ADV        RB         ergo                   # ? X FW ergo | note: naturalised Latin ergo (= therefore) treated as English adverb, like viz
+30    a                    DET        DT         a
+31    Religious            ADJ        JJ         religious
+32    man                  NOUN       NN         man
+33    hath                 VERB       VBZ        have
+34    a                    DET        DT         a
+35    perfecter            ADJ        JJR        perfect
+36    ſtate                NOUN       NN         state
+37    ;                    PUNCT      :          ;
+38    but                  CCONJ      CC         but
+39    only                 ADV        RB         only
+40    ergo                 ADV        RB         ergo                   # ? X FW ergo | note: naturalised Latin ergo (= therefore) treated as English adverb, like viz
+41    a                    DET        DT         a
+42    Religious            ADJ        JJ         religious
+43    man                  NOUN       NN         man
+44    hath                 VERB       VBZ        have
+45    a                    DET        DT         a
+46    more                 ADV        RBR        more
+47    ſecure               ADJ        JJ         secure
+48    ſtate                NOUN       NN         state
+49    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 226 (1500-1600)
+================================================================================
+TEXT: Alas quod the Papistes and well awaie, He was buried in the night, not in the daie, Where were the Papistes that hower?
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     Alas                 INTJ       UH         alas
+1     quod                 VERB       VBD        quoth
+2     the                  DET        DT         the
+3     Papistes             NOUN       NNS        papist                 # ? PROPN NNPS papist
+4     and                  CCONJ      CC         and
+5     well                 INTJ       UH         well                   # ? ADV RB well | note: well awaie = wellaway (interjection); both parts UH
+6     awaie                INTJ       UH         away                   # ? ADV RB away | note: well awaie = wellaway (interjection); both parts UH
+7     ,                    PUNCT      ,          ,
+8     He                   PRON       PRP        he
+9     was                  AUX        VBD        be
+10    buried               VERB       VBN        bury
+11    in                   ADP        IN         in
+12    the                  DET        DT         the
+13    night                NOUN       NN         night
+14    ,                    PUNCT      ,          ,
+15    not                  PART       RB         not
+16    in                   ADP        IN         in
+17    the                  DET        DT         the
+18    daie                 NOUN       NN         day
+19    ,                    PUNCT      ,          ,
+20    Where                ADV        WRB        where
+21    were                 AUX        VBD        be
+22    the                  DET        DT         the
+23    Papistes             NOUN       NNS        papist                 # ? PROPN NNPS papist
+24    that                 DET        DT         that
+25    hower                NOUN       NN         hour
+26    ?                    PUNCT      .          ?
+
+================================================================================
+SENTENCE 227 (1500-1600)
+================================================================================
+TEXT: Destroy this temple quod he, and within dayes thrée I shal build it againe, and Iohn saith verely, He meaned of his body the temple omnipotent, Thus to the Iewes parables he spake in obscuritie, But to his disciples he shewed the truth indigent.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     Destroy              VERB       VB         destroy
+1     this                 DET        DT         this
+2     temple               NOUN       NN         temple
+3     quod                 VERB       VBD        quoth
+4     he                   PRON       PRP        he
+5     ,                    PUNCT      ,          ,
+6     and                  CCONJ      CC         and
+7     within               ADP        IN         within
+8     dayes                NOUN       NNS        day
+9     thrée                NUM        CD         three
+10    I                    PRON       PRP        I
+11    shal                 AUX        MD         shall
+12    build                VERB       VB         build
+13    it                   PRON       PRP        it
+14    againe               ADV        RB         again
+15    ,                    PUNCT      ,          ,
+16    and                  CCONJ      CC         and
+17    Iohn                 PROPN      NNP        John
+18    saith                VERB       VBZ        say
+19    verely               ADV        RB         verily
+20    ,                    PUNCT      ,          ,
+21    He                   PRON       PRP        he
+22    meaned               VERB       VBD        mean
+23    of                   ADP        IN         of
+24    his                  PRON       PRP$       his
+25    body                 NOUN       NN         body
+26    the                  DET        DT         the
+27    temple               NOUN       NN         temple
+28    omnipotent           ADJ        JJ         omnipotent
+29    ,                    PUNCT      ,          ,
+30    Thus                 ADV        RB         thus
+31    to                   ADP        IN         to
+32    the                  DET        DT         the
+33    Iewes                PROPN      NNPS       Jew
+34    parables             NOUN       NNS        parable
+35    he                   PRON       PRP        he
+36    spake                VERB       VBD        speak
+37    in                   ADP        IN         in
+38    obscuritie           NOUN       NN         obscurity
+39    ,                    PUNCT      ,          ,
+40    But                  CCONJ      CC         but
+41    to                   ADP        IN         to
+42    his                  PRON       PRP$       his
+43    disciples            NOUN       NNS        disciple
+44    he                   PRON       PRP        he
+45    shewed               VERB       VBD        show
+46    the                  DET        DT         the
+47    truth                NOUN       NN         truth
+48    indigent             ADJ        JJ         indigent
+49    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 228 (1500-1600)
+================================================================================
+TEXT: The churle felt his hert atwayne For very ſorow, and a ſonder ryue Alas quod he, I may well wepe and playne As a wretch neuer lyke to thryue But to mourne in pouertye all my lyue For of foly, and of wylfulneſſe I haue loſt hoyly all my rycheſſe.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     The                  DET        DT         the
+1     churle               NOUN       NN         churl
+2     felt                 VERB       VBD        feel
+3     his                  PRON       PRP$       his
+4     hert                 NOUN       NN         heart
+5     atwayne              ADV        RB         atwain
+6     For                  ADP        IN         for
+7     very                 ADJ        JJ         very
+8     ſorow                NOUN       NN         sorrow
+9     ,                    PUNCT      ,          ,
+10    and                  CCONJ      CC         and
+11    a                    ADV        RB         asunder                # ? ADP IN a | DET DT a | note: a ſonder = asunder split by a space; both pieces get the labels of the whole word
+12    ſonder               ADV        RB         asunder                # ? ADV RB sunder | note: a ſonder = asunder split by a space; both pieces get the labels of the whole word
+13    ryue                 VERB       VB         rive
+14    Alas                 INTJ       UH         alas
+15    quod                 VERB       VBD        quoth
+16    he                   PRON       PRP        he
+17    ,                    PUNCT      ,          ,
+18    I                    PRON       PRP        I
+19    may                  AUX        MD         may
+20    well                 ADV        RB         well
+21    wepe                 VERB       VB         weep
+22    and                  CCONJ      CC         and
+23    playne               VERB       VB         plain
+24    As                   ADP        IN         as
+25    a                    DET        DT         a
+26    wretch               NOUN       NN         wretch
+27    neuer                ADV        RB         never
+28    lyke                 ADJ        JJ         like
+29    to                   PART       TO         to
+30    thryue               VERB       VB         thrive
+31    But                  CCONJ      CC         but                    # ? ADP IN but | ADV RB but | note: never like to thrive but to mourn: contrastive not-X-but-Y
+32    to                   PART       TO         to
+33    mourne               VERB       VB         mourn
+34    in                   ADP        IN         in
+35    pouertye             NOUN       NN         poverty
+36    all                  DET        PDT        all
+37    my                   PRON       PRP$       my
+38    lyue                 NOUN       NN         life
+39    For                  SCONJ      IN         for                    # ? ADP IN for
+40    of                   ADP        IN         of
+41    foly                 NOUN       NN         folly
+42    ,                    PUNCT      ,          ,
+43    and                  CCONJ      CC         and
+44    of                   ADP        IN         of
+45    wylfulneſſe          NOUN       NN         wilfulness
+46    I                    PRON       PRP        I
+47    haue                 AUX        VBP        have
+48    loſt                 VERB       VBN        lose
+49    hoyly                ADV        RB         wholly
+50    all                  DET        PDT        all
+51    my                   PRON       PRP$       my
+52    rycheſſe             NOUN       NN         richesse               # ? NOUN NN riches | note: archaic richesse (OED headword), singular; not riches
+53    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 229 (1500-1600)
+================================================================================
+TEXT: I charge yt of my blessing, apeare before me now Oh oh quod he, kepe agayne the sowe, I come as faste as I can, I warrant you, Where is he that hath the sowe to sell?
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     I                    PRON       PRP        I
+1     charge               VERB       VBP        charge
+2     yt                   SCONJ      IN         that                   # ? PRON DT that | PRON PRP thee | PRON PRP thou | note: yt read as that per guidelines (complementizer); sense could be thee
+3     of                   ADP        IN         of
+4     my                   PRON       PRP$       my
+5     blessing             NOUN       NN         blessing
+6     ,                    PUNCT      ,          ,
+7     apeare               VERB       VB         appear
+8     before               ADP        IN         before
+9     me                   PRON       PRP        I
+10    now                  ADV        RB         now
+11    Oh                   INTJ       UH         oh
+12    oh                   INTJ       UH         oh
+13    quod                 VERB       VBD        quoth
+14    he                   PRON       PRP        he
+15    ,                    PUNCT      ,          ,
+16    kepe                 VERB       VB         keep
+17    agayne               ADV        RB         again
+18    the                  DET        DT         the
+19    sowe                 NOUN       NN         sow
+20    ,                    PUNCT      ,          ,
+21    I                    PRON       PRP        I
+22    come                 VERB       VBP        come
+23    as                   ADV        RB         as
+24    faste                ADV        RB         fast
+25    as                   SCONJ      IN         as
+26    I                    PRON       PRP        I
+27    can                  AUX        MD         can
+28    ,                    PUNCT      ,          ,
+29    I                    PRON       PRP        I
+30    warrant              VERB       VBP        warrant
+31    you                  PRON       PRP        you
+32    ,                    PUNCT      ,          ,
+33    Where                ADV        WRB        where
+34    is                   AUX        VBZ        be                     # ? VERB VBZ be
+35    he                   PRON       PRP        he
+36    that                 PRON       WDT        that
+37    hath                 VERB       VBZ        have
+38    the                  DET        DT         the
+39    sowe                 NOUN       NN         sow
+40    to                   PART       TO         to
+41    sell                 VERB       VB         sell
+42    ?                    PUNCT      .          ?
+
+================================================================================
+SENTENCE 230 (1700-1800)
+================================================================================
+TEXT: Thus both by ſhewing what thoſe diſpoſitions are which lead to common Swearing, and by conſidering the excuſes that are uſually framed in the behalf of it, I have diſcovered the Immorality thereof, and that it cometh of evil.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     Thus                 ADV        RB         thus
+1     both                 CCONJ      CC         both
+2     by                   SCONJ      IN         by                     # ! runs: ADP IN by
+3     ſhewing              VERB       VBG        show
+4     what                 PRON       WP         what                   # ? DET WDT what
+5     thoſe                DET        DT         that                   # ? DET DT those | note: demonstrative those lemmatized to that (as UD EWT)
+6     diſpoſitions         NOUN       NNS        disposition
+7     are                  AUX        VBP        be
+8     which                PRON       WDT        which
+9     lead                 VERB       VBP        lead
+10    to                   ADP        IN         to
+11    common               ADJ        JJ         common
+12    Swearing             NOUN       NN         swearing
+13    ,                    PUNCT      ,          ,
+14    and                  CCONJ      CC         and
+15    by                   SCONJ      IN         by                     # ! runs: ADP IN by
+16    conſidering          VERB       VBG        consider
+17    the                  DET        DT         the
+18    excuſes              NOUN       NNS        excuse
+19    that                 PRON       WDT        that
+20    are                  AUX        VBP        be
+21    uſually              ADV        RB         usually
+22    framed               VERB       VBN        frame
+23    in                   ADP        IN         in
+24    the                  DET        DT         the
+25    behalf               NOUN       NN         behalf
+26    of                   ADP        IN         of
+27    it                   PRON       PRP        it
+28    ,                    PUNCT      ,          ,
+29    I                    PRON       PRP        I
+30    have                 AUX        VBP        have
+31    diſcovered           VERB       VBN        discover
+32    the                  DET        DT         the
+33    Immorality           NOUN       NN         immorality
+34    thereof              ADV        RB         thereof
+35    ,                    PUNCT      ,          ,
+36    and                  CCONJ      CC         and
+37    that                 SCONJ      IN         that
+38    it                   PRON       PRP        it
+39    cometh               VERB       VBZ        come
+40    of                   ADP        IN         of
+41    evil                 NOUN       NN         evil
+42    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 231 (1700-1800)
+================================================================================
+TEXT: Even ſo the things of God knoweth no Man but the Spirit of God, 1 Cor. 2. 10.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     Even                 ADV        RB         even
+1     ſo                   ADV        RB         so
+2     the                  DET        DT         the
+3     things               NOUN       NNS        thing
+4     of                   ADP        IN         of
+5     God                  PROPN      NNP        God
+6     knoweth              VERB       VBZ        know
+7     no                   DET        DT         no
+8     Man                  NOUN       NN         man
+9     but                  ADP        IN         but
+10    the                  DET        DT         the
+11    Spirit               NOUN       NN         spirit                 # ? PROPN NNP spirit
+12    of                   ADP        IN         of
+13    God                  PROPN      NNP        God
+14    ,                    PUNCT      ,          ,
+15    1                    NUM        CD         1
+16    Cor                  PROPN      NNP        Cor                    # ? PROPN NNP cor.
+17    .                    PUNCT      .          .                      # ? PUNCT NFP . | note: abbreviation period split off Cor; tagged . like every period
+18    2                    NUM        CD         2
+19    .                    PUNCT      .          .                      # ? PUNCT NFP . | note: chapter-verse separator; tagged . like every period
+20    10                   NUM        CD         10
+21    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 232 (1700-1800)
+================================================================================
+TEXT: For may not God, do with his own what he pleaſeth, and give to every one (more) or leſs, as he pleaſeth.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     For                  SCONJ      IN         for                    # ? CCONJ CC for
+1     may                  AUX        MD         may
+2     not                  PART       RB         not
+3     God                  PROPN      NNP        God
+4     ,                    PUNCT      ,          ,
+5     do                   VERB       VB         do
+6     with                 ADP        IN         with
+7     his                  PRON       PRP$       his
+8     own                  ADJ        JJ         own                    # ? NOUN NN own
+9     what                 PRON       WP         what
+10    he                   PRON       PRP        he
+11    pleaſeth             VERB       VBZ        please
+12    ,                    PUNCT      ,          ,
+13    and                  CCONJ      CC         and
+14    give                 VERB       VB         give
+15    to                   ADP        IN         to
+16    every                DET        DT         every
+17    one                  NOUN       NN         one                    # ? PRON NN one
+18    (                    PUNCT      -LRB-      (
+19    more                 ADJ        JJR        more                   # ? ADJ JJR much
+20    )                    PUNCT      -RRB-      )
+21    or                   CCONJ      CC         or
+22    leſs                 ADJ        JJR        less                   # ? ADJ JJR little
+23    ,                    PUNCT      ,          ,
+24    as                   SCONJ      IN         as
+25    he                   PRON       PRP        he
+26    pleaſeth             VERB       VBZ        please
+27    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 233 (1800-1900)
+================================================================================
+TEXT: No six months gane, a drucken deevil, You led the ball in waste and revel; Were staggerin' on destruction's brink, Selling your very duds for drink.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     No                   PART       RB         not                    # ? ADV RB no | DET DT no | note: Scots no = not ('no six months gane' = not six months ago)
+1     six                  NUM        CD         six
+2     months               NOUN       NNS        month
+3     gane                 VERB       VBN        go                     # ? ADJ JJ gone | ADV RB gone | note: Scots gane = gone; absolute participle 'six months gone' (= ago); lemma go
+4     ,                    PUNCT      ,          ,
+5     a                    DET        DT         a
+6     drucken              ADJ        JJ         drunken                # note: Scots drucken = drunken
+7     deevil               NOUN       NN         devil                  # note: Scots deevil = devil
+8     ,                    PUNCT      ,          ,
+9     You                  PRON       PRP        you
+10    led                  VERB       VBD        lead
+11    the                  DET        DT         the
+12    ball                 NOUN       NN         ball
+13    in                   ADP        IN         in
+14    waste                NOUN       NN         waste
+15    and                  CCONJ      CC         and
+16    revel                NOUN       NN         revel
+17    ;                    PUNCT      :          ;
+18    Were                 AUX        VBD        be
+19    staggerin            VERB       VBG        stagger                # note: dropped g: staggerin' = staggering
+20    '                    PUNCT      NFP        '                      # ? PUNCT '' ' | note: apostrophe of dropped g (staggerin'), not a quotation mark: NFP
+21    on                   ADP        IN         on
+22    destruction          NOUN       NN         destruction
+23    's                   PART       POS        's
+24    brink                NOUN       NN         brink
+25    ,                    PUNCT      ,          ,
+26    Selling              VERB       VBG        sell
+27    your                 PRON       PRP$       your
+28    very                 ADJ        JJ         very
+29    duds                 NOUN       NNS        duds                   # ? NOUN NNS dud | note: plurale tantum duds = clothes; singular dud is another word
+30    for                  ADP        IN         for
+31    drink                NOUN       NN         drink
+32    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 234 (1900-2000)
+================================================================================
+TEXT: When the zun beyond the Beacon be a-zettin’ And everything’s as quiet as can be, By the gate to varmur’s meddy, That old gate zo vurm and zteddy, You be pretty zure uv vindin’ Jim and me.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     When                 ADV        WRB        when
+1     the                  DET        DT         the
+2     zun                  NOUN       NN         sun                    # note: West Country z for s: zun = sun
+3     beyond               ADP        IN         beyond
+4     the                  DET        DT         the
+5     Beacon               PROPN      NNP        Beacon
+6     be                   AUX        VBP        be                     # ? AUX VB be | note: West Country finite 'be' = is (3sg subject); tagged VBP as finite present like 'they be', not VB subjunctive
+7     a                    ADP        IN         a                      # ? ADV RB a | note: a- prefix before participle (a-zettin') = IN ADP, lemma a
+8     -                    PUNCT      HYPH       -
+9     zettin               VERB       VBG        set                    # note: West Country zettin' = setting
+10    ’                    PUNCT      NFP        ’                      # ? PUNCT '' ' | PUNCT '' ’ | note: detached elision apostrophe (dropped g), not a closing quote
+11    And                  CCONJ      CC         and
+12    everything           PRON       NN         everything
+13    ’s                   AUX        VBZ        be
+14    as                   ADV        RB         as
+15    quiet                ADJ        JJ         quiet
+16    as                   SCONJ      IN         as
+17    can                  AUX        MD         can
+18    be                   AUX        VB         be
+19    ,                    PUNCT      ,          ,
+20    By                   ADP        IN         by
+21    the                  DET        DT         the
+22    gate                 NOUN       NN         gate
+23    to                   ADP        IN         to
+24    varmur               NOUN       NN         farmer                 # note: West Country varmur = farmer
+25    ’s                   PART       POS        's
+26    meddy                NOUN       NN         meadow                 # note: dialect meddy = meadow
+27    ,                    PUNCT      ,          ,
+28    That                 DET        DT         that
+29    old                  ADJ        JJ         old
+30    gate                 NOUN       NN         gate
+31    zo                   ADV        RB         so                     # note: West Country zo = so
+32    vurm                 ADJ        JJ         firm                   # note: West Country vurm = firm
+33    and                  CCONJ      CC         and
+34    zteddy               ADJ        JJ         steady                 # note: West Country zteddy = steady
+35    ,                    PUNCT      ,          ,
+36    You                  PRON       PRP        you
+37    be                   AUX        VBP        be                     # note: West Country 'you be' = you are (copula)
+38    pretty               ADV        RB         pretty
+39    zure                 ADJ        JJ         sure                   # note: West Country zure = sure
+40    uv                   SCONJ      IN         of                     # ! runs: ADP IN of
+41    vindin               VERB       VBG        find                   # note: West Country vindin' = finding
+42    ’                    PUNCT      NFP        ’                      # ? PUNCT '' ' | PUNCT '' ’ | note: detached elision apostrophe (dropped g), not a closing quote
+43    Jim                  PROPN      NNP        Jim
+44    and                  CCONJ      CC         and
+45    me                   PRON       PRP        I
+46    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 235 (1900-2000)
+================================================================================
+TEXT: Weel I know I san’t win t’ vict’ry: son’s agean me, dowters, wife; Yit I’ll hold my ground bout flinchin’, feight so long as I have life.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     Weel                 ADV        RB         well                   # note: Yorkshire weel = well
+1     I                    PRON       PRP        I
+2     know                 VERB       VBP        know
+3     I                    PRON       PRP        I
+4     san’t                AUX        MD         shall                  # note: Yorkshire san't = shan't; fused modal+not takes the modal's labels
+5     win                  VERB       VB         win
+6     t’                   DET        DT         the                    # ? ADP IN to | note: Yorkshire definite article t' = the (not to)
+7     vict’ry              NOUN       NN         victory                # note: vict'ry = victory
+8     :                    PUNCT      :          :
+9     son                  NOUN       NN         son
+10    ’s                   AUX        VBZ        be
+11    agean                ADP        IN         against                # note: Yorkshire agean = against
+12    me                   PRON       PRP        I
+13    ,                    PUNCT      ,          ,
+14    dowters              NOUN       NNS        daughter               # note: dowters = daughters
+15    ,                    PUNCT      ,          ,
+16    wife                 NOUN       NN         wife
+17    ;                    PUNCT      :          ;
+18    Yit                  CCONJ      CC         yet                    # ? ADV RB yet | note: dialect yit = yet (coordinating, 'but')
+19    I                    PRON       PRP        I
+20    ’ll                  AUX        MD         will
+21    hold                 VERB       VB         hold
+22    my                   PRON       PRP$       my
+23    ground               NOUN       NN         ground
+24    bout                 SCONJ      IN         without                # ? ADP IN bout | ADP IN without
+25    flinchin             VERB       VBG        flinch                 # ? NOUN NN flinching | note: flinchin' = flinching; gerund without determiner
+26    ’                    PUNCT      NFP        ’                      # ? PUNCT '' ' | PUNCT '' ’ | note: detached elision apostrophe (dropped g), not a closing quote
+27    ,                    PUNCT      ,          ,
+28    feight               VERB       VB         fight                  # note: dialect feight = fight
+29    so                   ADV        RB         so
+30    long                 ADV        RB         long
+31    as                   SCONJ      IN         as
+32    I                    PRON       PRP        I
+33    have                 VERB       VBP        have
+34    life                 NOUN       NN         life
+35    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 236 (1900-2000)
+================================================================================
+TEXT: I told you before that Don's no fool, but 'e ain't such a bloomin' conjurer as all that.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     I                    PRON       PRP        I
+1     told                 VERB       VBD        tell
+2     you                  PRON       PRP        you
+3     before               ADV        RB         before
+4     that                 SCONJ      IN         that
+5     Don                  PROPN      NNP        Don
+6     's                   AUX        VBZ        be
+7     no                   DET        DT         no
+8     fool                 NOUN       NN         fool
+9     ,                    PUNCT      ,          ,
+10    but                  CCONJ      CC         but
+11    '                    PUNCT      NFP        '                      # ? PUNCT `` ' | note: elision apostrophe of dropped h in 'e, not an opening quote
+12    e                    PRON       PRP        he                     # note: Cockney 'e = he
+13    ai                   AUX        VBZ        be                     # ? AUX VBP be | note: ain't = isn't with 3sg subject 'e -> VBZ
+14    n't                  PART       RB         not
+15    such                 DET        PDT        such
+16    a                    DET        DT         a
+17    bloomin              ADJ        JJ         blooming               # note: bloomin' = blooming (intensifier adjective)
+18    '                    PUNCT      NFP        '                      # ? PUNCT '' ' | note: detached elision apostrophe (dropped g), not a closing quote
+19    conjurer             NOUN       NN         conjurer
+20    as                   ADP        IN         as
+21    all                  DET        PDT        all                    # ? ADV RB all | PRON DT all | note: 'all that' (pronoun that): all as predeterminer before demonstrative
+22    that                 PRON       DT         that                   # ? DET DT that
+23    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 237 (1900-2000)
+================================================================================
+TEXT: "I reckon Black Davis was some scared he'd lose his job if Jack downs him, same as that other fire-eatin' miscreant," mused Broncho.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     "                    PUNCT      ``         "
+1     I                    PRON       PRP        I
+2     reckon               VERB       VBP        reckon
+3     Black                PROPN      NNP        Black
+4     Davis                PROPN      NNP        Davis
+5     was                  AUX        VBD        be
+6     some                 ADV        RB         some
+7     scared               ADJ        JJ         scared
+8     he                   PRON       PRP        he
+9     'd                   AUX        MD         would
+10    lose                 VERB       VB         lose
+11    his                  PRON       PRP$       his
+12    job                  NOUN       NN         job
+13    if                   SCONJ      IN         if
+14    Jack                 PROPN      NNP        Jack
+15    downs                VERB       VBZ        down
+16    him                  PRON       PRP        he
+17    ,                    PUNCT      ,          ,
+18    same                 ADJ        JJ         same
+19    as                   ADP        IN         as                     # ? SCONJ IN as
+20    that                 DET        DT         that
+21    other                ADJ        JJ         other
+22    fire                 NOUN       NN         fire
+23    -                    PUNCT      HYPH       -
+24    eatin                VERB       VBG        eat                    # note: fire-eatin' = fire-eating; participle with incorporated object stays verbal
+25    '                    PUNCT      NFP        '                      # ? PUNCT '' ' | note: detached elision apostrophe (dropped g), not a closing quote
+26    miscreant            NOUN       NN         miscreant
+27    ,                    PUNCT      ,          ,
+28    "                    PUNCT      ''         "
+29    mused                VERB       VBD        muse
+30    Broncho              PROPN      NNP        Broncho
+31    .                    PUNCT      .          .
+
+================================================================================
+SENTENCE 238 (1900-2000)
+================================================================================
+TEXT: "'Where are you goin', Neddy?' says he, the same as if he got a terrible surprise.
+
+IDX   TOKEN                POS        TAG        LEMMA
+----- -------------------- ---------- ---------- --------------------
+0     "                    PUNCT      ``         "
+1     '                    PUNCT      ``         '
+2     Where                ADV        WRB        where
+3     are                  AUX        VBP        be
+4     you                  PRON       PRP        you
+5     goin'                VERB       VBG        go
+6     ,                    PUNCT      ,          ,
+7     Neddy                PROPN      NNP        Neddy
+8     ?                    PUNCT      .          ?
+9     '                    PUNCT      ''         '
+10    says                 VERB       VBZ        say
+11    he                   PRON       PRP        he
+12    ,                    PUNCT      ,          ,
+13    the                  DET        DT         the
+14    same                 ADJ        JJ         same
+15    as                   SCONJ      IN         as                     # ? ADP IN as
+16    if                   SCONJ      IN         if
+17    he                   PRON       PRP        he
+18    got                  VERB       VBD        get
+19    a                    DET        DT         a
+20    terrible             ADJ        JJ         terrible
+21    surprise             NOUN       NN         surprise
+22    .                    PUNCT      .          .
+

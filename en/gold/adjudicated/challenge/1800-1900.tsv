@@ -1,0 +1,34 @@
+# sentence 233
+No	PART	RB	not	Scots no = not ('no six months gane' = not six months ago)
+six	NUM	CD	six
+months	NOUN	NNS	month
+gane	VERB	VBN	go	Scots gane = gone; absolute participle 'six months gone' (= ago); lemma go
+,	PUNCT	,	,
+a	DET	DT	a
+drucken	ADJ	JJ	drunken	Scots drucken = drunken
+deevil	NOUN	NN	devil	Scots deevil = devil
+,	PUNCT	,	,
+You	PRON	PRP	you
+led	VERB	VBD	lead
+the	DET	DT	the
+ball	NOUN	NN	ball
+in	ADP	IN	in
+waste	NOUN	NN	waste
+and	CCONJ	CC	and
+revel	NOUN	NN	revel
+;	PUNCT	:	;
+Were	AUX	VBD	be
+staggerin	VERB	VBG	stagger	dropped g: staggerin' = staggering
+'	PUNCT	NFP	'	apostrophe of dropped g (staggerin'), not a quotation mark: NFP
+on	ADP	IN	on
+destruction	NOUN	NN	destruction
+'s	PART	POS	's
+brink	NOUN	NN	brink
+,	PUNCT	,	,
+Selling	VERB	VBG	sell
+your	PRON	PRP$	your
+very	ADJ	JJ	very
+duds	NOUN	NNS	duds	plurale tantum duds = clothes; singular dud is another word
+for	ADP	IN	for
+drink	NOUN	NN	drink
+.	PUNCT	.	.

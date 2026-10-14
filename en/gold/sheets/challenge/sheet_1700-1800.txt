@@ -1,0 +1,430 @@
+# sentence 200
+# text: With Equal Justice and Historic Care Their Laws, their Toils, their Arms with His compare; Confess the various Attributes of Fame Collected and Compleat in WILLIAM's Name; To all the list'ning World relate, As thou dost his Story read, That nothing went before so Great, And nothing Greater can succeed.
+0	With	ADP IN with
+1	Equal	ADJ JJ equal
+2	Justice	NOUN NN justice
+3	and	CCONJ CC and
+4	Historic	ADJ JJ historic
+5	Care	NOUN NN care
+6	Their	PRON PRP$ their
+7	Laws	NOUN NNS law
+8	,	PUNCT , ,
+9	their	PRON PRP$ their
+10	Toils	NOUN NNS toil
+11	,	PUNCT , ,
+12	their	PRON PRP$ their
+13	Arms	NOUN NNS arm
+14	with	ADP IN with
+15	His	PRON PRP$ his [A,C] | PRON PRP his [B,D]  <-- differ
+16	compare	VERB VB compare
+17	;	PUNCT : ;
+18	Confess	VERB VB confess
+19	the	DET DT the
+20	various	ADJ JJ various
+21	Attributes	NOUN NNS attribute
+22	of	ADP IN of
+23	Fame	NOUN NN fame
+24	Collected	VERB VBN collect
+25	and	CCONJ CC and
+26	Compleat	ADJ JJ complete
+27	in	ADP IN in
+28	WILLIAM	PROPN NNP William
+29	's	PART POS 's
+30	Name	NOUN NN name
+31	;	PUNCT : ;
+32	To	ADP IN to [A,B,C] | PART TO to [D]  <-- differ
+33	all	DET PDT all [A,B,C] | DET DT all [D]  <-- differ
+34	the	DET DT the
+35	list'ning	VERB VBG listen [A,C] | ADJ JJ listening [B,D]  <-- differ
+36	World	NOUN NN world
+37	relate	VERB VB relate
+38	,	PUNCT , ,
+39	As	SCONJ IN as [A,B,C] | ADP IN as [D]  <-- differ
+40	thou	PRON PRP thou
+41	dost	AUX VBP do
+42	his	PRON PRP$ his
+43	Story	NOUN NN story
+44	read	VERB VB read
+45	,	PUNCT , ,
+46	That	SCONJ IN that
+47	nothing	PRON NN nothing
+48	went	VERB VBD go
+49	before	ADV RB before
+50	so	ADV RB so
+51	Great	ADJ JJ great
+52	,	PUNCT , ,
+53	And	CCONJ CC and
+54	nothing	PRON NN nothing
+55	Greater	ADJ JJR great
+56	can	AUX MD can
+57	succeed	VERB VB succeed
+58	.	PUNCT . .
+
+# sentence 203
+# text: Oh, Anthony! thou hast touch'd his Heart, and put me upon a meritorious Action—I must have regard to his poor Soul—Well, young Man, since I find thou art become the Care of Heav'n, I think thee worthy my Regard.
+0	Oh	INTJ UH oh
+1	,	PUNCT , ,
+2	Anthony	PROPN NNP Anthony
+3	!	PUNCT . !
+4	thou	PRON PRP thou
+5	hast	AUX VBP have
+6	touch'd	VERB VBN touch
+7	his	PRON PRP$ his
+8	Heart	NOUN NN heart
+9	,	PUNCT , ,
+10	and	CCONJ CC and
+11	put	VERB VBN put
+12	me	PRON PRP I
+13	upon	ADP IN upon
+14	a	DET DT a
+15	meritorious	ADJ JJ meritorious
+16	Action	NOUN NN action
+17	—	PUNCT : —
+18	I	PRON PRP I
+19	must	AUX MD must
+20	have	VERB VB have
+21	regard	NOUN NN regard
+22	to	ADP IN to
+23	his	PRON PRP$ his
+24	poor	ADJ JJ poor
+25	Soul	NOUN NN soul
+26	—	PUNCT : —
+27	Well	INTJ UH well
+28	,	PUNCT , ,
+29	young	ADJ JJ young
+30	Man	NOUN NN man
+31	,	PUNCT , ,
+32	since	SCONJ IN since
+33	I	PRON PRP I
+34	find	VERB VBP find
+35	thou	PRON PRP thou
+36	art	AUX VBP be
+37	become	VERB VBN become
+38	the	DET DT the
+39	Care	NOUN NN care
+40	of	ADP IN of
+41	Heav'n	NOUN NN heaven [A,C,D] | PROPN NNP heaven [B]  <-- differ
+42	,	PUNCT , ,
+43	I	PRON PRP I
+44	think	VERB VBP think
+45	thee	PRON PRP thou
+46	worthy	ADJ JJ worthy
+47	my	PRON PRP$ my
+48	Regard	NOUN NN regard
+49	.	PUNCT . .
+
+# sentence 208
+# text: 'Tis true, but our dear Friend and Brother knew and loved Jeſus Chriſt and his Goſpel, and in the whole courſe of his Study, thoſe were moſt delightful to him, that led him into the Myſteries of our Redemption.
+0	'T	PRON PRP it
+1	is	AUX VBZ be
+2	true	ADJ JJ true
+3	,	PUNCT , ,
+4	but	CCONJ CC but
+5	our	PRON PRP$ our
+6	dear	ADJ JJ dear
+7	Friend	NOUN NN friend
+8	and	CCONJ CC and
+9	Brother	NOUN NN brother
+10	knew	VERB VBD know
+11	and	CCONJ CC and
+12	loved	VERB VBD love
+13	Jeſus	PROPN NNP Jesus
+14	Chriſt	PROPN NNP Christ
+15	and	CCONJ CC and
+16	his	PRON PRP$ his
+17	Goſpel	NOUN NN gospel
+18	,	PUNCT , ,
+19	and	CCONJ CC and
+20	in	ADP IN in
+21	the	DET DT the
+22	whole	ADJ JJ whole
+23	courſe	NOUN NN course
+24	of	ADP IN of
+25	his	PRON PRP$ his
+26	Study	NOUN NN study
+27	,	PUNCT , ,
+28	thoſe	PRON DT those [A,B,C] | PRON DT that [D]  <-- differ
+29	were	AUX VBD be
+30	moſt	ADV RBS most
+31	delightful	ADJ JJ delightful
+32	to	ADP IN to
+33	him	PRON PRP he
+34	,	PUNCT , ,
+35	that	PRON WDT that
+36	led	VERB VBD lead
+37	him	PRON PRP he
+38	into	ADP IN into
+39	the	DET DT the
+40	Myſteries	NOUN NNS mystery
+41	of	ADP IN of
+42	our	PRON PRP$ our
+43	Redemption	NOUN NN redemption
+44	.	PUNCT . .
+
+# sentence 209
+# text: Now 'tis a moving Argument to pity, that the case we commiserate may one day be our own; and the very reflexion on what we would then desire for our selves, must melt us into Charity toward other men.
+0	Now	ADV RB now
+1	't	PRON PRP it
+2	is	AUX VBZ be
+3	a	DET DT a
+4	moving	ADJ JJ moving
+5	Argument	NOUN NN argument
+6	to	ADP IN to [A,B] | PART TO to [C,D]  <-- differ
+7	pity	NOUN NN pity [A,B] | VERB VB pity [C,D]  <-- differ
+8	,	PUNCT , ,
+9	that	SCONJ IN that
+10	the	DET DT the
+11	case	NOUN NN case
+12	we	PRON PRP we
+13	commiserate	VERB VBP commiserate
+14	may	AUX MD may
+15	one	NUM CD one
+16	day	NOUN NN day
+17	be	AUX VB be
+18	our	PRON PRP$ our
+19	own	ADJ JJ own
+20	;	PUNCT : ;
+21	and	CCONJ CC and
+22	the	DET DT the
+23	very	ADJ JJ very
+24	reflexion	NOUN NN reflection [A,B,C] | NOUN NN reflexion [D]  <-- differ
+25	on	ADP IN on
+26	what	PRON WP what
+27	we	PRON PRP we
+28	would	AUX MD would
+29	then	ADV RB then
+30	desire	VERB VB desire
+31	for	ADP IN for
+32	our	PRON PRP$ our
+33	selves	NOUN NNS self
+34	,	PUNCT , ,
+35	must	AUX MD must
+36	melt	VERB VB melt
+37	us	PRON PRP we
+38	into	ADP IN into
+39	Charity	NOUN NN charity
+40	toward	ADP IN toward
+41	other	ADJ JJ other
+42	men	NOUN NNS man
+43	.	PUNCT . .
+
+# sentence 210
+# text: And 'tis a juſt Query, Whether thoſe Men who combine to leſſen the King's Revenue, would not do the ſame to ſhorten his Life? for taking away Life and Livelihood are very near akin.
+0	And	CCONJ CC and
+1	't	PRON PRP it
+2	is	AUX VBZ be
+3	a	DET DT a
+4	juſt	ADJ JJ just
+5	Query	NOUN NN query
+6	,	PUNCT , ,
+7	Whether	SCONJ IN whether
+8	thoſe	DET DT those [A,B,C] | DET DT that [D]  <-- differ
+9	Men	NOUN NNS man
+10	who	PRON WP who
+11	combine	VERB VBP combine
+12	to	PART TO to
+13	leſſen	VERB VB lessen
+14	the	DET DT the
+15	King	NOUN NN king
+16	's	PART POS 's
+17	Revenue	NOUN NN revenue
+18	,	PUNCT , ,
+19	would	AUX MD would
+20	not	PART RB not
+21	do	VERB VB do
+22	the	DET DT the
+23	ſame	ADJ JJ same
+24	to	PART TO to
+25	ſhorten	VERB VB shorten
+26	his	PRON PRP$ his
+27	Life	NOUN NN life
+28	?	PUNCT . ?
+29	for	SCONJ IN for
+30	taking	VERB VBG take [A,B,C] | NOUN NN taking [D]  <-- differ
+31	away	ADP RP away [A,C,D] | ADV RB away [B]  <-- differ
+32	Life	NOUN NN life
+33	and	CCONJ CC and
+34	Livelihood	NOUN NN livelihood
+35	are	AUX VBP be
+36	very	ADV RB very
+37	near	ADV RB near [A,B,C] | ADJ JJ near [D]  <-- differ
+38	akin	ADJ JJ akin
+39	.	PUNCT . .
+
+# sentence 218
+# text: That as to the Government there is nothing in my Notions, but what is approved by moſt Learned Men of all theſe Churches; and if I live not under ſuch a Government; 'tis my Unhappineſs, not my Fault.
+0	That	SCONJ IN that
+1	as	ADP IN as
+2	to	ADP IN to
+3	the	DET DT the
+4	Government	NOUN NN government
+5	there	PRON EX there
+6	is	VERB VBZ be
+7	nothing	PRON NN nothing
+8	in	ADP IN in [A,C,D] | ADP IN my [B]  <-- differ
+9	my	PRON PRP$ my
+10	Notions	NOUN NNS notion
+11	,	PUNCT , ,
+12	but	ADP IN but [A,B,C] | CCONJ CC but [D]  <-- differ
+13	what	PRON WP what
+14	is	AUX VBZ be
+15	approved	VERB VBN approve
+16	by	ADP IN by
+17	moſt	ADV RBS most [A,B] | ADJ JJS most [C,D]  <-- differ
+18	Learned	ADJ JJ learned
+19	Men	NOUN NNS man
+20	of	ADP IN of
+21	all	DET DT all [A,D] | DET PDT all [B,C]  <-- differ
+22	theſe	DET DT these [A,B] | DET DT this [C,D]  <-- differ
+23	Churches	NOUN NNS church
+24	;	PUNCT : ;
+25	and	CCONJ CC and
+26	if	SCONJ IN if
+27	I	PRON PRP I
+28	live	VERB VBP live
+29	not	PART RB not
+30	under	ADP IN under
+31	ſuch	DET PDT such [A,C] | ADJ JJ such [B,D]  <-- differ
+32	a	DET DT a
+33	Government	NOUN NN government
+34	;	PUNCT : ;
+35	't	PRON PRP it
+36	is	AUX VBZ be
+37	my	PRON PRP$ my
+38	Unhappineſs	NOUN NN unhappiness
+39	,	PUNCT , ,
+40	not	PART RB not
+41	my	PRON PRP$ my
+42	Fault	NOUN NN fault
+43	.	PUNCT . .
+
+# sentence 219
+# text: Waunds, Sir, I'll slabber no Man, an he must be an antimate Frant that I vouchsafe to gave my Hont too.
+0	Waunds	INTJ UH wounds [B,C] | INTJ UH zounds [A] | INTJ UH waunds [D]  <-- differ
+1	,	PUNCT , ,
+2	Sir	NOUN NN sir
+3	,	PUNCT , ,
+4	I	PRON PRP I
+5	'll	AUX MD will
+6	slabber	VERB VB slabber
+7	no	DET DT no
+8	Man	NOUN NN man
+9	,	PUNCT , ,
+10	an	CCONJ CC and [A,C] | SCONJ IN if [B] | SCONJ IN an [D]  <-- differ
+11	he	PRON PRP he
+12	must	AUX MD must
+13	be	AUX VB be
+14	an	DET DT a
+15	antimate	ADJ JJ intimate [A,B,C] | ADJ JJ antimate [D]  <-- differ
+16	Frant	NOUN NN friend [A,B,C] | NOUN NN frant [D]  <-- differ
+17	that	PRON WDT that
+18	I	PRON PRP I
+19	vouchsafe	VERB VBP vouchsafe
+20	to	PART TO to
+21	gave	VERB VB give
+22	my	PRON PRP$ my
+23	Hont	NOUN NN hand [A,B,C] | NOUN NN hont [D]  <-- differ
+24	too	ADP IN to [A,B,C] | ADV RB too [D]  <-- differ
+25	.	PUNCT . .
+
+# sentence 230
+# text: Thus both by ſhewing what thoſe diſpoſitions are which lead to common Swearing, and by conſidering the excuſes that are uſually framed in the behalf of it, I have diſcovered the Immorality thereof, and that it cometh of evil.
+0	Thus	ADV RB thus
+1	both	CCONJ CC both
+2	by	ADP IN by
+3	ſhewing	VERB VBG show
+4	what	PRON WP what [A,B,C] | DET WDT what [D]  <-- differ
+5	thoſe	DET DT those [A,B,C] | DET DT that [D]  <-- differ
+6	diſpoſitions	NOUN NNS disposition
+7	are	AUX VBP be
+8	which	PRON WDT which
+9	lead	VERB VBP lead
+10	to	ADP IN to
+11	common	ADJ JJ common
+12	Swearing	NOUN NN swearing
+13	,	PUNCT , ,
+14	and	CCONJ CC and
+15	by	ADP IN by
+16	conſidering	VERB VBG consider
+17	the	DET DT the
+18	excuſes	NOUN NNS excuse
+19	that	PRON WDT that
+20	are	AUX VBP be
+21	uſually	ADV RB usually
+22	framed	VERB VBN frame
+23	in	ADP IN in
+24	the	DET DT the
+25	behalf	NOUN NN behalf
+26	of	ADP IN of
+27	it	PRON PRP it
+28	,	PUNCT , ,
+29	I	PRON PRP I
+30	have	AUX VBP have
+31	diſcovered	VERB VBN discover
+32	the	DET DT the
+33	Immorality	NOUN NN immorality
+34	thereof	ADV RB thereof
+35	,	PUNCT , ,
+36	and	CCONJ CC and
+37	that	SCONJ IN that
+38	it	PRON PRP it
+39	cometh	VERB VBZ come
+40	of	ADP IN of
+41	evil	NOUN NN evil
+42	.	PUNCT . .
+
+# sentence 231
+# text: Even ſo the things of God knoweth no Man but the Spirit of God, 1 Cor. 2. 10.
+0	Even	ADV RB even
+1	ſo	ADV RB so
+2	the	DET DT the
+3	things	NOUN NNS thing
+4	of	ADP IN of
+5	God	PROPN NNP God
+6	knoweth	VERB VBZ know
+7	no	DET DT no
+8	Man	NOUN NN man
+9	but	ADP IN but
+10	the	DET DT the
+11	Spirit	NOUN NN spirit [B,C,D] | PROPN NNP Spirit [A]  <-- differ
+12	of	ADP IN of
+13	God	PROPN NNP God
+14	,	PUNCT , ,
+15	1	NUM CD 1
+16	Cor	PROPN NNP Cor [A,B,C] | PROPN NNP Cor. [D]  <-- differ
+17	.	PUNCT . . [A,B,C] | PUNCT NFP . [D]  <-- differ
+18	2	NUM CD 2
+19	.	PUNCT . . [A,B,C] | PUNCT NFP . [D]  <-- differ
+20	10	NUM CD 10
+21	.	PUNCT . .
+
+# sentence 232
+# text: For may not God, do with his own what he pleaſeth, and give to every one (more) or leſs, as he pleaſeth.
+0	For	SCONJ IN for [A,C,D] | CCONJ CC for [B]  <-- differ
+1	may	AUX MD may
+2	not	PART RB not
+3	God	PROPN NNP God
+4	,	PUNCT , ,
+5	do	VERB VB do
+6	with	ADP IN with
+7	his	PRON PRP$ his
+8	own	ADJ JJ own [A,B,C] | NOUN NN own [D]  <-- differ
+9	what	PRON WP what
+10	he	PRON PRP he
+11	pleaſeth	VERB VBZ please
+12	,	PUNCT , ,
+13	and	CCONJ CC and
+14	give	VERB VB give
+15	to	ADP IN to
+16	every	DET DT every
+17	one	NOUN NN one [B,C,D] | PRON NN one [A]  <-- differ
+18	(	PUNCT -LRB- (
+19	more	ADJ JJR much [A,D] | ADJ JJR more [B,C]  <-- differ
+20	)	PUNCT -RRB- )
+21	or	CCONJ CC or
+22	leſs	ADJ JJR little [A,D] | ADJ JJR less [B,C]  <-- differ
+23	,	PUNCT , ,
+24	as	SCONJ IN as
+25	he	PRON PRP he
+26	pleaſeth	VERB VBZ please
+27	.	PUNCT . .

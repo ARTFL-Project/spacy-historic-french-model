@@ -1,0 +1,35 @@
+# sentence 233
+# text: No six months gane, a drucken deevil, You led the ball in waste and revel; Were staggerin' on destruction's brink, Selling your very duds for drink.
+0	No	DET DT no [C,D] | PART RB not [A] | ADV RB no [B]  <-- differ
+1	six	NUM CD six
+2	months	NOUN NNS month
+3	gane	VERB VBN go [A,C] | ADJ JJ gone [B] | ADV RB gone [D]  <-- differ
+4	,	PUNCT , ,
+5	a	DET DT a
+6	drucken	ADJ JJ drunken
+7	deevil	NOUN NN devil
+8	,	PUNCT , ,
+9	You	PRON PRP you
+10	led	VERB VBD lead
+11	the	DET DT the
+12	ball	NOUN NN ball
+13	in	ADP IN in
+14	waste	NOUN NN waste
+15	and	CCONJ CC and
+16	revel	NOUN NN revel
+17	;	PUNCT : ;
+18	Were	AUX VBD be
+19	staggerin	VERB VBG stagger
+20	'	PUNCT '' ' [A,B,C] | PUNCT NFP ' [D]  <-- differ
+21	on	ADP IN on
+22	destruction	NOUN NN destruction
+23	's	PART POS 's
+24	brink	NOUN NN brink
+25	,	PUNCT , ,
+26	Selling	VERB VBG sell
+27	your	PRON PRP$ your
+28	very	ADJ JJ very
+29	duds	NOUN NNS dud [A,C,D] | NOUN NNS duds [B]  <-- differ
+30	for	ADP IN for
+31	drink	NOUN NN drink
+32	.	PUNCT . .

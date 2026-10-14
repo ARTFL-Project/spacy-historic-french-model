@@ -1,0 +1,660 @@
+# sentence 80
+# text: He apparently attributed a great deal of his fortune to the café of the Via Nazionale; a right instinct had taken him there in the beginning, and thereafter all had run smoothly.
+0	He	PRON PRP he
+1	apparently	ADV RB apparently
+2	attributed	VERB VBD attribute
+3	a	DET DT a
+4	great	ADJ JJ great
+5	deal	NOUN NN deal
+6	of	ADP IN of
+7	his	PRON PRP$ his
+8	fortune	NOUN NN fortune
+9	to	ADP IN to
+10	the	DET DT the
+11	café	NOUN NN café
+12	of	ADP IN of
+13	the	DET DT the
+14	Via	PROPN NNP Via
+15	Nazionale	PROPN NNP Nazionale
+16	;	PUNCT : ;
+17	a	DET DT a
+18	right	ADJ JJ right
+19	instinct	NOUN NN instinct
+20	had	AUX VBD have
+21	taken	VERB VBN take
+22	him	PRON PRP he
+23	there	ADV RB there
+24	in	ADP IN in
+25	the	DET DT the
+26	beginning	NOUN NN beginning
+27	,	PUNCT , ,
+28	and	CCONJ CC and
+29	thereafter	ADV RB thereafter
+30	all	PRON DT all
+31	had	AUX VBD have
+32	run	VERB VBN run
+33	smoothly	ADV RB smoothly
+34	.	PUNCT . .
+
+# sentence 81
+# text: Last Monday he threw a four-pound vase at my head, and I only side-stepped it by a millimetre.
+0	Last	ADJ JJ last
+1	Monday	PROPN NNP Monday
+2	he	PRON PRP he
+3	threw	VERB VBD throw
+4	a	DET DT a
+5	four	NUM CD four
+6	-	PUNCT HYPH -
+7	pound	NOUN NN pound
+8	vase	NOUN NN vase
+9	at	ADP IN at
+10	my	PRON PRP$ my
+11	head	NOUN NN head
+12	,	PUNCT , ,
+13	and	CCONJ CC and
+14	I	PRON PRP I
+15	only	ADV RB only
+16	side	NOUN NN side [A,C,D] | VERB VB side [B]  <-- differ
+17	-	PUNCT HYPH -
+18	stepped	VERB VBD step
+19	it	PRON PRP it
+20	by	ADP IN by
+21	a	DET DT a
+22	millimetre	NOUN NN millimetre
+23	.	PUNCT . .
+
+# sentence 82
+# text: In his Specimens he published examples of Anglo-Saxon and Middle-English poetry, and his information was helpful in enlarging Scott's outlook.
+0	In	ADP IN in
+1	his	PRON PRP$ his
+2	Specimens	PROPN NNPS Specimens [A,D] | NOUN NNS specimen [B] | PROPN NNPS Specimen [C]  <-- differ
+3	he	PRON PRP he
+4	published	VERB VBD publish
+5	examples	NOUN NNS example
+6	of	ADP IN of
+7	Anglo	PROPN NNP Anglo [A,B,D] | ADJ JJ anglo [C]  <-- differ
+8	-	PUNCT HYPH -
+9	Saxon	PROPN NNP Saxon [A,D] | ADJ JJ Saxon [B] | ADJ JJ saxon [C]  <-- differ
+10	and	CCONJ CC and
+11	Middle	PROPN NNP Middle [A,B,D] | ADJ JJ middle [C]  <-- differ
+12	-	PUNCT HYPH -
+13	English	PROPN NNP English [A,D] | ADJ JJ English [B] | ADJ JJ english [C]  <-- differ
+14	poetry	NOUN NN poetry
+15	,	PUNCT , ,
+16	and	CCONJ CC and
+17	his	PRON PRP$ his
+18	information	NOUN NN information
+19	was	AUX VBD be
+20	helpful	ADJ JJ helpful
+21	in	ADP IN in
+22	enlarging	VERB VBG enlarge
+23	Scott	PROPN NNP Scott
+24	's	PART POS 's
+25	outlook	NOUN NN outlook
+26	.	PUNCT . .
+
+# sentence 83
+# text: How did it get here, when not a house stood erect for miles and miles--when not a coil of smoke touched the horizon!
+0	How	ADV WRB how
+1	did	AUX VBD do
+2	it	PRON PRP it
+3	get	VERB VB get
+4	here	ADV RB here
+5	,	PUNCT , ,
+6	when	ADV WRB when
+7	not	PART RB not
+8	a	DET DT a
+9	house	NOUN NN house
+10	stood	VERB VBD stand
+11	erect	ADJ JJ erect
+12	for	ADP IN for
+13	miles	NOUN NNS mile
+14	and	CCONJ CC and
+15	miles	NOUN NNS mile
+16	--	PUNCT : --
+17	when	ADV WRB when
+18	not	PART RB not
+19	a	DET DT a
+20	coil	NOUN NN coil
+21	of	ADP IN of
+22	smoke	NOUN NN smoke
+23	touched	VERB VBD touch
+24	the	DET DT the
+25	horizon	NOUN NN horizon
+26	!	PUNCT . !
+
+# sentence 84
+# text: Haversham smiled a little bitterly into the fire as he thought of these things--and the smile deepened as he realised that, though on reflection he could see the pity of it, and even hope that youth might even now defeat them all, nevertheless he could himself only repeat his first advice and conduct.
+0	Haversham	PROPN NNP Haversham
+1	smiled	VERB VBD smile
+2	a	DET DT a
+3	little	ADJ JJ little
+4	bitterly	ADV RB bitterly
+5	into	ADP IN into
+6	the	DET DT the
+7	fire	NOUN NN fire
+8	as	SCONJ IN as
+9	he	PRON PRP he
+10	thought	VERB VBD think
+11	of	ADP IN of
+12	these	DET DT these [A,B] | DET DT this [C,D]  <-- differ
+13	things	NOUN NNS thing
+14	--	PUNCT : --
+15	and	CCONJ CC and
+16	the	DET DT the
+17	smile	NOUN NN smile
+18	deepened	VERB VBD deepen
+19	as	SCONJ IN as
+20	he	PRON PRP he
+21	realised	VERB VBD realise
+22	that	SCONJ IN that
+23	,	PUNCT , ,
+24	though	SCONJ IN though
+25	on	ADP IN on
+26	reflection	NOUN NN reflection
+27	he	PRON PRP he
+28	could	AUX MD could
+29	see	VERB VB see
+30	the	DET DT the
+31	pity	NOUN NN pity
+32	of	ADP IN of
+33	it	PRON PRP it
+34	,	PUNCT , ,
+35	and	CCONJ CC and
+36	even	ADV RB even
+37	hope	VERB VB hope
+38	that	SCONJ IN that
+39	youth	NOUN NN youth
+40	might	AUX MD might
+41	even	ADV RB even
+42	now	ADV RB now
+43	defeat	VERB VB defeat
+44	them	PRON PRP they
+45	all	PRON DT all [A,D] | DET DT all [B,C]  <-- differ
+46	,	PUNCT , ,
+47	nevertheless	ADV RB nevertheless
+48	he	PRON PRP he
+49	could	AUX MD could
+50	himself	PRON PRP himself
+51	only	ADV RB only
+52	repeat	VERB VB repeat
+53	his	PRON PRP$ his
+54	first	ADJ JJ first
+55	advice	NOUN NN advice
+56	and	CCONJ CC and
+57	conduct	NOUN NN conduct
+58	.	PUNCT . .
+
+# sentence 85
+# text: “Because,” said Westerham, “I have not the slightest doubt in the world that Melun was the man who ordered their removal, and if Melun is responsible then you are probably acquainted with the fact.”
+0	“	PUNCT `` “ [A,C,D] | PUNCT `` " [B]  <-- differ
+1	Because	SCONJ IN because
+2	,	PUNCT , ,
+3	”	PUNCT '' ” [A,C,D] | PUNCT '' " [B]  <-- differ
+4	said	VERB VBD say
+5	Westerham	PROPN NNP Westerham
+6	,	PUNCT , ,
+7	“	PUNCT `` “ [A,C,D] | PUNCT `` " [B]  <-- differ
+8	I	PRON PRP I
+9	have	VERB VBP have
+10	not	PART RB not
+11	the	DET DT the
+12	slightest	ADJ JJS slight
+13	doubt	NOUN NN doubt
+14	in	ADP IN in
+15	the	DET DT the
+16	world	NOUN NN world
+17	that	SCONJ IN that
+18	Melun	PROPN NNP Melun
+19	was	AUX VBD be
+20	the	DET DT the
+21	man	NOUN NN man
+22	who	PRON WP who
+23	ordered	VERB VBD order
+24	their	PRON PRP$ their
+25	removal	NOUN NN removal
+26	,	PUNCT , ,
+27	and	CCONJ CC and
+28	if	SCONJ IN if
+29	Melun	PROPN NNP Melun
+30	is	AUX VBZ be
+31	responsible	ADJ JJ responsible
+32	then	ADV RB then
+33	you	PRON PRP you
+34	are	AUX VBP be
+35	probably	ADV RB probably
+36	acquainted	ADJ JJ acquainted [B,C,D] | VERB VBN acquaint [A]  <-- differ
+37	with	ADP IN with
+38	the	DET DT the
+39	fact	NOUN NN fact
+40	.	PUNCT . .
+41	”	PUNCT '' ” [A,C,D] | PUNCT '' " [B]  <-- differ
+
+# sentence 86
+# text: His hair rose stiff on his head; his flesh congealed and contracted all down his backbone at the touch of some deep and primordial fear.
+0	His	PRON PRP$ his
+1	hair	NOUN NN hair
+2	rose	VERB VBD rise
+3	stiff	ADJ JJ stiff
+4	on	ADP IN on
+5	his	PRON PRP$ his
+6	head	NOUN NN head
+7	;	PUNCT : ;
+8	his	PRON PRP$ his
+9	flesh	NOUN NN flesh
+10	congealed	VERB VBD congeal
+11	and	CCONJ CC and
+12	contracted	VERB VBD contract
+13	all	ADV RB all
+14	down	ADP IN down
+15	his	PRON PRP$ his
+16	backbone	NOUN NN backbone
+17	at	ADP IN at
+18	the	DET DT the
+19	touch	NOUN NN touch
+20	of	ADP IN of
+21	some	DET DT some
+22	deep	ADJ JJ deep
+23	and	CCONJ CC and
+24	primordial	ADJ JJ primordial
+25	fear	NOUN NN fear
+26	.	PUNCT . .
+
+# sentence 87
+# text: It is not to be regarded as a mere coincidence that its author was John G. Lockhart, a son-in-law of Sir Walter Scott.
+0	It	PRON PRP it
+1	is	AUX VBZ be
+2	not	PART RB not
+3	to	PART TO to
+4	be	AUX VB be
+5	regarded	VERB VBN regard
+6	as	ADP IN as [A,B,C] | SCONJ IN as [D]  <-- differ
+7	a	DET DT a
+8	mere	ADJ JJ mere
+9	coincidence	NOUN NN coincidence
+10	that	SCONJ IN that
+11	its	PRON PRP$ its
+12	author	NOUN NN author
+13	was	AUX VBD be
+14	John	PROPN NNP John
+15	G.	PROPN NNP G.
+16	Lockhart	PROPN NNP Lockhart
+17	,	PUNCT , ,
+18	a	DET DT a
+19	son	NOUN NN son
+20	-	PUNCT HYPH -
+21	in	ADP IN in
+22	-	PUNCT HYPH -
+23	law	NOUN NN law
+24	of	ADP IN of
+25	Sir	PROPN NNP Sir
+26	Walter	PROPN NNP Walter
+27	Scott	PROPN NNP Scott
+28	.	PUNCT . .
+
+# sentence 88
+# text: Bolton was, however, prepared, and was well garrisoned, while the Parliamentarians had also established a garrison for its additional protection, in the town of Bury.
+0	Bolton	PROPN NNP Bolton
+1	was	AUX VBD be
+2	,	PUNCT , ,
+3	however	ADV RB however
+4	,	PUNCT , ,
+5	prepared	ADJ JJ prepared
+6	,	PUNCT , ,
+7	and	CCONJ CC and
+8	was	AUX VBD be
+9	well	ADV RB well
+10	garrisoned	VERB VBN garrison
+11	,	PUNCT , ,
+12	while	SCONJ IN while
+13	the	DET DT the
+14	Parliamentarians	PROPN NNPS Parliamentarian
+15	had	AUX VBD have
+16	also	ADV RB also
+17	established	VERB VBN establish
+18	a	DET DT a
+19	garrison	NOUN NN garrison
+20	for	ADP IN for
+21	its	PRON PRP$ its
+22	additional	ADJ JJ additional
+23	protection	NOUN NN protection
+24	,	PUNCT , ,
+25	in	ADP IN in
+26	the	DET DT the
+27	town	NOUN NN town
+28	of	ADP IN of
+29	Bury	PROPN NNP Bury
+30	.	PUNCT . .
+
+# sentence 89
+# text: Then sudden fury lulled and far behind Like angered beasts our batteries replied-- And suddenly he stumbled, dazed and blind.
+0	Then	ADV RB then
+1	sudden	ADJ JJ sudden
+2	fury	NOUN NN fury
+3	lulled	VERB VBD lull
+4	and	CCONJ CC and
+5	far	ADV RB far
+6	behind	ADV RB behind
+7	Like	ADP IN like
+8	angered	ADJ JJ angered
+9	beasts	NOUN NNS beast
+10	our	PRON PRP$ our
+11	batteries	NOUN NNS battery
+12	replied--	VERB VBD reply [A,C,D] | VERB VBD replied-- [B]  <-- differ
+13	And	CCONJ CC and
+14	suddenly	ADV RB suddenly
+15	he	PRON PRP he
+16	stumbled	VERB VBD stumble
+17	,	PUNCT , ,
+18	dazed	ADJ JJ dazed
+19	and	CCONJ CC and
+20	blind	ADJ JJ blind
+21	.	PUNCT . .
+
+# sentence 90
+# text: “One of our songs is the fadeless Faith, And all are the Life more mighty than death.”
+0	“	PUNCT `` “ [A,C,D] | PUNCT `` " [B]  <-- differ
+1	One	NUM CD one
+2	of	ADP IN of
+3	our	PRON PRP$ our
+4	songs	NOUN NNS song
+5	is	AUX VBZ be
+6	the	DET DT the
+7	fadeless	ADJ JJ fadeless
+8	Faith	NOUN NN faith
+9	,	PUNCT , ,
+10	And	CCONJ CC and
+11	all	PRON DT all
+12	are	AUX VBP be
+13	the	DET DT the
+14	Life	NOUN NN life
+15	more	ADV RBR more
+16	mighty	ADJ JJ mighty
+17	than	ADP IN than
+18	death	NOUN NN death
+19	.	PUNCT . .
+20	”	PUNCT '' ” [A,C,D] | PUNCT '' " [B]  <-- differ
+
+# sentence 91
+# text: A stronger gust catches the cloud and twists A spindle of rifted darkness through its heart, A gash in the damp grey, which, thrust apart, Reveals black depths a moment.
+0	A	DET DT a
+1	stronger	ADJ JJR strong
+2	gust	NOUN NN gust
+3	catches	VERB VBZ catch
+4	the	DET DT the
+5	cloud	NOUN NN cloud
+6	and	CCONJ CC and
+7	twists	VERB VBZ twist
+8	A	DET DT a
+9	spindle	NOUN NN spindle
+10	of	ADP IN of
+11	rifted	ADJ JJ rifted
+12	darkness	NOUN NN darkness
+13	through	ADP IN through
+14	its	PRON PRP$ its
+15	heart	NOUN NN heart
+16	,	PUNCT , ,
+17	A	DET DT a
+18	gash	NOUN NN gash
+19	in	ADP IN in
+20	the	DET DT the
+21	damp	ADJ JJ damp
+22	grey	NOUN NN grey
+23	,	PUNCT , ,
+24	which	PRON WDT which
+25	,	PUNCT , ,
+26	thrust	VERB VBN thrust
+27	apart	ADV RB apart
+28	,	PUNCT , ,
+29	Reveals	VERB VBZ reveal
+30	black	ADJ JJ black
+31	depths	NOUN NNS depth
+32	a	DET DT a
+33	moment	NOUN NN moment
+34	.	PUNCT . .
+
+# sentence 92
+# text: Then, suddenly leaving Kernak, he comes to Varenac, where comrades of his and Trouet's already await him.
+0	Then	ADV RB then
+1	,	PUNCT , ,
+2	suddenly	ADV RB suddenly
+3	leaving	VERB VBG leave
+4	Kernak	PROPN NNP Kernak
+5	,	PUNCT , ,
+6	he	PRON PRP he
+7	comes	VERB VBZ come
+8	to	ADP IN to
+9	Varenac	PROPN NNP Varenac
+10	,	PUNCT , ,
+11	where	ADV WRB where
+12	comrades	NOUN NNS comrade
+13	of	ADP IN of
+14	his	PRON PRP his
+15	and	CCONJ CC and
+16	Trouet	PROPN NNP Trouet
+17	's	PART POS 's
+18	already	ADV RB already
+19	await	VERB VBP await
+20	him	PRON PRP he
+21	.	PUNCT . .
+
+# sentence 93
+# text: And he remembered sudden little phrases of hers in her fine, whispering voice, little broken phrases, and how she would smile very crookedly, and how her great eyes would queerly cloud over.
+0	And	CCONJ CC and
+1	he	PRON PRP he
+2	remembered	VERB VBD remember
+3	sudden	ADJ JJ sudden
+4	little	ADJ JJ little
+5	phrases	NOUN NNS phrase
+6	of	ADP IN of
+7	hers	PRON PRP hers
+8	in	ADP IN in
+9	her	PRON PRP$ her
+10	fine	ADJ JJ fine
+11	,	PUNCT , ,
+12	whispering	ADJ JJ whispering [A,D] | VERB VBG whisper [B,C]  <-- differ
+13	voice	NOUN NN voice
+14	,	PUNCT , ,
+15	little	ADJ JJ little
+16	broken	ADJ JJ broken
+17	phrases	NOUN NNS phrase
+18	,	PUNCT , ,
+19	and	CCONJ CC and
+20	how	ADV WRB how
+21	she	PRON PRP she
+22	would	AUX MD would
+23	smile	VERB VB smile
+24	very	ADV RB very
+25	crookedly	ADV RB crookedly
+26	,	PUNCT , ,
+27	and	CCONJ CC and
+28	how	ADV WRB how
+29	her	PRON PRP$ her
+30	great	ADJ JJ great
+31	eyes	NOUN NNS eye
+32	would	AUX MD would
+33	queerly	ADV RB queerly
+34	cloud	VERB VB cloud
+35	over	ADP RP over
+36	.	PUNCT . .
+
+# sentence 94
+# text: "And, oh, dear Dr. Brink," she said, "how simply charming it is to meet you!
+0	"	PUNCT `` "
+1	And	CCONJ CC and
+2	,	PUNCT , ,
+3	oh	INTJ UH oh
+4	,	PUNCT , ,
+5	dear	ADJ JJ dear
+6	Dr.	PROPN NNP Dr.
+7	Brink	PROPN NNP Brink
+8	,	PUNCT , ,
+9	"	PUNCT '' "
+10	she	PRON PRP she
+11	said	VERB VBD say
+12	,	PUNCT , ,
+13	"	PUNCT `` "
+14	how	ADV WRB how
+15	simply	ADV RB simply
+16	charming	ADJ JJ charming
+17	it	PRON PRP it
+18	is	AUX VBZ be
+19	to	PART TO to
+20	meet	VERB VB meet
+21	you	PRON PRP you
+22	!	PUNCT . !
+
+# sentence 95
+# text: Wearied out at last, she moved mechanically, like one in a dream, going to and from the sick-room as she was bidden.
+0	Wearied	VERB VBN weary
+1	out	ADP RP out [A,B,C] | ADV RB out [D]  <-- differ
+2	at	ADP IN at
+3	last	ADJ JJ last [A,B,C] | ADV RB last [D]  <-- differ
+4	,	PUNCT , ,
+5	she	PRON PRP she
+6	moved	VERB VBD move
+7	mechanically	ADV RB mechanically
+8	,	PUNCT , ,
+9	like	ADP IN like
+10	one	NUM CD one [B,C] | NOUN NN one [A] | PRON NN one [D]  <-- differ
+11	in	ADP IN in
+12	a	DET DT a
+13	dream	NOUN NN dream
+14	,	PUNCT , ,
+15	going	VERB VBG go
+16	to	ADP IN to
+17	and	CCONJ CC and
+18	from	ADP IN from
+19	the	DET DT the
+20	sick	ADJ JJ sick [A,B,C] | NOUN NN sick [D]  <-- differ
+21	-	PUNCT HYPH -
+22	room	NOUN NN room
+23	as	SCONJ IN as
+24	she	PRON PRP she
+25	was	AUX VBD be
+26	bidden	VERB VBN bid
+27	.	PUNCT . .
+
+# sentence 96
+# text: What a charming scene could then have been staged, of sensitive genius misunderstood by coarse-grained labour; of vision-drunken youth berated by undreaming age!
+0	What	DET WDT what [B,C,D] | DET PDT what [A]  <-- differ
+1	a	DET DT a
+2	charming	ADJ JJ charming
+3	scene	NOUN NN scene
+4	could	AUX MD could
+5	then	ADV RB then
+6	have	AUX VB have
+7	been	AUX VBN be
+8	staged	VERB VBN stage
+9	,	PUNCT , ,
+10	of	ADP IN of
+11	sensitive	ADJ JJ sensitive
+12	genius	NOUN NN genius
+13	misunderstood	VERB VBN misunderstand
+14	by	ADP IN by
+15	coarse	ADJ JJ coarse
+16	-	PUNCT HYPH -
+17	grained	ADJ JJ grained
+18	labour	NOUN NN labour
+19	;	PUNCT : ;
+20	of	ADP IN of
+21	vision	NOUN NN vision
+22	-	PUNCT HYPH -
+23	drunken	ADJ JJ drunken
+24	youth	NOUN NN youth
+25	berated	VERB VBN berate
+26	by	ADP IN by
+27	undreaming	ADJ JJ undreaming
+28	age	NOUN NN age
+29	!	PUNCT . !
+
+# sentence 97
+# text: Men who have come through the hell of the trenches have discovered some of the secrets of life and death.
+0	Men	NOUN NNS man
+1	who	PRON WP who
+2	have	AUX VBP have
+3	come	VERB VBN come
+4	through	ADP IN through
+5	the	DET DT the
+6	hell	NOUN NN hell
+7	of	ADP IN of
+8	the	DET DT the
+9	trenches	NOUN NNS trench
+10	have	AUX VBP have
+11	discovered	VERB VBN discover
+12	some	PRON DT some
+13	of	ADP IN of
+14	the	DET DT the
+15	secrets	NOUN NNS secret
+16	of	ADP IN of
+17	life	NOUN NN life
+18	and	CCONJ CC and
+19	death	NOUN NN death
+20	.	PUNCT . .
+
+# sentence 98
+# text: It was odds that if he persisted he would have to spend a night in the "hand-cold" and mist-sodden atmosphere.
+0	It	PRON PRP it
+1	was	AUX VBD be
+2	odds	NOUN NNS odds
+3	that	SCONJ IN that
+4	if	SCONJ IN if
+5	he	PRON PRP he
+6	persisted	VERB VBD persist
+7	he	PRON PRP he
+8	would	AUX MD would
+9	have	VERB VB have
+10	to	PART TO to
+11	spend	VERB VB spend
+12	a	DET DT a
+13	night	NOUN NN night
+14	in	ADP IN in
+15	the	DET DT the
+16	"	PUNCT `` "
+17	hand	NOUN NN hand
+18	-	PUNCT HYPH -
+19	cold	ADJ JJ cold
+20	"	PUNCT '' "
+21	and	CCONJ CC and
+22	mist	NOUN NN mist
+23	-	PUNCT HYPH -
+24	sodden	ADJ JJ sodden
+25	atmosphere	NOUN NN atmosphere
+26	.	PUNCT . .
+
+# sentence 99
+# text: "Gone!" he said to himself, thinking of his house and the familiar street, and it seemed to him wonderful and unbelievable that he would never see them again.
+0	"	PUNCT `` "
+1	Gone	VERB VBN go [A,C] | ADJ JJ gone [B,D]  <-- differ
+2	!	PUNCT . !
+3	"	PUNCT '' "
+4	he	PRON PRP he
+5	said	VERB VBD say
+6	to	ADP IN to
+7	himself	PRON PRP himself
+8	,	PUNCT , ,
+9	thinking	VERB VBG think
+10	of	ADP IN of
+11	his	PRON PRP$ his
+12	house	NOUN NN house
+13	and	CCONJ CC and
+14	the	DET DT the
+15	familiar	ADJ JJ familiar
+16	street	NOUN NN street
+17	,	PUNCT , ,
+18	and	CCONJ CC and
+19	it	PRON PRP it
+20	seemed	VERB VBD seem
+21	to	ADP IN to
+22	him	PRON PRP he
+23	wonderful	ADJ JJ wonderful
+24	and	CCONJ CC and
+25	unbelievable	ADJ JJ unbelievable
+26	that	SCONJ IN that
+27	he	PRON PRP he
+28	would	AUX MD would
+29	never	ADV RB never
+30	see	VERB VB see
+31	them	PRON PRP they
+32	again	ADV RB again
+33	.	PUNCT . .

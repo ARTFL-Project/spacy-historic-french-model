@@ -1,0 +1,30 @@
+{
+  "run": "gemini-3.8-flash_low",
+  "sentences": 1000,
+  "annotated": 996,
+  "failures": [
+    [
+      2004447,
+      "sentence 2004447: tokens differ"
+    ],
+    [
+      2004449,
+      "sentence 2004449: tokens differ"
+    ],
+    [
+      2004458,
+      "sentence 2004458: tokens differ"
+    ],
+    [
+      2004459,
+      "sentence 2004459: tokens differ"
+    ]
+  ],
+  "repaired_labels": {},
+  "prompt_tokens": 1397053,
+  "completion_tokens": 324074,
+  "cost": 1.16211225,
+  "reasoning_tokens": 0,
+  "requests": 16,
+  "seconds": 1554
+}

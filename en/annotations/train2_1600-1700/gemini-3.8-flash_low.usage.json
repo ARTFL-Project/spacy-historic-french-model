@@ -1,0 +1,21 @@
+{
+  "run": "gemini-3.8-flash_low",
+  "sentences": 5000,
+  "annotated": 5000,
+  "failures": [],
+  "repaired_labels": {
+    "POS PDT -> DET (from TAG PDT)": 91,
+    "POS JJ -> ADJ (from TAG JJ)": 88,
+    "POS CD -> NUM (from TAG CD)": 8,
+    "POS NNS -> NOUN (from TAG NNS)": 31,
+    "POS DT -> DET (from TAG DT)": 1,
+    "POS CC -> CCONJ (from TAG CC)": 56,
+    "POS NN -> NOUN (from TAG NN)": 4
+  },
+  "prompt_tokens": 6637825,
+  "completion_tokens": 1876406,
+  "cost": 5.976016612,
+  "reasoning_tokens": 0,
+  "requests": 3,
+  "seconds": 2176
+}

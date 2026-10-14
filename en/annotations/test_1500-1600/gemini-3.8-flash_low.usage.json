@@ -1,0 +1,13 @@
+{
+  "run": "gemini-3.8-flash_low",
+  "sentences": 1000,
+  "annotated": 1000,
+  "failures": [],
+  "repaired_labels": {},
+  "prompt_tokens": 1434274,
+  "completion_tokens": 372157,
+  "cost": 1.2170640369999999,
+  "reasoning_tokens": 0,
+  "requests": 2,
+  "seconds": 1328
+}

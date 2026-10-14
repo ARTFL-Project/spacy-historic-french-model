@@ -1,0 +1,23 @@
+{
+  "run": "gemini-3.8-flash_low",
+  "sentences": 10000,
+  "annotated": 9999,
+  "failures": [
+    [
+      3005414,
+      "sentence 3005414: tokens differ"
+    ]
+  ],
+  "repaired_labels": {
+    "POS PDT -> DET (from TAG PDT)": 3,
+    "POS JJ -> ADJ (from TAG JJ)": 2,
+    "POS CC -> CCONJ (from TAG CC)": 14,
+    "POS NNS -> NOUN (from TAG NNS)": 1
+  },
+  "prompt_tokens": 651406,
+  "completion_tokens": 114537,
+  "cost": 0.888703725,
+  "reasoning_tokens": 0,
+  "requests": 115,
+  "seconds": 175
+}

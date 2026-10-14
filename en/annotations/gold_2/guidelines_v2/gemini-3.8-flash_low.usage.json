@@ -1,0 +1,17 @@
+{
+  "run": "gemini-3.8-flash_low",
+  "sentences": 100,
+  "annotated": 99,
+  "failures": [
+    [
+      175,
+      "sentence 175: bad labels JJ JJ 'such'"
+    ]
+  ],
+  "prompt_tokens": 236627,
+  "completion_tokens": 48367,
+  "cost": 0.3486189,
+  "reasoning_tokens": 0,
+  "requests": 41,
+  "seconds": 91
+}

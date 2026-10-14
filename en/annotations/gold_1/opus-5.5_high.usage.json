@@ -1,0 +1,12 @@
+{
+  "run": "opus-5.5_high",
+  "sentences": 100,
+  "annotated": 100,
+  "failures": [],
+  "prompt_tokens": 133710,
+  "completion_tokens": 74216,
+  "cost": 2.01916,
+  "reasoning_tokens": 27361,
+  "requests": 20,
+  "seconds": 158
+}

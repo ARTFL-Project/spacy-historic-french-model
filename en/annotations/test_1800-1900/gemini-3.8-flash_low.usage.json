@@ -1,0 +1,15 @@
+{
+  "run": "gemini-3.8-flash_low",
+  "sentences": 1000,
+  "annotated": 1000,
+  "failures": [],
+  "repaired_labels": {
+    "POS NNS -> NOUN (from TAG NNS)": 1
+  },
+  "prompt_tokens": 1292376,
+  "completion_tokens": 359189,
+  "cost": 1.212504225,
+  "reasoning_tokens": 0,
+  "requests": 12,
+  "seconds": 40
+}

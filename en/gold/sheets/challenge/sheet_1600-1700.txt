@@ -1,0 +1,251 @@
+# sentence 202
+# text: That Name which is the greatest prop of thine Affiance, commandeth thy Fear and Reverence, when thou hearest: In the fear of God give Audience to his Word; Acts 13. 16.
+0	That	DET DT that
+1	Name	NOUN NN name
+2	which	PRON WDT which
+3	is	AUX VBZ be
+4	the	DET DT the
+5	greatest	ADJ JJS great
+6	prop	NOUN NN prop
+7	of	ADP IN of
+8	thine	PRON PRP$ thy
+9	Affiance	NOUN NN affiance
+10	,	PUNCT , ,
+11	commandeth	VERB VBZ command
+12	thy	PRON PRP$ thy
+13	Fear	NOUN NN fear
+14	and	CCONJ CC and
+15	Reverence	NOUN NN reverence
+16	,	PUNCT , ,
+17	when	ADV WRB when
+18	thou	PRON PRP thou
+19	hearest	VERB VBP hear
+20	:	PUNCT : :
+21	In	ADP IN in
+22	the	DET DT the
+23	fear	NOUN NN fear
+24	of	ADP IN of
+25	God	PROPN NNP God
+26	give	VERB VB give
+27	Audience	NOUN NN audience
+28	to	ADP IN to
+29	his	PRON PRP$ his
+30	Word	NOUN NN word
+31	;	PUNCT : ;
+32	Acts	PROPN NNP Acts
+33	13	NUM CD 13
+34	.	PUNCT . . [A,B,C] | PUNCT NFP . [D]  <-- differ
+35	16	NUM CD 16
+36	.	PUNCT . .
+
+# sentence 206
+# text: 'Tis a moſt incredible what a ſtrange number there is of this ſort of Creatures, ſome ſay Fifteen hundred, ſome a great many more; in truth, I believe there may be a thouſand of them that are Commiſſion Officers, beſides Subalterns and Cadres, viz. Followers and Setters.
+0	'T	PRON PRP it
+1	is	AUX VBZ be
+2	a	DET DT a [A,C,D] | ADV RB a [B]  <-- differ
+3	moſt	ADV RBS most [A,B,C] | ADV RB most [D]  <-- differ
+4	incredible	ADJ JJ incredible
+5	what	DET WDT what [C,D] | DET PDT what [A] | PRON WP what [B]  <-- differ
+6	a	DET DT a
+7	ſtrange	ADJ JJ strange
+8	number	NOUN NN number
+9	there	PRON EX there
+10	is	VERB VBZ be
+11	of	ADP IN of
+12	this	DET DT this
+13	ſort	NOUN NN sort
+14	of	ADP IN of
+15	Creatures	NOUN NNS creature
+16	,	PUNCT , ,
+17	ſome	PRON DT some
+18	ſay	VERB VBP say
+19	Fifteen	NUM CD fifteen
+20	hundred	NUM CD hundred
+21	,	PUNCT , ,
+22	ſome	PRON DT some
+23	a	DET DT a
+24	great	ADJ JJ great
+25	many	ADJ JJ many
+26	more	ADJ JJR more
+27	;	PUNCT : ;
+28	in	ADP IN in
+29	truth	NOUN NN truth
+30	,	PUNCT , ,
+31	I	PRON PRP I
+32	believe	VERB VBP believe
+33	there	PRON EX there
+34	may	AUX MD may
+35	be	VERB VB be
+36	a	DET DT a
+37	thouſand	NUM CD thousand
+38	of	ADP IN of
+39	them	PRON PRP they
+40	that	PRON WDT that
+41	are	AUX VBP be
+42	Commiſſion	NOUN NN commission
+43	Officers	NOUN NNS officer
+44	,	PUNCT , ,
+45	beſides	ADP IN besides
+46	Subalterns	NOUN NNS subaltern
+47	and	CCONJ CC and
+48	Cadres	NOUN NNS cadre
+49	,	PUNCT , ,
+50	viz	ADV RB viz [A,C] | ADV RB viz. [B,D]  <-- differ
+51	.	PUNCT . . [A,B,C] | PUNCT NFP . [D]  <-- differ
+52	Followers	NOUN NNS follower
+53	and	CCONJ CC and
+54	Setters	NOUN NNS setter
+55	.	PUNCT . .
+
+# sentence 207
+# text: Be this my prayer, may they ſo proſper all, Who with unworthy private baſe Intents So run a Whoreing after Parliaments: For 'tis concluded by the graver Bench That Babylon's Strumpet's now the ſounder Wench.
+0	Be	AUX VB be [A,B,C] | VERB VB be [D]  <-- differ
+1	this	PRON DT this [A,B,C] | DET DT this [D]  <-- differ
+2	my	PRON PRP$ my
+3	prayer	NOUN NN prayer
+4	,	PUNCT , ,
+5	may	AUX MD may
+6	they	PRON PRP they
+7	ſo	ADV RB so
+8	proſper	VERB VB prosper
+9	all	PRON DT all
+10	,	PUNCT , ,
+11	Who	PRON WP who
+12	with	ADP IN with
+13	unworthy	ADJ JJ unworthy
+14	private	ADJ JJ private
+15	baſe	ADJ JJ base
+16	Intents	NOUN NNS intent
+17	So	ADV RB so
+18	run	VERB VBP run
+19	a	DET DT a [A,C,D] | ADP IN a [B]  <-- differ
+20	Whoreing	NOUN NN whoring
+21	after	ADP IN after
+22	Parliaments	NOUN NNS parliament
+23	:	PUNCT : :
+24	For	SCONJ IN for
+25	't	PRON PRP it
+26	is	AUX VBZ be
+27	concluded	VERB VBN conclude
+28	by	ADP IN by
+29	the	DET DT the
+30	graver	ADJ JJR grave
+31	Bench	NOUN NN bench
+32	That	SCONJ IN that
+33	Babylon	PROPN NNP Babylon
+34	's	PART POS 's
+35	Strumpet	NOUN NN strumpet
+36	's	AUX VBZ be
+37	now	ADV RB now
+38	the	DET DT the
+39	ſounder	ADJ JJR sound
+40	Wench	NOUN NN wench
+41	.	PUNCT . .
+
+# sentence 220
+# text: Beluved, I mun conclude we ya ward, an that is this, ene this; There is but ya ſort o folke between Gad an ye: tak away that ſort o men, an ye may aw gang to heven, ſheeke by ſhole, yan by another.
+0	Beluved	ADJ JJ beloved [A,C,D] | VERB VBN belove [B]  <-- differ
+1	,	PUNCT , ,
+2	I	PRON PRP I
+3	mun	AUX MD must
+4	conclude	VERB VB conclude
+5	we	ADP IN with [A,B,C] | PRON PRP we [D]  <-- differ
+6	ya	NUM CD one [A,B,C] | DET DT the [D]  <-- differ
+7	ward	NOUN NN word [A,B,C] | NOUN NN ward [D]  <-- differ
+8	,	PUNCT , ,
+9	an	CCONJ CC and [A,B,C] | SCONJ IN an [D]  <-- differ
+10	that	PRON DT that
+11	is	AUX VBZ be
+12	this	PRON DT this
+13	,	PUNCT , ,
+14	ene	ADV RB even
+15	this	PRON DT this
+16	;	PUNCT : ;
+17	There	PRON EX there
+18	is	VERB VBZ be
+19	but	ADV RB but
+20	ya	NUM CD one [A,B,C] | DET DT the [D]  <-- differ
+21	ſort	NOUN NN sort
+22	o	ADP IN of
+23	folke	NOUN NN folk [A,C,D] | NOUN NNS folk [B]  <-- differ
+24	between	ADP IN between
+25	Gad	PROPN NNP God
+26	an	CCONJ CC and
+27	ye	PRON PRP you
+28	:	PUNCT : :
+29	tak	VERB VB take
+30	away	ADP RP away [A,D] | ADV RB away [B,C]  <-- differ
+31	that	DET DT that
+32	ſort	NOUN NN sort
+33	o	ADP IN of
+34	men	NOUN NNS man
+35	,	PUNCT , ,
+36	an	CCONJ CC and [A,B,C] | SCONJ IN an [D]  <-- differ
+37	ye	PRON PRP you
+38	may	AUX MD may
+39	aw	ADV RB all [A,B,D] | DET DT all [C]  <-- differ
+40	gang	VERB VB gang [A,B,C] | VERB VB go [D]  <-- differ
+41	to	ADP IN to
+42	heven	NOUN NN heaven [A,C,D] | PROPN NNP heaven [B]  <-- differ
+43	,	PUNCT , ,
+44	ſheeke	NOUN NN cheek
+45	by	ADP IN by
+46	ſhole	NOUN NN jowl
+47	,	PUNCT , ,
+48	yan	NUM CD one [A,C] | PRON DT one [B] | SCONJ IN than [D]  <-- differ
+49	by	ADP IN by
+50	another	PRON DT another
+51	.	PUNCT . .
+
+# sentence 225
+# text: A regular may be a Bishop ergo a Bishops ſtate is perfecter: but is not a good argument: an Inferiour Paſtour may be a Religious man, ergo a Religious man hath a perfecter ſtate; but only ergo a Religious man hath a more ſecure ſtate.
+0	A	DET DT a
+1	regular	NOUN NN regular
+2	may	AUX MD may
+3	be	AUX VB be
+4	a	DET DT a
+5	Bishop	NOUN NN bishop
+6	ergo	X FW ergo [A,D] | ADV RB ergo [B,C]  <-- differ
+7	a	DET DT a
+8	Bishops	NOUN NN bishop [A,D] | NOUN NNS bishop [B,C]  <-- differ
+9	ſtate	NOUN NN state
+10	is	AUX VBZ be
+11	perfecter	ADJ JJR perfect
+12	:	PUNCT : :
+13	but	CCONJ CC but
+14	is	AUX VBZ be
+15	not	PART RB not
+16	a	DET DT a
+17	good	ADJ JJ good
+18	argument	NOUN NN argument
+19	:	PUNCT : :
+20	an	DET DT a
+21	Inferiour	ADJ JJ inferior
+22	Paſtour	NOUN NN pastor
+23	may	AUX MD may
+24	be	AUX VB be
+25	a	DET DT a
+26	Religious	ADJ JJ religious
+27	man	NOUN NN man
+28	,	PUNCT , ,
+29	ergo	X FW ergo [A,D] | ADV RB ergo [B,C]  <-- differ
+30	a	DET DT a
+31	Religious	ADJ JJ religious
+32	man	NOUN NN man
+33	hath	VERB VBZ have
+34	a	DET DT a
+35	perfecter	ADJ JJR perfect
+36	ſtate	NOUN NN state
+37	;	PUNCT : ;
+38	but	CCONJ CC but
+39	only	ADV RB only
+40	ergo	X FW ergo [A,D] | ADV RB ergo [B,C]  <-- differ
+41	a	DET DT a
+42	Religious	ADJ JJ religious
+43	man	NOUN NN man
+44	hath	VERB VBZ have
+45	a	DET DT a
+46	more	ADV RBR more
+47	ſecure	ADJ JJ secure
+48	ſtate	NOUN NN state
+49	.	PUNCT . .

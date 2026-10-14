@@ -1,0 +1,679 @@
+# sentence 201
+# text: The law thus commaundeth as touchyng loue: Thou shalt loue thy Lord God as it doth behoue, With al thy hert, with al thy soule, & wt al thy strēgth, And thy neighbor as thy self.
+0	The	DET DT the
+1	law	NOUN NN law
+2	thus	ADV RB thus
+3	commaundeth	VERB VBZ command
+4	as	ADP IN as
+5	touchyng	VERB VBG touch
+6	loue	NOUN NN love
+7	:	PUNCT : :
+8	Thou	PRON PRP thou
+9	shalt	AUX MD shall
+10	loue	VERB VB love
+11	thy	PRON PRP$ thy
+12	Lord	PROPN NNP Lord
+13	God	PROPN NNP God
+14	as	SCONJ IN as
+15	it	PRON PRP it
+16	doth	AUX VBZ do
+17	behoue	VERB VB behove
+18	,	PUNCT , ,
+19	With	ADP IN with
+20	al	DET PDT all [A,B,C] | DET DT all [D]  <-- differ
+21	thy	PRON PRP$ thy
+22	hert	NOUN NN heart
+23	,	PUNCT , ,
+24	with	ADP IN with
+25	al	DET PDT all [A,B,C] | DET DT all [D]  <-- differ
+26	thy	PRON PRP$ thy
+27	soule	NOUN NN soul
+28	,	PUNCT , ,
+29	&	CCONJ CC and
+30	wt	ADP IN with
+31	al	DET PDT all [A,B,C] | DET DT all [D]  <-- differ
+32	thy	PRON PRP$ thy
+33	strēgth	NOUN NN strength
+34	,	PUNCT , ,
+35	And	CCONJ CC and
+36	thy	PRON PRP$ thy
+37	neighbor	NOUN NN neighbour
+38	as	ADP IN as
+39	thy	PRON PRP$ thy
+40	self	NOUN NN self
+41	.	PUNCT . .
+
+# sentence 204
+# text: Thou must not kill, nor whoredome once commit: to steale abhor, but labour hard, to liue.
+0	Thou	PRON PRP thou
+1	must	AUX MD must
+2	not	PART RB not
+3	kill	VERB VB kill
+4	,	PUNCT , ,
+5	nor	CCONJ CC nor
+6	whoredome	NOUN NN whoredom
+7	once	ADV RB once
+8	commit	VERB VB commit
+9	:	PUNCT : :
+10	to	PART TO to
+11	steale	VERB VB steal
+12	abhor	VERB VB abhor
+13	,	PUNCT , ,
+14	but	CCONJ CC but
+15	labour	VERB VB labour
+16	hard	ADV RB hard
+17	,	PUNCT , ,
+18	to	PART TO to
+19	liue	VERB VB live
+20	.	PUNCT . .
+
+# sentence 205
+# text: Yet thou must not bee so driuen into dispaire, as though at the first assault thy countrey were in hazard of vtter destruction.
+0	Yet	CCONJ CC yet
+1	thou	PRON PRP thou
+2	must	AUX MD must
+3	not	PART RB not
+4	bee	AUX VB be
+5	so	ADV RB so
+6	driuen	VERB VBN drive
+7	into	ADP IN into
+8	dispaire	NOUN NN despair
+9	,	PUNCT , ,
+10	as	SCONJ IN as
+11	though	SCONJ IN though
+12	at	ADP IN at
+13	the	DET DT the
+14	first	ADJ JJ first
+15	assault	NOUN NN assault
+16	thy	PRON PRP$ thy
+17	countrey	NOUN NN country
+18	were	AUX VBD be
+19	in	ADP IN in
+20	hazard	NOUN NN hazard
+21	of	ADP IN of
+22	vtter	ADJ JJ utter
+23	destruction	NOUN NN destruction
+24	.	PUNCT . .
+
+# sentence 211
+# text: And thoughe it be very lytyll and nothynge in comparyson to ye other ymage that is infynyte and without comparison excedynge all thynges create / yet he wyll haue it vnto ye lykenes of his loue sayeng.
+0	And	CCONJ CC and
+1	thoughe	SCONJ IN though
+2	it	PRON PRP it
+3	be	AUX VB be
+4	very	ADV RB very
+5	lytyll	ADJ JJ little
+6	and	CCONJ CC and
+7	nothynge	PRON NN nothing
+8	in	ADP IN in
+9	comparyson	NOUN NN comparison
+10	to	ADP IN to
+11	ye	DET DT the
+12	other	ADJ JJ other
+13	ymage	NOUN NN image
+14	that	PRON WDT that
+15	is	AUX VBZ be
+16	infynyte	ADJ JJ infinite
+17	and	CCONJ CC and
+18	without	ADP IN without
+19	comparison	NOUN NN comparison
+20	excedynge	VERB VBG exceed
+21	all	DET DT all
+22	thynges	NOUN NNS thing
+23	create	ADJ JJ create
+24	/	PUNCT : / [B,C,D] | PUNCT , / [A]  <-- differ
+25	yet	CCONJ CC yet [A,D] | ADV RB yet [B,C]  <-- differ
+26	he	PRON PRP he
+27	wyll	AUX MD will
+28	haue	VERB VB have
+29	it	PRON PRP it
+30	vnto	ADP IN unto
+31	ye	DET DT the
+32	lykenes	NOUN NN likeness
+33	of	ADP IN of
+34	his	PRON PRP$ his
+35	loue	NOUN NN love
+36	sayeng	VERB VBG say
+37	.	PUNCT . .
+
+# sentence 212
+# text: The nature of the word appeareth more euident in those which we cal to fef, feoff, or feoffees, the one be fiduciarii possessores, or fidei cōmissarii, ye other is, dare in fiduciam, or fidei commissum, or more latinely, fidei committere.
+0	The	DET DT the
+1	nature	NOUN NN nature
+2	of	ADP IN of
+3	the	DET DT the
+4	word	NOUN NN word
+5	appeareth	VERB VBZ appear
+6	more	ADV RBR more
+7	euident	ADJ JJ evident
+8	in	ADP IN in
+9	those	PRON DT those [A,B,C] | PRON DT that [D]  <-- differ
+10	which	PRON WDT which
+11	we	PRON PRP we
+12	cal	VERB VBP call
+13	to	PART TO to [A,B,C] | ADP IN to [D]  <-- differ
+14	fef	VERB VB feoff [A,B,C] | NOUN NN fef [D]  <-- differ
+15	,	PUNCT , ,
+16	feoff	NOUN NN feoff [A,D] | VERB VB feoff [B,C]  <-- differ
+17	,	PUNCT , ,
+18	or	CCONJ CC or
+19	feoffees	NOUN NNS feoffee
+20	,	PUNCT , ,
+21	the	DET DT the
+22	one	NOUN NN one
+23	be	AUX VBP be [A,B,C] | VERB VBP be [D]  <-- differ
+24	fiduciarii	X FW fiduciarii
+25	possessores	X FW possessores
+26	,	PUNCT , ,
+27	or	CCONJ CC or
+28	fidei	X FW fidei
+29	cōmissarii	X FW commissarii
+30	,	PUNCT , ,
+31	ye	DET DT the
+32	other	ADJ JJ other [A,B,C] | NOUN NN other [D]  <-- differ
+33	is	AUX VBZ be
+34	,	PUNCT , ,
+35	dare	X FW dare
+36	in	X FW in
+37	fiduciam	X FW fiduciam
+38	,	PUNCT , ,
+39	or	CCONJ CC or
+40	fidei	X FW fidei
+41	commissum	X FW commissum
+42	,	PUNCT , ,
+43	or	CCONJ CC or
+44	more	ADV RBR more
+45	latinely	ADV RB latinely [A,D] | ADV RB latinly [B,C]  <-- differ
+46	,	PUNCT , ,
+47	fidei	X FW fidei
+48	committere	X FW committere
+49	.	PUNCT . .
+
+# sentence 213
+# text: THis Balsame healeth all paynes in yt ioynts, so that ye wash the ioints therwith, and also plaister ye said ioints with a linnen cloth, wet it in the sayd Balsame, this must be done twise a day.
+0	THis	DET DT this
+1	Balsame	NOUN NN balsam
+2	healeth	VERB VBZ heal
+3	all	DET DT all
+4	paynes	NOUN NNS pain
+5	in	ADP IN in
+6	yt	DET DT that [A,C] | DET DT the [B,D]  <-- differ
+7	ioynts	NOUN NNS joint
+8	,	PUNCT , ,
+9	so	ADV RB so
+10	that	SCONJ IN that
+11	ye	PRON PRP you
+12	wash	VERB VBP wash
+13	the	DET DT the
+14	ioints	NOUN NNS joint
+15	therwith	ADV RB therewith
+16	,	PUNCT , ,
+17	and	CCONJ CC and
+18	also	ADV RB also
+19	plaister	VERB VBP plaster [A,C,D] | VERB VB plaster [B]  <-- differ
+20	ye	DET DT the [A,B,C] | PRON PRP you [D]  <-- differ
+21	said	ADJ JJ said
+22	ioints	NOUN NNS joint
+23	with	ADP IN with
+24	a	DET DT a
+25	linnen	NOUN NN linen [A,C,D] | ADJ JJ linen [B]  <-- differ
+26	cloth	NOUN NN cloth
+27	,	PUNCT , ,
+28	wet	VERB VB wet
+29	it	PRON PRP it
+30	in	ADP IN in
+31	the	DET DT the [A,C,D] | DET DT sayd [B]  <-- differ
+32	sayd	ADJ JJ said
+33	Balsame	NOUN NN balsam
+34	,	PUNCT , ,
+35	this	PRON DT this
+36	must	AUX MD must
+37	be	AUX VB be
+38	done	VERB VBN do
+39	twise	ADV RB twice
+40	a	DET DT a
+41	day	NOUN NN day
+42	.	PUNCT . .
+
+# sentence 214
+# text: Intending therfore to ſpeake of Ioſeph, we are to conſider firſt and formoſt what ye Lord by his Prouidence determined ineſpeciallye to make knowne in him.
+0	Intending	VERB VBG intend
+1	therfore	ADV RB therefore
+2	to	PART TO to
+3	ſpeake	VERB VB speak
+4	of	ADP IN of
+5	Ioſeph	PROPN NNP Joseph
+6	,	PUNCT , ,
+7	we	PRON PRP we
+8	are	AUX VBP be [A,C,D] | VERB VBP be [B]  <-- differ
+9	to	PART TO to
+10	conſider	VERB VB consider
+11	firſt	ADV RB first
+12	and	CCONJ CC and
+13	formoſt	ADV RB foremost
+14	what	PRON WP what
+15	ye	DET DT the
+16	Lord	PROPN NNP Lord
+17	by	ADP IN by
+18	his	PRON PRP$ his
+19	Prouidence	NOUN NN providence
+20	determined	VERB VBD determine
+21	ineſpeciallye	ADV RB especially [A,D] | ADV RB inespecially [B,C]  <-- differ
+22	to	PART TO to
+23	make	VERB VB make
+24	knowne	VERB VBN know [A,C] | ADJ JJ known [B,D]  <-- differ
+25	in	ADP IN in
+26	him	PRON PRP he
+27	.	PUNCT . .
+
+# sentence 215
+# text: Of thother ſide, if thei be not trewe, thei muſt be reiected and refuſed: becauſe this, by them or any other like, can not be auoided.
+0	Of	ADP IN of
+1	thother	ADJ JJ other [A,B,C] | DET DT other [D]  <-- differ
+2	ſide	NOUN NN side
+3	,	PUNCT , ,
+4	if	SCONJ IN if
+5	thei	PRON PRP they
+6	be	AUX VB be [A,C] | AUX VBP be [B,D]  <-- differ
+7	not	PART RB not
+8	trewe	ADJ JJ true
+9	,	PUNCT , ,
+10	thei	PRON PRP they
+11	muſt	AUX MD must
+12	be	AUX VB be
+13	reiected	VERB VBN reject
+14	and	CCONJ CC and
+15	refuſed	VERB VBN refuse
+16	:	PUNCT : :
+17	becauſe	SCONJ IN because
+18	this	PRON DT this
+19	,	PUNCT , ,
+20	by	ADP IN by
+21	them	PRON PRP they
+22	or	CCONJ CC or
+23	any	DET DT any
+24	other	ADJ JJ other
+25	like	ADJ JJ like [B,C,D] | NOUN NN like [A]  <-- differ
+26	,	PUNCT , ,
+27	can	AUX MD can
+28	not	PART RB not
+29	be	AUX VB be
+30	auoided	VERB VBN avoid
+31	.	PUNCT . .
+
+# sentence 217
+# text: Whearby, whither it becam more delightſum in chaunge of tunez and armony too the eare: or els in differens of coolerz, kyndez & propertyez too the ey, Ile tell yoo if I can whē I haue better be thought me.
+0	Whearby	ADV WRB whereby
+1	,	PUNCT , ,
+2	whither	SCONJ IN whether [A,B,C] | ADV WRB whither [D]  <-- differ
+3	it	PRON PRP it
+4	becam	VERB VBD become [A,B,C] | AUX VBD become [D]  <-- differ
+5	more	ADV RBR more
+6	delightſum	ADJ JJ delightsome
+7	in	ADP IN in
+8	chaunge	NOUN NN change
+9	of	ADP IN of
+10	tunez	NOUN NNS tune
+11	and	CCONJ CC and
+12	armony	NOUN NN harmony
+13	too	ADP IN to
+14	the	DET DT the
+15	eare	NOUN NN ear
+16	:	PUNCT : :
+17	or	CCONJ CC or
+18	els	ADV RB else
+19	in	ADP IN in
+20	differens	NOUN NN difference
+21	of	ADP IN of
+22	coolerz	NOUN NNS colour
+23	,	PUNCT , ,
+24	kyndez	NOUN NNS kind
+25	&	CCONJ CC and
+26	propertyez	NOUN NNS property
+27	too	ADP IN to
+28	the	DET DT the
+29	ey	NOUN NN eye
+30	,	PUNCT , ,
+31	Ile	AUX MD will
+32	tell	VERB VB tell
+33	yoo	PRON PRP you
+34	if	SCONJ IN if
+35	I	PRON PRP I
+36	can	AUX MD can
+37	whē	ADV WRB when
+38	I	PRON PRP I
+39	haue	AUX VBP have [A,B,C] | VERB VBP have [D]  <-- differ
+40	better	ADV RBR well
+41	be	AUX VB be [C,D] | AUX VBN be [A] | VERB VBN bethink [B]  <-- differ
+42	thought	VERB VBN think [A,C,D] | VERB VBN bethink [B]  <-- differ
+43	me	PRON PRP I
+44	.	PUNCT . .
+
+# sentence 221
+# text: Why some is areable, and some is pasture, And why some is spreint wt floure picture, I counsayle the to musen for a whyle, In the laureat poete virgile.
+0	Why	ADV WRB why
+1	some	PRON DT some
+2	is	AUX VBZ be
+3	areable	ADJ JJ arable [A,B,C] | NOUN NN arable [D]  <-- differ
+4	,	PUNCT , ,
+5	and	CCONJ CC and
+6	some	PRON DT some
+7	is	AUX VBZ be
+8	pasture	NOUN NN pasture
+9	,	PUNCT , ,
+10	And	CCONJ CC and
+11	why	ADV WRB why
+12	some	PRON DT some
+13	is	AUX VBZ be
+14	spreint	VERB VBN sprenge [A,B] | VERB VBN spreng [C] | VERB VBN sprinkle [D]  <-- differ
+15	wt	ADP IN with
+16	floure	NOUN NN flower
+17	picture	NOUN NN picture
+18	,	PUNCT , ,
+19	I	PRON PRP I
+20	counsayle	VERB VBP counsel
+21	the	PRON PRP thou
+22	to	PART TO to
+23	musen	VERB VB muse
+24	for	ADP IN for
+25	a	DET DT a
+26	whyle	NOUN NN while
+27	,	PUNCT , ,
+28	In	ADP IN in
+29	the	DET DT the
+30	laureat	ADJ JJ laureate
+31	poete	NOUN NN poet
+32	virgile	PROPN NNP Virgil
+33	.	PUNCT . .
+
+# sentence 222
+# text: Where yf yt be ſaide / that he mente that off the Pope ouer all churches: althowgh the diſputation be directed againſte the Pope: yet his reaſons are generall / and proue that no man maie vſurpe that tytle.
+0	Where	ADV WRB where
+1	yf	SCONJ IN if
+2	yt	PRON PRP it
+3	be	AUX VB be
+4	ſaide	VERB VBN say
+5	/	PUNCT : / [B,C,D] | PUNCT , / [A]  <-- differ
+6	that	SCONJ IN that
+7	he	PRON PRP he
+8	mente	VERB VBD mean
+9	that	PRON DT that
+10	off	ADP IN of
+11	the	DET DT the
+12	Pope	NOUN NN pope [A,C] | PROPN NNP Pope [B,D]  <-- differ
+13	ouer	ADP IN over
+14	all	DET DT all
+15	churches	NOUN NNS church
+16	:	PUNCT : :
+17	althowgh	SCONJ IN although
+18	the	DET DT the
+19	diſputation	NOUN NN disputation
+20	be	AUX VB be
+21	directed	VERB VBN direct
+22	againſte	ADP IN against
+23	the	DET DT the
+24	Pope	NOUN NN pope [A,C] | PROPN NNP Pope [B,D]  <-- differ
+25	:	PUNCT : :
+26	yet	CCONJ CC yet [A,D] | ADV RB yet [B,C]  <-- differ
+27	his	PRON PRP$ his
+28	reaſons	NOUN NNS reason
+29	are	AUX VBP be
+30	generall	ADJ JJ general
+31	/	PUNCT : / [B,C,D] | PUNCT , / [A]  <-- differ
+32	and	CCONJ CC and
+33	proue	VERB VBP prove
+34	that	SCONJ IN that
+35	no	DET DT no
+36	man	NOUN NN man
+37	maie	AUX MD may
+38	vſurpe	VERB VB usurp
+39	that	DET DT that
+40	tytle	NOUN NN title
+41	.	PUNCT . .
+
+# sentence 223
+# text: But vpon this condictō / quantum permiserit humana fragilitas / yt is to saye / I vowe chastite as farre as mans fraylte will suffer me / and no farther do I vowe.
+0	But	CCONJ CC but
+1	vpon	ADP IN upon
+2	this	DET DT this
+3	condictō	NOUN NN condition
+4	/	PUNCT : / [B,C,D] | PUNCT , / [A]  <-- differ
+5	quantum	X FW quantum
+6	permiserit	X FW permiserit
+7	humana	X FW humana
+8	fragilitas	X FW fragilitas
+9	/	PUNCT : / [B,C,D] | PUNCT , / [A]  <-- differ
+10	yt	PRON DT that [A,C] | PRON PRP it [B,D]  <-- differ
+11	is	AUX VBZ be [A,C,D] | VERB VBZ be [B]  <-- differ
+12	to	PART TO to
+13	saye	VERB VB say
+14	/	PUNCT : / [B,C,D] | PUNCT , / [A]  <-- differ
+15	I	PRON PRP I
+16	vowe	VERB VBP vow
+17	chastite	NOUN NN chastity
+18	as	ADV RB as
+19	farre	ADV RB far
+20	as	SCONJ IN as
+21	mans	NOUN NN man
+22	fraylte	NOUN NN frailty
+23	will	AUX MD will
+24	suffer	VERB VB suffer
+25	me	PRON PRP I
+26	/	PUNCT : / [B,C,D] | PUNCT , / [A]  <-- differ
+27	and	CCONJ CC and
+28	no	ADV RB no [A,B,C] | DET DT no [D]  <-- differ
+29	farther	ADV RBR far [A,B,C] | ADV RB far [D]  <-- differ
+30	do	AUX VBP do
+31	I	PRON PRP I
+32	vowe	VERB VB vow
+33	.	PUNCT . .
+
+# sentence 224
+# text: E To take hys leaue of the belles wt three peales / accordyng to my Lorde of Canterburies laſte peruertiſements.
+0	E	NOUN NN e [A] | INTJ UH eh [B] | PROPN NNP E [C] | X FW e [D]  <-- differ
+1	To	PART TO to
+2	take	VERB VB take
+3	hys	PRON PRP$ his
+4	leaue	NOUN NN leave
+5	of	ADP IN of
+6	the	DET DT the
+7	belles	NOUN NNS bell
+8	wt	ADP IN with
+9	three	NUM CD three
+10	peales	NOUN NNS peal
+11	/	PUNCT : / [B,C,D] | PUNCT , / [A]  <-- differ
+12	accordyng	VERB VBG accord [A,B,C] | ADP IN according [D]  <-- differ
+13	to	ADP IN to
+14	my	PRON PRP$ my
+15	Lorde	PROPN NNP Lord [A,B,D] | NOUN NN lord [C]  <-- differ
+16	of	ADP IN of
+17	Canterburies	PROPN NNP Canterbury
+18	laſte	ADJ JJ last
+19	peruertiſements	NOUN NNS pervertisement [A,B,C] | NOUN NNS perverting [D]  <-- differ
+20	.	PUNCT . .
+
+# sentence 226
+# text: Alas quod the Papistes and well awaie, He was buried in the night, not in the daie, Where were the Papistes that hower?
+0	Alas	INTJ UH alas
+1	quod	VERB VBD quoth
+2	the	DET DT the
+3	Papistes	NOUN NNS papist [A,C] | PROPN NNPS Papist [B,D]  <-- differ
+4	and	CCONJ CC and
+5	well	INTJ UH well [A,B,D] | ADV RB well [C]  <-- differ
+6	awaie	INTJ UH away [A,B,D] | ADV RB away [C]  <-- differ
+7	,	PUNCT , ,
+8	He	PRON PRP he
+9	was	AUX VBD be
+10	buried	VERB VBN bury
+11	in	ADP IN in
+12	the	DET DT the
+13	night	NOUN NN night
+14	,	PUNCT , ,
+15	not	PART RB not
+16	in	ADP IN in
+17	the	DET DT the
+18	daie	NOUN NN day
+19	,	PUNCT , ,
+20	Where	ADV WRB where
+21	were	AUX VBD be
+22	the	DET DT the
+23	Papistes	NOUN NNS papist [A,C] | PROPN NNPS Papist [B,D]  <-- differ
+24	that	DET DT that
+25	hower	NOUN NN hour
+26	?	PUNCT . ?
+
+# sentence 227
+# text: Destroy this temple quod he, and within dayes thrée I shal build it againe, and Iohn saith verely, He meaned of his body the temple omnipotent, Thus to the Iewes parables he spake in obscuritie, But to his disciples he shewed the truth indigent.
+0	Destroy	VERB VB destroy
+1	this	DET DT this
+2	temple	NOUN NN temple
+3	quod	VERB VBD quoth
+4	he	PRON PRP he
+5	,	PUNCT , ,
+6	and	CCONJ CC and
+7	within	ADP IN within
+8	dayes	NOUN NNS day
+9	thrée	NUM CD three
+10	I	PRON PRP I
+11	shal	AUX MD shall
+12	build	VERB VB build
+13	it	PRON PRP it
+14	againe	ADV RB again
+15	,	PUNCT , ,
+16	and	CCONJ CC and
+17	Iohn	PROPN NNP John
+18	saith	VERB VBZ say
+19	verely	ADV RB verily
+20	,	PUNCT , ,
+21	He	PRON PRP he
+22	meaned	VERB VBD mean
+23	of	ADP IN of
+24	his	PRON PRP$ his
+25	body	NOUN NN body
+26	the	DET DT the
+27	temple	NOUN NN temple
+28	omnipotent	ADJ JJ omnipotent
+29	,	PUNCT , ,
+30	Thus	ADV RB thus
+31	to	ADP IN to
+32	the	DET DT the
+33	Iewes	PROPN NNPS Jew
+34	parables	NOUN NNS parable
+35	he	PRON PRP he
+36	spake	VERB VBD speak
+37	in	ADP IN in
+38	obscuritie	NOUN NN obscurity
+39	,	PUNCT , ,
+40	But	CCONJ CC but
+41	to	ADP IN to
+42	his	PRON PRP$ his
+43	disciples	NOUN NNS disciple
+44	he	PRON PRP he
+45	shewed	VERB VBD show
+46	the	DET DT the
+47	truth	NOUN NN truth
+48	indigent	ADJ JJ indigent
+49	.	PUNCT . .
+
+# sentence 228
+# text: The churle felt his hert atwayne For very ſorow, and a ſonder ryue Alas quod he, I may well wepe and playne As a wretch neuer lyke to thryue But to mourne in pouertye all my lyue For of foly, and of wylfulneſſe I haue loſt hoyly all my rycheſſe.
+0	The	DET DT the
+1	churle	NOUN NN churl
+2	felt	VERB VBD feel
+3	his	PRON PRP$ his
+4	hert	NOUN NN heart
+5	atwayne	ADV RB atwain
+6	For	ADP IN for
+7	very	ADJ JJ very
+8	ſorow	NOUN NN sorrow
+9	,	PUNCT , ,
+10	and	CCONJ CC and
+11	a	ADP IN a [A,C] | ADV RB asunder [B] | DET DT a [D]  <-- differ
+12	ſonder	ADV RB sunder [A,C] | ADV RB asunder [B,D]  <-- differ
+13	ryue	VERB VB rive
+14	Alas	INTJ UH alas
+15	quod	VERB VBD quoth
+16	he	PRON PRP he
+17	,	PUNCT , ,
+18	I	PRON PRP I
+19	may	AUX MD may
+20	well	ADV RB well
+21	wepe	VERB VB weep
+22	and	CCONJ CC and
+23	playne	VERB VB plain
+24	As	ADP IN as
+25	a	DET DT a
+26	wretch	NOUN NN wretch
+27	neuer	ADV RB never
+28	lyke	ADJ JJ like
+29	to	PART TO to
+30	thryue	VERB VB thrive
+31	But	CCONJ CC but [B,C] | ADP IN but [A] | ADV RB but [D]  <-- differ
+32	to	PART TO to
+33	mourne	VERB VB mourn
+34	in	ADP IN in
+35	pouertye	NOUN NN poverty
+36	all	DET PDT all
+37	my	PRON PRP$ my
+38	lyue	NOUN NN life
+39	For	SCONJ IN for [A,C] | ADP IN for [B,D]  <-- differ
+40	of	ADP IN of
+41	foly	NOUN NN folly
+42	,	PUNCT , ,
+43	and	CCONJ CC and
+44	of	ADP IN of
+45	wylfulneſſe	NOUN NN wilfulness
+46	I	PRON PRP I
+47	haue	AUX VBP have
+48	loſt	VERB VBN lose
+49	hoyly	ADV RB wholly
+50	all	DET PDT all
+51	my	PRON PRP$ my
+52	rycheſſe	NOUN NN richesse [A,C] | NOUN NN riches [B,D]  <-- differ
+53	.	PUNCT . .
+
+# sentence 229
+# text: I charge yt of my blessing, apeare before me now Oh oh quod he, kepe agayne the sowe, I come as faste as I can, I warrant you, Where is he that hath the sowe to sell?
+0	I	PRON PRP I
+1	charge	VERB VBP charge
+2	yt	PRON PRP thou [A] | PRON PRP thee [B] | PRON DT that [C] | SCONJ IN that [D]  <-- differ
+3	of	ADP IN of
+4	my	PRON PRP$ my
+5	blessing	NOUN NN blessing
+6	,	PUNCT , ,
+7	apeare	VERB VB appear
+8	before	ADP IN before
+9	me	PRON PRP I
+10	now	ADV RB now
+11	Oh	INTJ UH oh
+12	oh	INTJ UH oh
+13	quod	VERB VBD quoth
+14	he	PRON PRP he
+15	,	PUNCT , ,
+16	kepe	VERB VB keep
+17	agayne	ADV RB again
+18	the	DET DT the
+19	sowe	NOUN NN sow
+20	,	PUNCT , ,
+21	I	PRON PRP I
+22	come	VERB VBP come
+23	as	ADV RB as
+24	faste	ADV RB fast
+25	as	SCONJ IN as
+26	I	PRON PRP I
+27	can	AUX MD can
+28	,	PUNCT , ,
+29	I	PRON PRP I
+30	warrant	VERB VBP warrant
+31	you	PRON PRP you
+32	,	PUNCT , ,
+33	Where	ADV WRB where
+34	is	AUX VBZ be [A,B,C] | VERB VBZ be [D]  <-- differ
+35	he	PRON PRP he
+36	that	PRON WDT that
+37	hath	VERB VBZ have
+38	the	DET DT the
+39	sowe	NOUN NN sow
+40	to	PART TO to
+41	sell	VERB VB sell
+42	?	PUNCT . ?

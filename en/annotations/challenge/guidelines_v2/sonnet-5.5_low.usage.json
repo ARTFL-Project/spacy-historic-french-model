@@ -1,0 +1,17 @@
+{
+  "run": "sonnet-5.5_low",
+  "sentences": 39,
+  "annotated": 38,
+  "failures": [
+    [
+      225,
+      "sentence 225: bad labels FW FW 'ergo'"
+    ]
+  ],
+  "prompt_tokens": 118879,
+  "completion_tokens": 26247,
+  "cost": 0.500228,
+  "reasoning_tokens": 0,
+  "requests": 15,
+  "seconds": 67
+}
