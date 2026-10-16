@@ -24,8 +24,7 @@ EWT_TEST = Path("raw/ud/UD_English-EWT/en_ewt-ud-test.conllu")
 PERIODS = ["1500-1600", "1600-1700", "1700-1800", "1800-1900", "1900-2000"]
 DEFAULT_MODELS = {
     "en_core_web_trf": "en_core_web_trf",
-    "roberta-large": "training_space/models_roberta/model-best",
-    "macberth": "training_space/models_macberth/model-best",
+    "historic-english-model": "historic-english-model",
 }
 DATASETS = {"Gold 1": DATA / "gold_1.spacy", "Gold 2": DATA / "gold_2.spacy", "Challenge": DATA / "challenge.spacy",
             "Test 1500-2000": DATA / "test.spacy", **{f"Test {p}": DATA / f"{p}_test.spacy" for p in PERIODS}}
